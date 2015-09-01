@@ -34,7 +34,7 @@ Thesis: *Model for Identifying Cost Savings by Synchronizing the E-4B NAOC Repla
 <br>B.S. in Human Physiology<br/>
 Minor in Aerospace Studies
 
-<a href="#">Go to top</a>
+<small><a href="#">Go to top</a></small>
 
 # <center>Experience<a name="experience"></a></center>
 ***
@@ -117,6 +117,8 @@ time-series analysis and regression, performing constraint-based optimality mode
 <li>Provided quarterly budget and expenditure update briefings to the wing commander.</li>
 </ul>
 
+<small><a href="#">Go to top</a></small>
+
 # <center>Publications<a name="publications"></a></center>
 ***
 <strong>Refereed Journals</strong>
@@ -148,6 +150,8 @@ Boehmke, B.C. (2012). "Use of ANOVA for everyday cost analysts." The Dayton Cost
 Boehmke, B.C. (2011). "Model for identifying cost savings by synchronizing the E-4B NAOC replacement and Presidential Aircraft Recapitalization programs." (Final report AFIT/GCA/ENV/11-J01).
 </ul>
 
+<small><a href="#">Go to top</a></small>
+
 # <center>Presentations<a name="presentations"></a></center>
 ***
 Boehmke, B.C. (2015). "The Infuence of Front-line Activities on Indirect Costs: A Multilevel Modeling Approach." 83<sup>rd</sup> Military Operations Research Symposium, Washington D.C.
@@ -166,10 +170,14 @@ Boehmke, B.C. (2013). "The effect of using semi-variance in safety stock and re-
 
 Boehmke, B.C. (2012). "Model for identifying cost savings by synchronizing the E-4B NAOC replacement and Presidential Aircraft Recapitalization programs." Society of Cost Estimating & Analysis Annual Conference, Orlando, FL.
 
+<small><a href="#">Go to top</a></small>
+
 # <center>Technical Strengths<a name="technical"></a></center>
 ***
 <strong>Computer Languages</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R, LaTex, Markdown, HTML
 <br><strong>Statistics Software</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R, JMP, Crystal Ball, BayesiaLab, Netica, SPSS, @Risk, Solver</br>
+
+<small><a href="#">Go to top</a></small>
 
 # <center>Service<a name="service"></a></center>
 ***
@@ -178,6 +186,10 @@ Chair:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M
 Reviewer:&nbsp;&nbsp;&nbsp;&nbsp; Journal of Cost Analysis and Parametrics
 <br>Organizer:&nbsp;&nbsp;&nbsp;  Air Force UseR Group</br>
 
+<small><a href="#">Go to top</a></small>
+
 # <center>References<a name="references"></a></center>
 ***
 Available upon request
+
+<small><a href="#">Go to top</a></small>
