@@ -76,9 +76,18 @@ adjusting historical costs for engine fuel efficiency, adjusting maintenance cos
 a historical relationship between the predecessor aircraft weight and historical maintenance costs, and
 forecasting new utilization rates; and integrating limited historical data, vendor quotes and subject
 matter expert inputs for green aircraft procurement costs.</li>
+<li>Provided a six week training course on Crystal Ball software which included what-if analyses with
+Monte Carlo simulations, tting distributions, assessing correlations; analyzing historical data with
+time-series analysis and regression, performing constraint-based optimality models, etc.</li>
 </ul> 
 
-
+<p style="text-align:left;"><strong>Revival Property Group, LLC</strong></span><span style="float:right;">October 2007 - June 2009</span>
+<br style="text-align:left;"><em>Operations Manager</em></span><span style="float:right;">Dayton, OH</span>
+<ul> 
+<li>Acquired 75 units valued at approximately $2 Million and includes managing rental income of over $25,000 per month.</li>
+<li>Managed funds totaling over $350,000 for investors and analyzed investment options, executed acquisitions and provided monthly, quarterly and annual reports outlining investment returns, milestones reached, and expected vs. actual costs.</li>
+<li>Created estimates and managed rehab projects ranging from $5,000-$75,000 with three contracting crews</li>
+</ul>
 
 
 
