@@ -161,9 +161,10 @@ Boehmke, B.C. (2012). "Model for identifying cost savings by synchronizing the E
 
 # <center>Service</center>
 ***
-Chair:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multi-criteria Decision Analysis and Cost Management track.  Industrial and Systems Engineering Research Conference (ISERC). 2015.
-<br>Reviewer:&nbsp;&nbsp;&nbsp;&nbsp; Journal of Cost Analysis and Parametrics</br>
-Organizer:&nbsp;&nbsp;&nbsp;  Air Force UseR Group
+Chair:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multi-criteria Decision Analysis and Cost Management track.  Industrial and 
+<br>Systems Engineering Research Conference (ISERC). 2015.</br>
+Reviewer:&nbsp;&nbsp;&nbsp;&nbsp; Journal of Cost Analysis and Parametrics
+<br>Organizer:&nbsp;&nbsp;&nbsp;  Air Force UseR Group</br>
 
 # <center>References</center>
 ***
