@@ -120,3 +120,42 @@ Boehmke, B.C., Johnson, A.L, Weir, J.D., White, E.D. & Gallagher, M.A. (2015).  
 Boehmke, B.C., Johnson, A.L, Weir, J.D., White, E.D. & Gallagher, M.A. (2015).  "A multilevel understanding of Tooth-to-Tail."  *Proceedings of the IIE Industrial and Systems Engineering Research Conference (ISERC).*
 </ul>
 
+<strong>In Preparation</strong>
+<ul>
+Boehmke, B.C., Johnson, A.L, Weir, J.D., White, E.D. & Gallagher, M.A., "Understanding strategic cost analytics across the supply chain."
+Boehmke, B.C. "An enterprise perspective of U.S. Air Force operations and support cost drivers."
+</ul>
+
+<strong>Non-Refereed Research Reports</strong>
+<ul>
+Boehmke, B.C. (2014). "Understanding Business Analytics." AFMC/A9 Technical Report.
+
+Boehmke, B.C. (2012). "Use of ANOVA for everyday cost analysts." The Dayton Coster, 13(1), 10-14.
+
+Boehmke, B.C. (2011). "Model for identifying cost savings by synchronizing the E-4B NAOC replacement and Presidential Aircraft Recapitalization programs." (Final report AFIT/GCA/ENV/11-J01).
+</ul>
+
+# <center>Presentations</center>
+***
+Boehmke, B.C. (2015). "The Infuence of Front-line Activities on Indirect Costs: A Multilevel Modeling Approach." 83rd Military Operations Research Symposium, Washington D.C.
+
+Boehmke, B.C. (2015). "A Multilevel Understanding of Tooth-to-Tail." Institute of Industrial Engineering Annual Conference, Nashville, Tennessee.
+
+Boehmke, B.C. (2015). "Data Processing with dplyr & tidyr." Wright State Univ. Statistics Colloquium, Dayton, OH.
+
+Boehmke, B.C. (2014). "An Assessment of the Analytic Community." WPAFB Annual Analyst Forum, WPAFB, OH.
+
+Boehmke, B.C. (2014). "Strategic Cost Management: A Bayesian Network Perspective." Institute of Industrial Engineering Annual Conference, Montreal, Canada.
+
+Boehmke, B.C. (2013). "Tooth-to-Tail: Linking Air Force's Force Structure to Infrastructure Resource Demands." Military Operations Research Symposium QDR Workshop, Washington, D.C.
+
+Boehmke, B.C. (2013). "The eect of using semi-variance in safety stock and re-order point calculations." Western Decision Sciences Institute Annual Conference, San Diego, CA.
+
+Boehmke, B.C. (2012). "Model for identifying cost savings by synchronizing the E-4B NAOC replacement and Presidential Aircraft Recapitalization programs." Society of Cost Estimating & Analysis Annual Conference, Orlando, FL.
+
+# <center>Technical Strengths</center>
+***
+
+
+
+
