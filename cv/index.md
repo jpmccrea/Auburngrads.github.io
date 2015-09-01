@@ -13,7 +13,10 @@ div {
 <center><small>Education&nbsp;&nbsp;&nbsp;&nbsp;
 Experience&nbsp;&nbsp;&nbsp;&nbsp;
 Publications&nbsp;&nbsp;&nbsp;&nbsp;
-Presentations&nbsp;&nbsp;&nbsp;&nbsp;</small></center>
+Presentations&nbsp;&nbsp;&nbsp;&nbsp;
+Technical Strengths&nbsp;&nbsp;&nbsp;&nbsp;
+Service&nbsp;&nbsp;&nbsp;&nbsp;
+References&nbsp;&nbsp;&nbsp;&nbsp;</small></center>
 
 # <center>Education</center>
 ***
@@ -155,7 +158,7 @@ Boehmke, B.C. (2014). "Strategic Cost Management: A Bayesian Network Perspective
 
 Boehmke, B.C. (2013). "Tooth-to-Tail: Linking Air Force's Force Structure to Infrastructure Resource Demands." Military Operations Research Symposium QDR Workshop, Washington, D.C.
 
-Boehmke, B.C. (2013). "The eect of using semi-variance in safety stock and re-order point calculations." Western Decision Sciences Institute Annual Conference, San Diego, CA.
+Boehmke, B.C. (2013). "The effect of using semi-variance in safety stock and re-order point calculations." Western Decision Sciences Institute Annual Conference, San Diego, CA.
 
 Boehmke, B.C. (2012). "Model for identifying cost savings by synchronizing the E-4B NAOC replacement and Presidential Aircraft Recapitalization programs." Society of Cost Estimating & Analysis Annual Conference, Orlando, FL.
 
@@ -166,8 +169,8 @@ Boehmke, B.C. (2012). "Model for identifying cost savings by synchronizing the E
 
 # <center>Service</center>
 ***
-Chair:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multi-criteria Decision Analysis and Cost Management track.  Industrial and 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Systems Engineering Research Conference (ISERC). 2015.</br>
+Chair:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multi-criteria Decision Analysis and Cost Management track.  Industrial and 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Systems Engineering Research Conference (ISERC). 2015.</br>
 Reviewer:&nbsp;&nbsp;&nbsp;&nbsp; Journal of Cost Analysis and Parametrics
 <br>Organizer:&nbsp;&nbsp;&nbsp;  Air Force UseR Group</br>
 
