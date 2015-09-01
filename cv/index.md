@@ -174,7 +174,7 @@ Boehmke, B.C. (2012). "Model for identifying cost savings by synchronizing the E
 
 # <center>Technical Strengths<a name="technical"></a></center>
 ***
-<strong>Computer Languages</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R, LaTex, Markdown, HTML
+<strong>Computer Languages</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R, Shiny, LaTex, Markdown, HTML
 <br><strong>Statistics Software</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R, JMP, Crystal Ball, BayesiaLab, Netica, SPSS, @Risk, Solver</br>
 
 <small><a href="#">Go to top</a></small>
