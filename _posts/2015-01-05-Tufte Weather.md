@@ -57,7 +57,7 @@ Past <- DAY %>%
         group_by(Year) %>%
         mutate(newDay = seq(1, length(Day))) %>%   # label days as 1:365 (will represent x-axis)         
         ungroup() %>%
-        filter(Temp != -99 & Year != 2014) %>%     # filter out missing data (identified with '-99' value) data
+        filter(Temp != -99 & Year != 2014) %>%     # filter out missing data (identified with '-99' value)
         group_by(newDay) %>%
         mutate(upper = max(Temp), # identify max value for each day
                lower = min(Temp), # identify min value for each day
