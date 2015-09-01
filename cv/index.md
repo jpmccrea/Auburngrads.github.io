@@ -156,18 +156,14 @@ Boehmke, B.C. (2012). "Model for identifying cost savings by synchronizing the E
 
 # <center>Technical Strengths</center>
 ***
-<style>
-div {
-    text-align: left;
-}
-</style>
 <strong>Computer Languages</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R, LaTex, Markdown, HTML
-<br><strong>Statistics Software</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R, JMP, Crystal Ball, BayesiaLab, Netica, SPSS, @Risk, Solver, PrecisionTree</br>
-<strong>Analytic Methodologies</strong>
+<br><strong>Statistics Software</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R, JMP, Crystal Ball, BayesiaLab, Netica, SPSS, @Risk, Solver</br>
 
 # <center>Service</center>
 ***
-
+Chair, Multi-criteria Decision Analysis and Cost Management track.  Industrial and Systems Engineering Research Conference (ISERC). 2015.
+<br>Reviewer: Journal of Cost Analysis and Parametrics</br>
+Organizer:  Air Force UseR Group
 
 # <center>References</center>
 ***
