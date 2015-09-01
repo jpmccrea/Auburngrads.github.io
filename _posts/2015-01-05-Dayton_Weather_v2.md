@@ -5,7 +5,7 @@ title: Tufte Visualization of Dayton Weather
 
 <br>
 
-This report provides insight and explanation behind the code used to produce the following graphic which is formatted to resemble the illustration provided in Edward Tufte's classic book <u>Visual Display of Quantitative Information</u>, 2^nd^ Ed. *(page 30)*.
+This report provides insight and explanation behind the code used to produce the following graphic which is formatted to resemble the illustration provided in Edward Tufte's classic book <u>Visual Display of Quantitative Information</u>, 2<sup>nd</sup> Ed. *(page 30)*.
 
 ![](Dayton_Weather_v2_files/figure-html/unnamed-chunk-1-1.png) 
 
