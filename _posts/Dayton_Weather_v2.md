@@ -1,8 +1,7 @@
-# Dayton’s Weather in 2014
-Brad Boehmke  
-January 2, 2015  
-
-*<font size="1">Disclaimer: I, by no means, consider myself a programmer but, rather, a novice to coding...errrr...hacking to solve my problems.  I do not claim that the code presented below is the "best" code nor the most efficient so I welcome comments and suggestions for improvements but discourage unpleasantries</font>*
+---
+layout: post
+title: Tufte Visualization of Dayton Weather
+---
 
 <br>
 
