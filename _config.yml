@@ -1,5 +1,5 @@
 markdown: redcarpet
-highlighter: null
+pygments: null
 permalink: /:title
 
 url:
