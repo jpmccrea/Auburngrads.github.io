@@ -123,6 +123,7 @@ Boehmke, B.C., Johnson, A.L, Weir, J.D., White, E.D. & Gallagher, M.A. (2015).  
 <strong>In Preparation</strong>
 <ul>
 Boehmke, B.C., Johnson, A.L, Weir, J.D., White, E.D. & Gallagher, M.A., "Understanding strategic cost analytics across the supply chain."
+
 Boehmke, B.C. "An enterprise perspective of U.S. Air Force operations and support cost drivers."
 </ul>
 
@@ -155,7 +156,14 @@ Boehmke, B.C. (2012). "Model for identifying cost savings by synchronizing the E
 
 # <center>Technical Strengths</center>
 ***
+<strong>Computer Languages</strong>&nbsp;&nbsp;&nbsp; R, LaTex, Markdown, HTML
+<strong>Statistics Software</strong>&nbsp;&nbsp;&nbsp;&nbsp; R, JMP, Crystal Ball, BayesiaLab, Netica, SPSS, @Risk, Solver, PrecisionTree
+<strong>Analytic Methodologies</strong>
+
+# <center>Service</center>
+***
 
 
-
-
+# <center>References</center>
+***
+Available upon request
