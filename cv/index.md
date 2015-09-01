@@ -10,7 +10,7 @@ div {
 }
 </style>
 
-<center><small><a href="#education">Education</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<center><small><a href="#education">Education</a>&nbsp;&nbsp;<li>&nbsp;&nbsp;
 <a href="#experience">Experience</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#publications">Publications</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#presentations">Presentations</a>&nbsp;&nbsp;&nbsp;&nbsp;
