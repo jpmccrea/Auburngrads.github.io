@@ -109,7 +109,8 @@ time-series analysis and regression, performing constraint-based optimality mode
 ***
 <strong>Refereed Journals</strong>
 <ul>
-<br>Boehmke, B.C., Johnson, A.L, Weir, J.D., White, E.D. & Gallagher, M.A. (2015).  "Tooth-to-Tail impact analysis: Combining econometric modeling and Bayesian networks to assess support cost consequences due to changes in force structure." *Under Review - Journal of Cost Analysis and Parametrics*</br>
+Boehmke, B.C., Johnson, A.L, Weir, J.D., White, E.D. & Gallagher, M.A. (2015).  "Tooth-to-Tail impact analysis: Combining econometric modeling and Bayesian networks to assess support cost consequences due to changes in force structure." *Under Review - Journal of Cost Analysis and Parametrics*
 Boehmke, B.C., Jackson, R.A., Johnson, A.L, Weir, J.D., White, E.D. & Gallagher, M.A. (2015).  "Effectiveness myopia: Improving the Air Force's 'visual acuity' of performance for installation support activities through the evaluative prism of data envelopment analysis." *Under Review - Military Operations Research*
+Boehmke, B.C., Johnson, A.L, Weir, J.D., White, E.D. & Gallagher, M.A. (2015).  "The influence of operational resources and activities on indirect personnel costs: A multilevel modeling approach." *Under Review - The Engineering Economist*
 </ul>
 
