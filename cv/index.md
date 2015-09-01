@@ -15,7 +15,7 @@ div {
 <a href="#publications">Publications</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
 <a href="#presentations">Presentations</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
 <a href="#technical">Technical Strengths</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
-<a href="#service">Service</a>&nbsp;&nbsp&#9900;;&nbsp;&nbsp;
+<a href="#service">Service</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
 <a href="#references">References</a></small></center>
 
 <br>
