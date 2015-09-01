@@ -10,7 +10,7 @@ div {
 }
 </style>
 
-<center><small>Education&nbsp;&nbsp;&nbsp;&nbsp;
+<center><small><a href="#education">Education</a>&nbsp;&nbsp;&nbsp;&nbsp;
 Experience&nbsp;&nbsp;&nbsp;&nbsp;
 Publications&nbsp;&nbsp;&nbsp;&nbsp;
 Presentations&nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,7 +18,9 @@ Technical Strengths&nbsp;&nbsp;&nbsp;&nbsp;
 Service&nbsp;&nbsp;&nbsp;&nbsp;
 References&nbsp;&nbsp;&nbsp;&nbsp;</small></center>
 
-# <center>Education</center>
+<br>
+
+# <center>Education<a name="education"></a></center>
 ***
 <p style="text-align:left;"><strong>Air Force Institute of Technology</strong></span><span style="float:right;"><em>September 2015</em></span>
 <br>Ph.D. in Logistics<br/>
@@ -170,7 +172,7 @@ Boehmke, B.C. (2012). "Model for identifying cost savings by synchronizing the E
 # <center>Service</center>
 ***
 Chair:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multi-criteria Decision Analysis and Cost Management track.  Industrial and 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Systems Engineering Research Conference (ISERC). 2015.</br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Systems Engineering Research Conference (ISERC). 2015.</br>
 Reviewer:&nbsp;&nbsp;&nbsp;&nbsp; Journal of Cost Analysis and Parametrics
 <br>Organizer:&nbsp;&nbsp;&nbsp;  Air Force UseR Group</br>
 
