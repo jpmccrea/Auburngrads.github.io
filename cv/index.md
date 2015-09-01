@@ -13,4 +13,9 @@ Dissertation: *Grabbing the Air Force by the Tail: Applying Strategic Cost Analy
 <br>M.S. in Cost Analysis<br/>
 Thesis: *Model for Identifying Cost Savings by Synchronizing the E-4B NAOC Replacement and Presidential Aircraft Recapitalization Programs*
 
+<p style="text-align:left;"><strong>North Dakota State University</strong></span><span style="float:right;"><em>August 2003</em></span>
+<br>B.S. in Human Physiology<br/>
+Minor in Aerospace Studies
 
+# <center>Experience</center>
+***
