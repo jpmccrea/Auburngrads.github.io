@@ -10,6 +10,11 @@ div {
 }
 </style>
 
+<center><small>Education&nbsp;&nbsp;&nbsp;&nbsp;
+Experience&nbsp;&nbsp;&nbsp;&nbsp;
+Publications&nbsp;&nbsp;&nbsp;&nbsp;
+Presentations&nbsp;&nbsp;&nbsp;&nbsp;</small></center>
+
 # <center>Education</center>
 ***
 <p style="text-align:left;"><strong>Air Force Institute of Technology</strong></span><span style="float:right;"><em>September 2015</em></span>
@@ -138,7 +143,7 @@ Boehmke, B.C. (2011). "Model for identifying cost savings by synchronizing the E
 
 # <center>Presentations</center>
 ***
-Boehmke, B.C. (2015). "The Infuence of Front-line Activities on Indirect Costs: A Multilevel Modeling Approach." 83rd Military Operations Research Symposium, Washington D.C.
+Boehmke, B.C. (2015). "The Infuence of Front-line Activities on Indirect Costs: A Multilevel Modeling Approach." 83<sup>rd</sup> Military Operations Research Symposium, Washington D.C.
 
 Boehmke, B.C. (2015). "A Multilevel Understanding of Tooth-to-Tail." Institute of Industrial Engineering Annual Conference, Nashville, Tennessee.
 
