@@ -30,6 +30,9 @@ Minor in Aerospace Studies
 <br style="text-align:left;"><em>Operations Research Analyst</em></span><span style="float:right;">WPAFB, OH</span>
 <ul> 
 <li>Established a Data Envelopment Analysis methodology to benchmark installation support activities across the Air Force enterprise. Provides Air Force leadership with the ability to isolate best practices, identify potential cost savings, and establish performance expectations with available resources.</li>
+<li>Applied a novel growth curve clustering approach to identify underlying cost curve behavior across the
+Air Force enterprise. Aides decision-makers to direct their focus, proposals, and policy actions towards
+specific growth curves in the current *Bending the Cost Curve* initiative.</li>
 </ul> 
 
 
