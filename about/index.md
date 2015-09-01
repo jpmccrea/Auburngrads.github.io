@@ -3,6 +3,12 @@ layout: page
 title: null
 ---
 
+<style>
+div {
+    text-align: justify;
+    text-justify: inter-word;
+}
+</style>
 
 # <center>Quick and Dirty</center>
 ***
@@ -12,7 +18,9 @@ Operations researcher by title, data scientist<sup><a href="#fn1" id="ref1">1</a
 
 # <center>Looking for More?</center>
 ***
-I am an Operations Research Analyst at HQ Air Force Materiel Command, Studies and Analyses Division (HQ AFMC/A9) at Wright-Patterson AFB and have performed analytic services to the Air Force via multiple roles since 2003.  I completed my Ph.D. in the Operational Sciences department at the Air Force Institute of Technology (AFIT), which focused on applying advanced analytics to understand and manage indirect cost behavior across the Air Force enterprise.  I received my M.S. in Cost Analytics at AFIT, and attended undergrad at North Dakota State University.
+I'm an analytics enthusiast who enjoys producing high quality, reproducible analytic approaches to real world problems.  I believe in a methodical approach that provides fundamental understanding of the problem through the application of descriptive, predictive, and prescriptive analytic techniques.
+
+Currently, I am an Operations Research Analyst at HQ Air Force Materiel Command, Studies and Analyses Division (HQ AFMC/A9) at Wright-Patterson AFB and have performed analytic services to the Air Force via multiple roles since 2003.  I earned my Ph.D. from the Operational Sciences department at the Air Force Institute of Technology (AFIT), which focused on applying advanced analytics to understand and manage indirect cost behavior across the Air Force enterprise.  I received my M.S. in Cost Analytics at AFIT and attended undergrad at North Dakota State University.
 
 
 
