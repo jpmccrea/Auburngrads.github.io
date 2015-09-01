@@ -10,13 +10,13 @@ div {
 }
 </style>
 
-<center><small><a href="#education">Education</a>&nbsp;&nbsp;&#9900;>&nbsp;&nbsp;
-<a href="#experience">Experience</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#publications">Publications</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#presentations">Presentations</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#technical">Technical Strengths</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#service">Service</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#references">References</a>&nbsp;&nbsp;&nbsp;&nbsp;</small></center>
+<center><small><a href="#education">Education</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
+<a href="#experience">Experience</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
+<a href="#publications">Publications</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
+<a href="#presentations">Presentations</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
+<a href="#technical">Technical Strengths</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
+<a href="#service">Service</a>&nbsp;&nbsp&#9900;;&nbsp;&nbsp;
+<a href="#references">References</a></small></center>
 
 <br>
 
