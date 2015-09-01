@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: null
 ---
 
 # Quick and Dirty
