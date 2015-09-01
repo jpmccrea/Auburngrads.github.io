@@ -57,7 +57,7 @@ Past <- DAY %>%
         group_by(Year) %>%
         mutate(newDay = seq(1, length(Day))) %>%   # label days as 1:365 (will represent x-axis)         
         ungroup() %>%
-        filter(Temp != -99 & Year != 2014) %>%     # filter out missing data (identified with '-99' value) & current year data
+        filter(Temp != -99 & Year != 2014) %>%     # filter out missing data (identified with '-99' value) data
         group_by(newDay) %>%
         mutate(upper = max(Temp), # identify max value for each day
                lower = min(Temp), # identify min value for each day
@@ -286,11 +286,14 @@ We can now add the paragraph under the subtitle that provides a little explanati
 ```r
 p <- p +
         annotate("text", x = 66, y = 93, 
-                 label = "Data represents average daily temperatures. Accessible data dates back to", size=3, colour="gray30") +
+                 label = "Data represents average daily temperatures. Accessible data dates back to", 
+                 size=3, colour="gray30") +
         annotate("text", x = 62, y = 89, 
-                 label = "January 1, 1995. Data for 2014 is only available through December 16.", size=3, colour="gray30") +
+                 label = "January 1, 1995. Data for 2014 is only available through December 16.", 
+                 size=3, colour="gray30") +
         annotate("text", x = 64, y = 85, 
-                 label = "Average temperature for the year was 51.9° making 2014 the 9th coldest", size=3, colour="gray30") +
+                 label = "Average temperature for the year was 51.9° making 2014 the 9th coldest", 
+                 size=3, colour="gray30") +
         annotate("text", x = 18, y = 81, label = "year since 1995", size=3, colour="gray30")
 
 print(p)
