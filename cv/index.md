@@ -3,6 +3,13 @@ layout: page
 title: null
 ---
 
+<style>
+div {
+    text-align: justify;
+    text-justify: inter-word;
+}
+</style>
+
 # <center>Education</center>
 ***
 <p style="text-align:left;"><strong>Air Force Institute of Technology</strong></span><span style="float:right;"><em>September 2015</em></span>
@@ -21,8 +28,8 @@ Minor in Aerospace Studies
 ***
 <p style="text-align:left;"><strong>HQ Air Force Materiel Command, Studies & Analysis</strong></span><span style="float:right;">June 2014 - Present</span>
 <br style="text-align:left;"><em>Operations Research Analyst</em></span><span style="float:right;">WPAFB, OH</span>
-<ul>
-* Established a Data Envelopment Analysis methodology to benchmark installation support activities across the Air Force enterprise. Provides Air Force leadership with the ability to isolate best practices, identify potential cost savings, and establish performance expectations with available resources.
+<ul> 
+<il>Established a Data Envelopment Analysis methodology to benchmark installation support activities across the Air Force enterprise. Provides Air Force leadership with the ability to isolate best practices, identify potential cost savings, and establish performance expectations with available resources.</il>
 </ul> 
 
 
