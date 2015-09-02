@@ -10,8 +10,8 @@ This report provides insight and explanation behind the code used to produce the
 
 <img src="images/unnamed-chunk-1-1.png" alt="Tufte Recreated" width="25%">
 
-<img href="{{ site.url }}" id="logo" title="{{ site.data.brume.name }}"
-             style="background-image: url({{site.baseurl}}/public/images/logo3.png);">
+<img href="{{ site.url }}" id="logo" title="Tufte Recreated"
+             style="background-image: url({{site.baseurl}}/_posts/images/unnamed-chunk-1-1.png);">
 
 
 #### Tufte's Image
