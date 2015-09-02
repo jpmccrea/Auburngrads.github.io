@@ -10,7 +10,8 @@ This report provides insight and explanation behind the code used to produce the
 
 <img src="http://github.com/bradleyboehmke/bradleyboehmke.github.io/_posts/images/unnamed-chunk-1-1.png" alt="Tufte Recreated">
 
-<img href="{{ site.url }}" id="logo" title="{{ site.data.brume.name }}" style="background-image: url({{site.baseurl}}/public/images/logo3.png);">
+<a href="{{ site.url }}" id="logo" title="{{ site.data.brume.name }}" style="background-image: url({{site.baseurl}}/public/images/logo3.png);"></a> 
+
 
 
 
