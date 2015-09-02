@@ -17,14 +17,14 @@ This report provides insight and explanation behind the code used to produce the
 
 <img src="/public/images/tufte/unnamed-chunk-1-1.png" alt="Tufte Recreated" align="middle">
 
-#### Tufte's Image
+### Tufte's Image
 The original illustration in Tufte's book comes from *The New York Times*, January 4, 2004, A15.  Although the original graphic had two parts; the temperature component, as shown in the below image, and then a precipitation compenent, I chose to only focus on the temperature component since I could not locate historical precipitation data. I should also point out that the original graphic was based on daily high and low temperatures, whereas my graphic is based on daily average temperatures.  This is likely the reason for the different "thickness" in the range bands and also the reason why the original graphic uses range bars for the current year temps and my graphic uses lines.  It is my assumption that the original graphics *"Normal Range"*, which is the center dark band, represents the mean high and mean low temps for each day.  Since I only have the daily average temps, my *"Normal Range"* represents the 95% confidence interval around the historical mean daily average temps *(thats right, it's an average of an average...just lovely! But since we're reflecting the same measurement for a single group and, for the most part, all days have the same number of observations our interpretation is not being skewed.)*
 
 
 <img src="/public/images/tufte/tufte_original.JPG" alt="Tufte Original" align="middle">
 
 
-#### <font face="serif">R Packages Utilized</font>
+### <font face="serif">R Packages Utilized</font>
 The following packages were used to develop the visualization.
 
 ```r
@@ -36,7 +36,7 @@ library(tidyr)
 library(ggplot2)
 ```
 
-#### <font face="serif">Getting & Preparing the Data</font>
+### <font face="serif">Getting & Preparing the Data</font>
 The data used was obtained from the University of Dayton's [Average Daily Temperature archive](http://academic.udayton.edu/kissock/http/Weather/) website which contains daily average temperatures for 157 U.S. and 167 international cities with data spanning from January 1, 1995 to present.  Individual text files are provided for each city and the raw data represents month, day, year, and average daily temperature (°F) and looks like:
 
 
@@ -137,10 +137,10 @@ a <- dgr_fmt(seq(-20,100, by=10))
 legend_data <- data.frame(x=seq(175,182),y=rnorm(8,15,2))
 ```
 
-#### <font face="serif">Creating the Visual Graphic</font>
+### <font face="serif">Creating the Visual Graphic</font>
 Now that the data is ready, I can begin developing the illustration.  The important thing to remember is that graphics should be built on layers.  This is important because it helps you to organize your visualization steps and forces you to think about smaller details and where, in the graphic building process, they should be developed.  To explain the logic I'll go through chunks of the development process to illustrate how the layers create their given effects.
 
-##### <u><font face="serif">Step 1</font></u>
+#### <u><font face="serif">Step 1</font></u>
 The first thing I like to do is to create my "canvas".  In this case, the underlying theme is very basic with no borders and custom gridlines.  I say "custom gridlines" for two reasons.  First, the x-axis gridlines intend to separate the months; however, the real x-axis is number of days from 1 to 365.  Since the length of months are irregular *(31 days, 30 days, 28 days, etc)*, we will manually insert x-axis gridlines.  The second reason for custom gridlines is, if you look at Tufte's original illustration, you will notice that the y-axis gridlines lay on top of the data.  This allows the white y-axis gridlines to blend into white space *(reducing ink ratio)* but to show up on top of the data to provide reference points.  Since gridlines in ggplot are always the first layer, we need to remove these gridlines and incorporate our own later in the process.
 
 To begin, I'll remove all basic theme layers.  This includes removing background color; major and minor gridlines; and x & y axis borders, ticks, and titles.  It's important to note that although you may be eager to include `axis.text = element_blank()` to remove the x & y axis labels, this will keep you from displaying any future labels in their place.  So for now, we keep the axis labels in place.
@@ -166,7 +166,7 @@ print(p)
 
 <img src="/public/images/tufte/unnamed-chunk-7-1.png" alt="Tufte Recreated" align="middle">
 
-##### <u><font face="serif">Step 2</font></u>
+#### <u><font face="serif">Step 2</font></u>
 Next, we can add the data that represents the 95% confidence interval around the daily mean temperatures for 1995-2013.
 
 
@@ -180,7 +180,7 @@ print(p)
 
 <img src="/public/images/tufte/unnamed-chunk-8-1.png" alt="Tufte Recreated" align="middle">
 
-##### <u><font face="serif">Step 3</font></u>
+#### <u><font face="serif">Step 3</font></u>
 Here, we can incorporate the current year temperature data. This is also the step in which I incorporate the y-axis border.  As you can see in Tufte's original, the y-axis border appears as dashes; however, in reality it is a solid line that has the y-axis gridlines laying over top of it which creates the dashed effect at the tickmarks of interest
 
 
@@ -194,7 +194,7 @@ print(p)
 
 <img src="/public/images/tufte/unnamed-chunk-9-1.png" alt="Tufte Recreated" align="middle">
 
-##### <u><font face="serif">Step 4</font></u>
+#### <u><font face="serif">Step 4</font></u>
 Now it's time to add the x-axis gridlines.  These gridlines are very discreet and are meant to only provide reference points when necessary.  The only place the viewer needs to reference the degree relationship is within the "band" of data; otherwise, we want the gridlines to blend into the background to keep the ink ratio low.  Another purpose of these gridlines is to create the dashed effect on the custom y-axis gridline.
 
 
@@ -219,7 +219,7 @@ print(p)
 
 <img src="/public/images/tufte/unnamed-chunk-10-1.png" alt="Tufte Recreated" align="middle"> 
 
-##### <u><font face="serif">Step 5</font></u>
+#### <u><font face="serif">Step 5</font></u>
 Now we will start to add the x-axis gridlines.  We add the dotted gridlines to the last day of each month.
 
 
@@ -243,7 +243,7 @@ print(p)
 
 <img src="/public/images/tufte/unnamed-chunk-11-1.png" alt="Tufte Recreated" align="middle">
 
-##### <u><font face="serif">Step 6</font></u>
+#### <u><font face="serif">Step 6</font></u>
 Now it's time to dress up the axis labels.  First, I limit the y-axis to a range of [-20°, 100°].  I then force the breaks to line up with the custom y-axis gridlines at even degrees in multiples of 10.  I assign the labels to the degree formatted variable *("a")* that I created earlier to display the degree symbol.  For the x-axis, I removed the spacing *(it's hard to see but there is padded space added to the original x-axis)* at the edges of the x-axis, identified the breaks to place labels, and then provided the month names as the labels.
 
 Don't be fooled, there was no magical approach to identifying the best breaks for the x-axis.  I started with the day that represented the middle of each month and then moved them around as required to get the month names to appear centered.
@@ -264,7 +264,7 @@ print(p)
 
 <img src="/public/images/tufte/unnamed-chunk-12-1.png" alt="Tufte Recreated" align="middle">
 
-##### <u><font face="serif">Step 7</font></u>
+#### <u><font face="serif">Step 7</font></u>
 At this point we have the basic underlying graphic that is similar to Tufte's temperature plot.  Now it's time to add in the extra comparisons that I wanted to look at; this includes adding in the points that identify the days in which the current year *(2014)* had the record high and low temperature.
 
 
@@ -278,7 +278,7 @@ print(p)
 
 <img src="/public/images/tufte/unnamed-chunk-13-1.png" alt="Tufte Recreated" align="middle">
 
-##### <u><font face="serif">Step 8</font></u>
+#### <u><font face="serif">Step 8</font></u>
 Since all data have been plotted, it's now time to dress up the graphic with the appropriate text.  All the steps that follow involve a lot of trial and error to find the right location and spacing for the text.  So what you are seeing are the final function parameters resulting from several iterations.  We'll start with the title and subtitle.
 
 
@@ -294,7 +294,7 @@ print(p)
 
 <img src="/public/images/tufte/unnamed-chunk-14-1.png" alt="Tufte Recreated" align="middle"> 
 
-##### <u><font face="serif">Step 9</font></u>
+#### <u><font face="serif">Step 9</font></u>
 We can now add the paragraph under the subtitle that provides a little explanation about the data.  I broke this paragraph up into four separate annotations because when you apply `\n` within `annotate()` to create line breaks it will center the text rather than left justify.  There may be a way to left justify...I just couldn't figure it out.  
 
 
@@ -320,7 +320,7 @@ print(p)
 
 <img src="/public/images/tufte/unnamed-chunk-15-1.png" alt="Tufte Recreated" align="middle">
 
-##### <u><font face="serif">Step 10</font></u>
+#### <u><font face="serif">Step 10</font></u>
 Next, we'll create annotations to explain the points representing the days in which record highs or lows were experienced.
 
 
@@ -343,7 +343,7 @@ print(p)
 
 <img src="/public/images/tufte/unnamed-chunk-16-1.png" alt="Tufte Recreated" align="middle"> 
 
-##### <u><font face="serif">Step 11</font></u>        
+#### <u><font face="serif">Step 11</font></u>        
 The final step is to add a legend to explain to the reader the difference between the different data point layers.
 
 
@@ -373,7 +373,7 @@ print(p)
 
 <img src="/public/images/tufte/unnamed-chunk-17-1.png" alt="Tufte Recreated" align="middle">
 
-#### <font face="serif">Conclusion</font>
+### <font face="serif">Conclusion</font>
 The end result is, what I believe, a wonderful looking graphic that compares quite well with the original and, most importantly, tells a good story about last year's weather.  If satisfaction could be measured by "retweets", then Edward Tufte's retweet of this graphic provides me with enough gratification to label it a success.
 
 
