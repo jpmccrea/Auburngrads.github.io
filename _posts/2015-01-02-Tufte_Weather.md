@@ -8,11 +8,7 @@ title: Tufte Visualization of Dayton Weather
 This report provides insight and explanation behind the code used to produce the following graphic which is formatted to resemble the illustration provided in [Edward Tufte](http://www.edwardtufte.com/tufte/)'s classic book [Visual Display of Quantitative Information, 2<sup>nd</sup> Ed.](http://www.amazon.com/The-Visual-Display-Quantitative-Information/dp/0961392142) *(page 30)*.
 
 
-<img src="http://github.com/bradleyboehmke/bradleyboehmke.github.io/_posts/images/unnamed-chunk-1-1.png" alt="Tufte Recreated">
-
-<a href="{{ site.url }}" id="logo" title="{{ site.data.brume.name }}" style="background-image: url({{site.baseurl}}/public/images/logo3.png);"></a> 
-
-
+<img src="images/unnamed-chunk-1-1.png" alt="Tufte Recreated">
 
 
 #### Tufte's Image
