@@ -174,7 +174,7 @@ Boehmke, B.C. (2012). "Model for identifying cost savings by synchronizing the E
 
 <small><a href="#">Go to top</a></small>
 
-# <center>Certification<a name="certifications"></a></center>
+# <center>Certifications<a name="certifications"></a></center>
 ***
 <p style="text-align:left;"><strong>Certified Analytics Professional (CAP®)</strong></span><span style="float:right;"><em>May 2014 - Present</em></span>
 <br>The Institute for Operations Research and the Management Sciences (INFORMS)<br/>
