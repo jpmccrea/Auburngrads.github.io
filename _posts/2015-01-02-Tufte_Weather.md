@@ -317,11 +317,16 @@ Next, we'll create annotations to explain the points representing the days in wh
 ```r
 p <- p +
         annotate("segment", x = 30, xend = 40, y = -5, yend = -10, colour = "blue3") +
-        annotate("text", x = 65, y = -10, label = "We had 35 days that were the", size=3, colour="blue3") +
-        annotate("text", x = 56, y = -14, label = "coldest since 1995", size=3, colour="blue3") +
-        annotate("segment", x = 302, xend = 307, y = 74, yend = 82, colour = "firebrick3") +
-        annotate("text", x = 333, y = 82, label = "We had 19 days that were the", size=3, colour="firebrick3") +
-        annotate("text", x = 324, y = 78, label = "hottest since 1995", size=3, colour="firebrick3")
+        annotate("text", x = 65, y = -10, label = "We had 35 days that were the", size=3, 
+                 colour="blue3") +
+        annotate("text", x = 56, y = -14, label = "coldest since 1995", size=3, 
+                 colour="blue3") +
+        annotate("segment", x = 302, xend = 307, y = 74, yend = 82, 
+                 colour = "firebrick3") +
+        annotate("text", x = 333, y = 82, label = "We had 19 days that were the", size=3, 
+                 colour="firebrick3") +
+        annotate("text", x = 324, y = 78, label = "hottest since 1995", size=3, 
+                 colour="firebrick3")
 
 print(p)
 ```
@@ -334,16 +339,24 @@ The final step is to add a legend to explain to the reader the difference betwee
 
 ```r
 p <- p +
-        annotate("segment", x = 181, xend = 181, y = 5, yend = 25, colour = "wheat2", size=3) +
-        annotate("segment", x = 181, xend = 181, y = 12, yend = 18, colour = "wheat4", size=3) +
+        annotate("segment", x = 181, xend = 181, y = 5, yend = 25, colour = "wheat2", 
+                 size=3) +
+        annotate("segment", x = 181, xend = 181, y = 12, yend = 18, colour = "wheat4", 
+                 size=3) +
         geom_line(data=legend_data, aes(x=x,y=y)) +
-        annotate("segment", x = 183, xend = 185, y = 17.7, yend = 17.7, colour = "wheat4", size=.5) +
-        annotate("segment", x = 183, xend = 185, y = 12.2, yend = 12.2, colour = "wheat4", size=.5) +
-        annotate("segment", x = 185, xend = 185, y = 12.2, yend = 17.7, colour = "wheat4", size=.5) +
-        annotate("text", x = 196, y = 14.75, label = "NORMAL RANGE", size=2, colour="gray30") +
-        annotate("text", x = 162, y = 14.75, label = "2014 TEMPERATURE", size=2, colour="gray30") +
-        annotate("text", x = 193, y = 25, label = "RECORD HIGH", size=2, colour="gray30") +
-        annotate("text", x = 193, y = 5, label = "RECORD LOW", size=2, colour="gray30")
+        annotate("segment", x = 183, xend = 185, y = 17.7, yend = 17.7, colour = "wheat4", 
+                 size=.5) +
+        annotate("segment", x = 183, xend = 185, y = 12.2, yend = 12.2, colour = "wheat4", 
+                 size=.5) +
+        annotate("segment", x = 185, xend = 185, y = 12.2, yend = 17.7, colour = "wheat4", 
+                 size=.5) +
+        annotate("text", x = 196, y = 14.75, label = "NORMAL RANGE", size=2, 
+                 colour = "gray30") +
+        annotate("text", x = 162, y = 14.75, label = "2014 TEMPERATURE", size=2, 
+                 colour = "gray30") +
+        annotate("text", x = 193, y = 25, label = "RECORD HIGH", size=2, 
+                 colour = "gray30") +
+        annotate("text", x = 193, y = 5, label = "RECORD LOW", size=2, colour = "gray30")
 
 print(p)
 ```
