@@ -7,7 +7,7 @@ title: Tufte Visualization of Dayton Weather
 
 This report provides insight and explanation behind the code used to produce the following graphic which is formatted to resemble the illustration provided in [Edward Tufte](http://www.edwardtufte.com/tufte/)'s classic book [Visual Display of Quantitative Information, 2<sup>nd</sup> Ed.](http://www.amazon.com/The-Visual-Display-Quantitative-Information/dp/0961392142) *(page 30)*.
 
-![](Dayton_Weather_v2_files/figure-html/unnamed-chunk-1-1.png) 
+![](unnamed-chunk-1-1.png) 
 
 #### Tufte's Image
 The original illustration in Tufte's book comes from *The New York Times*, January 4, 2004, A15.  Although the original graphic had two parts; the temperature component, as shown in the below image, and then a precipitation compenent, I chose to only focus on the temperature component since I could not locate historical precipitation data. I should also point out that the original graphic was based on daily high and low temperatures, whereas my graphic is based on daily average temperatures.  This is likely the reason for the different "thickness" in the range bands and also the reason why the original graphic uses range bars for the current year temps and my graphic uses lines.  It is my assumption that the original graphics *"Normal Range"*, which is the center dark band, represents the mean high and mean low temps for each day.  Since I only have the daily average temps, my *"Normal Range"* represents the 95% confidence interval around the historical mean daily average temps *(thats right, it's an average of an average...just lovely! But since we're reflecting the same measurement for a single group and, for the most part, all days have the same number of observations our interpretation is not being skewed.)*
