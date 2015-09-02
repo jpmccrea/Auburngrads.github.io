@@ -10,7 +10,7 @@ This report provides insight and explanation behind the code used to produce the
 
 <img src="images/unnamed-chunk-1-1.png" alt="Tufte Recreated" width="25%">
 
-![My helpful screenshot]({{ site.url }}/images/tufte_original.JPG)
+![My helpful screenshot](bradleyboehmke.github.io/images/tufte_original.JPG)
 
 
 #### Tufte's Image
