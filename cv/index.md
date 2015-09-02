@@ -14,6 +14,7 @@ div {
 <a href="#experience">Experience</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
 <a href="#publications">Publications</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
 <a href="#presentations">Presentations</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
+<a href="#certifications">Certifications</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
 <a href="#technical">Technical Strengths</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
 <a href="#service">Service</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
 <a href="#references">References</a></small></center>
@@ -169,6 +170,19 @@ Boehmke, B.C. (2013). "Tooth-to-Tail: Linking Air Force's Force Structure to Inf
 Boehmke, B.C. (2013). "The effect of using semi-variance in safety stock and re-order point calculations." Western Decision Sciences Institute Annual Conference, San Diego, CA.
 
 Boehmke, B.C. (2012). "Model for identifying cost savings by synchronizing the E-4B NAOC replacement and Presidential Aircraft Recapitalization programs." Society of Cost Estimating & Analysis Annual Conference, Orlando, FL.
+
+<small><a href="#">Go to top</a></small>
+
+# <center>Certification<a name="certifications"></a></center>
+***
+<p style="text-align:left;"><strong>Certified Analytics Professional (CAP®)</strong></span><span style="float:right;"><em>May 2014 - Present</em></span>
+<br>The Institute for Operations Research and the Management Sciences (INFORMS)<br/>
+
+<p style="text-align:left;"><strong>Certified Cost Estimator/Analyst (CCE/A)</strong></span><span style="float:right;"><em>November 2011 - Present</em></span>
+<br>International Cost Estimating and Analysis Association (ICEAA)<br/>
+
+<p style="text-align:left;"><strong>Certified Data Scientist</strong></span><span style="float:right;"><em>January 2015 - Present</em></span>
+<br>Johns Hopkins Bloomberg School of Public Health<br/>
 
 <small><a href="#">Go to top</a></small>
 
