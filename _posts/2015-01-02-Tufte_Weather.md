@@ -55,9 +55,9 @@ Past <- DAY %>%
         arrange(Day) %>%
         ungroup() %>%
         group_by(Year) %>%
-        mutate(newDay = seq(1, length(Day))) %>%   # label days as 1:365 (will represent x-axis)         
+        mutate(newDay = seq(1, length(Day))) %>%   # label days as 1:365         
         ungroup() %>%
-        filter(Temp != -99 & Year != 2014) %>%     # filter out missing data (identified with '-99' value)
+        filter(Temp != -99 & Year != 2014) %>%     # filter out missing data
         group_by(newDay) %>%
         mutate(upper = max(Temp), # identify max value for each day
                lower = min(Temp), # identify min value for each day
@@ -73,9 +73,9 @@ Present <- DAY %>%
         arrange(Day) %>%
         ungroup() %>%
         group_by(Year) %>%
-        mutate(newDay = seq(1, length(Day))) %>%  # create matching x-axis as historical data
+        mutate(newDay = seq(1, length(Day))) %>%  # create matching x-axis data
         ungroup() %>%
-        filter(Temp != -99 & Year == 2014)  # filter out missing data & select current year data
+        filter(Temp != -99 & Year == 2014)  # filter out missing data
 ```
 
 With the primary data in place, which allows me to match Tufte's illustration closely, I decided that adding one more comparable dimension to our data would be interesting.  We had a harsh winter in 2014 so I was curious as to how many days we had in which the average daily temperature was colder than all previous years.  I figured while assessing this, I might as well compare the current year highs versus historical record highs as well *(record high and lows meaning the highest average daily temp and the lowest average daily temp)*.
@@ -89,21 +89,23 @@ PastLows <- Past %>%
         group_by(newDay) %>%
         summarise(Pastlow = min(Temp)) # identify lowest temp for each day from 1995-2013
 
-# create dataframe that identifies the days in 2014 in which the temps were lower than all previous 19 years
+# create dataframe that identifies the days in 2014 in which the temps were lower than all
+# previous 19 years
 PresentLows <- Present %>%
         left_join(PastLows) %>%  # merge historical lows to current year low data
-        mutate(record = ifelse(Temp<Pastlow, "Y", "N")) %>% # identifies if current year was record low
+        mutate(record = ifelse(Temp < Pastlow, "Y", "N")) %>% # identify if record low
         filter(record == "Y")  # filter for days that represent current year record lows
 
 # create dataframe that represents the highest temp for each day for the historical data
 PastHighs <- Past %>%
         group_by(newDay) %>%
-        summarise(Pasthigh = max(Temp))  # identify highest temp for each day from 1995-2013
+        summarise(Pasthigh = max(Temp))  # identify highest temp for each day from '95-'13
 
-# create dataframe that identifies the days in 2014 in which the temps were higher than all previous 19 years
+# create dataframe that identifies the days in 2014 in which the temps were higher than 
+# all previous 19 years
 PresentHighs <- Present %>%
         left_join(PastHighs) %>%  # merge historical highs to current year low data
-        mutate(record = ifelse(Temp>Pasthigh, "Y", "N")) %>% # identifies if current year was record high
+        mutate(record = ifelse(Temp>Pasthigh, "Y", "N")) %>% # identifies if record high
         filter(record == "Y")  # filter for days that represent current year record highs
 ```
 
