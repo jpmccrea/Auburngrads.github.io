@@ -11,7 +11,7 @@ This report provides insight and explanation behind the code used to produce the
 <img src="images/unnamed-chunk-1-1.png" alt="Tufte Recreated" width="25%">
 
 
-[](https://www.dropbox.com/s/4h18omle8q6kimx/unnamed-chunk-1-1.png?dl=0)
+[](https://www.dropbox.com/s/4h18omle8q6kimx/unnamed-chunk-1-1.png)
 
 
 
