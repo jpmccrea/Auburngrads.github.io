@@ -164,7 +164,7 @@ p <- ggplot(Past, aes(newDay, Temp)) +
 print(p)
 ```
 
-![](Dayton_Weather_v2_files/figure-html/unnamed-chunk-7-1.png) 
+<img src="/public/images/tufte/unnamed-chunk-7-1.png" alt="Tufte Recreated" align="middle">
 
 ##### <u><font face="serif">Step 2</font></u>
 Next, we can add the data that represents the 95% confidence interval around the daily mean temperatures for 1995-2013.
@@ -178,7 +178,7 @@ p <- p +
 print(p)
 ```
 
-![](Dayton_Weather_v2_files/figure-html/unnamed-chunk-8-1.png) 
+<img src="/public/images/tufte/unnamed-chunk-8-1.png" alt="Tufte Recreated" align="middle">
 
 ##### <u><font face="serif">Step 3</font></u>
 Here, we can incorporate the current year temperature data. This is also the step in which I incorporate the y-axis border.  As you can see in Tufte's original, the y-axis border appears as dashes; however, in reality it is a solid line that has the y-axis gridlines laying over top of it which creates the dashed effect at the tickmarks of interest
@@ -192,7 +192,7 @@ p <- p +
 print(p)
 ```
 
-![](Dayton_Weather_v2_files/figure-html/unnamed-chunk-9-1.png) 
+<img src="/public/images/tufte/unnamed-chunk-9-1.png" alt="Tufte Recreated" align="middle">
 
 ##### <u><font face="serif">Step 4</font></u>
 Now it's time to add the x-axis gridlines.  These gridlines are very discreet and are meant to only provide reference points when necessary.  The only place the viewer needs to reference the degree relationship is within the "band" of data; otherwise, we want the gridlines to blend into the background to keep the ink ratio low.  Another purpose of these gridlines is to create the dashed effect on the custom y-axis gridline.
@@ -217,7 +217,7 @@ p <- p +
 print(p)
 ```
 
-![](Dayton_Weather_v2_files/figure-html/unnamed-chunk-10-1.png) 
+<img src="/public/images/tufte/unnamed-chunk-10-1.png" alt="Tufte Recreated" align="middle"> 
 
 ##### <u><font face="serif">Step 5</font></u>
 Now we will start to add the x-axis gridlines.  We add the dotted gridlines to the last day of each month.
@@ -241,7 +241,7 @@ p <- p +
 print(p)
 ```
 
-![](Dayton_Weather_v2_files/figure-html/unnamed-chunk-11-1.png) 
+<img src="/public/images/tufte/unnamed-chunk-11-1.png" alt="Tufte Recreated" align="middle">
 
 ##### <u><font face="serif">Step 6</font></u>
 Now it's time to dress up the axis labels.  First, I limit the y-axis to a range of [-20°, 100°].  I then force the breaks to line up with the custom y-axis gridlines at even degrees in multiples of 10.  I assign the labels to the degree formatted variable *("a")* that I created earlier to display the degree symbol.  For the x-axis, I removed the spacing *(it's hard to see but there is padded space added to the original x-axis)* at the edges of the x-axis, identified the breaks to place labels, and then provided the month names as the labels.
@@ -262,7 +262,7 @@ p <- p +
 print(p)
 ```
 
-![](Dayton_Weather_v2_files/figure-html/unnamed-chunk-12-1.png) 
+<img src="/public/images/tufte/unnamed-chunk-12-1.png" alt="Tufte Recreated" align="middle">
 
 ##### <u><font face="serif">Step 7</font></u>
 At this point we have the basic underlying graphic that is similar to Tufte's temperature plot.  Now it's time to add in the extra comparisons that I wanted to look at; this includes adding in the points that identify the days in which the current year *(2014)* had the record high and low temperature.
@@ -276,7 +276,7 @@ p <- p +
 print(p)
 ```
 
-![](Dayton_Weather_v2_files/figure-html/unnamed-chunk-13-1.png) 
+<img src="/public/images/tufte/unnamed-chunk-13-1.png" alt="Tufte Recreated" align="middle">
 
 ##### <u><font face="serif">Step 8</font></u>
 Since all data have been plotted, it's now time to dress up the graphic with the appropriate text.  All the steps that follow involve a lot of trial and error to find the right location and spacing for the text.  So what you are seeing are the final function parameters resulting from several iterations.  We'll start with the title and subtitle.
@@ -292,7 +292,7 @@ p <- p +
 print(p)
 ```
 
-![](Dayton_Weather_v2_files/figure-html/unnamed-chunk-14-1.png) 
+<img src="/public/images/tufte/unnamed-chunk-14-1.png" alt="Tufte Recreated" align="middle"> 
 
 ##### <u><font face="serif">Step 9</font></u>
 We can now add the paragraph under the subtitle that provides a little explanation about the data.  I broke this paragraph up into four separate annotations because when you apply `\n` within `annotate()` to create line breaks it will center the text rather than left justify.  There may be a way to left justify...I just couldn't figure it out.  
@@ -318,7 +318,7 @@ p <- p +
 print(p)
 ```
 
-![](Dayton_Weather_v2_files/figure-html/unnamed-chunk-15-1.png) 
+<img src="/public/images/tufte/unnamed-chunk-15-1.png" alt="Tufte Recreated" align="middle">
 
 ##### <u><font face="serif">Step 10</font></u>
 Next, we'll create annotations to explain the points representing the days in which record highs or lows were experienced.
@@ -341,7 +341,7 @@ p <- p +
 print(p)
 ```
 
-![](Dayton_Weather_v2_files/figure-html/unnamed-chunk-16-1.png) 
+<img src="/public/images/tufte/unnamed-chunk-16-1.png" alt="Tufte Recreated" align="middle"> 
 
 ##### <u><font face="serif">Step 11</font></u>        
 The final step is to add a legend to explain to the reader the difference between the different data point layers.
@@ -371,12 +371,12 @@ p <- p +
 print(p)
 ```
 
-![](Dayton_Weather_v2_files/figure-html/unnamed-chunk-17-1.png) 
+<img src="/public/images/tufte/unnamed-chunk-17-1.png" alt="Tufte Recreated" align="middle">
 
 #### <font face="serif">Conclusion</font>
 The end result is, what I believe, a wonderful looking graphic that compares quite well with the original and, most importantly, tells a good story about last year's weather.  If satisfaction could be measured by "retweets", then Edward Tufte's retweet of this graphic provides me with enough gratification to label it a success.
 
-<font size="2">Feel free to connect with me on [Twitter](https://twitter.com/bradleyboehmke) or [LinkedIn](https://www.linkedin.com/pub/brad-boehmke/7/a25/9b0)</font>
+
 
 
 
