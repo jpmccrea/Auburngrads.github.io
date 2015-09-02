@@ -195,7 +195,7 @@ print(p)
 <img src="/public/images/tufte/unnamed-chunk-9-1.png" alt="Tufte Recreated" align="middle">
 
 #### <u><font face="serif">Step 4</font></u>
-Now it's time to add the x-axis gridlines.  These gridlines are very discreet and are meant to only provide reference points when necessary.  The only place the viewer needs to reference the degree relationship is within the "band" of data; otherwise, we want the gridlines to blend into the background to keep the ink ratio low.  Another purpose of these gridlines is to create the dashed effect on the custom y-axis gridline.
+Now it's time to add the y-axis gridlines.  These gridlines are very discreet and are meant to only provide reference points when necessary.  The only place the viewer needs to reference the degree relationship is within the "band" of data; otherwise, we want the gridlines to blend into the background to keep the ink ratio low.  Another purpose of these gridlines is to create the dashed effect on the custom y-axis gridline.
 
 
 ```r
