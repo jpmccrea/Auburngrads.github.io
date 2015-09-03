@@ -377,7 +377,7 @@ print(p)
 The end result is, what I believe, a wonderful looking graphic that compares quite well with the original and, most importantly, tells a good story about last year's weather.  If satisfaction could be measured by "retweets", then Edward Tufte's retweet of this graphic provides me with enough gratification to label it a success.
 
 
-
+<small><a href="#">Go to top</a></small>
 
 
 
