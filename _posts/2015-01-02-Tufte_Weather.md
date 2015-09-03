@@ -351,8 +351,7 @@ The final step is to add a legend to explain to the reader the difference betwee
 
 ```r
 p <- p +
-        annotate("segment", x = 181, xend = 181, y = 5, yend = 25, colour = "wheat2", 
-                 size=3) +
+        annotate("segment", x = 181, xend = 181, y = 5, yend = 25, colour = "wheat2", size=3) +
         annotate("segment", x = 181, xend = 181, y = 12, yend = 18, colour = "wheat4", 
                  size=3) +
         geom_line(data=legend_data, aes(x=x,y=y)) +
