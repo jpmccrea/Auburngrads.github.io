@@ -3,7 +3,6 @@ layout: post
 title: Tufte Visualization of Dayton Weather
 ---
 
-<link rel="stylesheet" href="/css/syntax.scss">
 
 <style>
 div {
