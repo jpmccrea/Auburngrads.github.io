@@ -56,7 +56,7 @@ Hadley Wickham's paper on [Tidy Data](http://vita.had.co.nz/papers/tidy-data.htm
 
 #### <u>Packages Utilized</u>
 
-```{r, echo=TRUE, message=FALSE}
+```r
 library(dplyr)
 library(tidyr)
 ```
