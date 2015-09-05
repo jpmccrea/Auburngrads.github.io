@@ -10,7 +10,7 @@ div {
 }
 </style>
 
-
+<br><br>
 ## <center>Introduction</center>
 ---
 
@@ -24,7 +24,7 @@ Analysts tend to follow 4 fundamental processes to turn data into understanding,
 
 This tutorial will focus on **<u>data manipulation</u>**
 
-<br><br>
+<br>
 
 ### <u>Data Manipulation</u>
 
@@ -42,7 +42,7 @@ Hadley Wickham's paper on [Tidy Data](http://vita.had.co.nz/papers/tidy-data.htm
 <img src="TidyData.png", height="300px", width="800px" />
 
 <br>
-<br>
+
 
 ### <u>Why Use tidyr & dplyr</u>
 - Although many fundamental data processing functions exist in R, they have been a bit convoluted to date and have lacked consistent coding and the ability to easily *flow* together &#8594; leads to difficult-to-read nested functions and/or *choppy* code.
@@ -56,3 +56,37 @@ Hadley Wickham's paper on [Tidy Data](http://vita.had.co.nz/papers/tidy-data.htm
 
 #### <u>Packages Utilized</u>
 
+```{r, echo=TRUE, message=FALSE}
+library(dplyr)
+library(tidyr)
+```
+
+**<u>tidyr</u> and <u>dplyr</u> packages provide fundamental functions for <u>Cleaning, Processing, & Manipulating Data</u>**
+
+* tidyr
+    + <a href="#gather">`gather()`</a>
+    + <a href="#spread">`spread()`</a>
+    + <a href="#separate">`separate()`</a>
+    + <a href="#unite">`unite()`</a>
+* dplyr
+    + <a href="#select">`select()`</a>
+    + <a href="#filter">`filter()`</a>
+    + <a href="#group">`group_by()`</a>
+    + <a href="#summarise">`summarise()`</a>
+    + <a href="#arrange">`arrange()`</a>
+    + <a href="#join">`join()`</a>
+    + <a href="#mutate">`mutate()`</a>
+
+<br>
+
+<a href="#">Go to top</a>
+
+<br>
+
+
+## <center>%>% Operator</center>
+---
+
+Although not required, the tidyr and dplyr packages make use of the pipe operator `%>%` developed by [Stefan Milton Bache](https://twitter.com/stefanbache) in the R package [magrittr](http://cran.r-project.org/web/packages/magrittr/magrittr.pdf).  Although all the functions in tidyr and dplyr *can be used without the pipe operator*, one of the great conveniences these packages provide is the ability to string multiple functions together by incorporating `%>%`.
+
+This operator will forward a value, or the result of an expression, into the next function call/expression.  For instance a function to filter data can be written as:
