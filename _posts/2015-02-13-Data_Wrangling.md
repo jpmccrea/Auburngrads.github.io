@@ -90,3 +90,11 @@ library(tidyr)
 Although not required, the tidyr and dplyr packages make use of the pipe operator `%>%` developed by [Stefan Milton Bache](https://twitter.com/stefanbache) in the R package [magrittr](http://cran.r-project.org/web/packages/magrittr/magrittr.pdf).  Although all the functions in tidyr and dplyr *can be used without the pipe operator*, one of the great conveniences these packages provide is the ability to string multiple functions together by incorporating `%>%`.
 
 This operator will forward a value, or the result of an expression, into the next function call/expression.  For instance a function to filter data can be written as:
+
+<center>filter(data, variable == *numeric_value*)</center>
+
+<center>*<u>or</u>*</center>
+
+<center>data %>% filter(variable == *numeric_value*)</center>
+
+<br>
