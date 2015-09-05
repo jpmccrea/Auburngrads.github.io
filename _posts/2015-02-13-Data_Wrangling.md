@@ -10,8 +10,10 @@ div {
 }
 </style>
 
-The original post for this tutorial can be accessed at [http://rpubs.com/bradleyboehmke/data_wrangling](http://rpubs.com/bradleyboehmke/data_wrangling)
-
+<br>
+<font size="4">The original post for this tutorial can be accessed at
+[http://rpubs.com/bradleyboehmke/data_wrangling](http://rpubs.com/bradleyboehmke/data_wrangling)
+</font>
 <br>
 
 ---
