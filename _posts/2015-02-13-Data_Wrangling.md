@@ -15,8 +15,8 @@ The original post for this tutorial can be accessed at [http://rpubs.com/bradley
 <br>
 
 ---
-
-## <u>Introduction</u>
+## <center>Introduction</center>
+---
 
 ### <u>Analytic Process</u>
 Analysts tend to follow 4 fundamental processes to turn data into understanding, knowledge & insight:
