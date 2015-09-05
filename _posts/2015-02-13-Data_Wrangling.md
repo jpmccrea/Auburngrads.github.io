@@ -64,18 +64,18 @@ library(tidyr)
 **<u>tidyr</u> and <u>dplyr</u> packages provide fundamental functions for <u>Cleaning, Processing, & Manipulating Data</u>**
 
 * tidyr
-    + <a href="#gather">gather()</a>
-    + <a href="#spread">spread()</a>
-    + <a href="#separate">separate()</a>
-    + <a href="#unite">unite()</a>
+    + <a href="#gather">**`gather()`**</a>
+    + <a href="#spread">**`spread()`**</a>
+    + <a href="#separate">**`separate()`**</a>
+    + <a href="#unite">**`unite()`**</a>
 * dplyr
-    + <a href="#select">*`select()`*</b></a>
-    + <a href="#filter">*`filter()`*</a>
-    + <a href="#group">*`group_by()`*</a>
-    + <a href="#summarise">*`summarise()`*</a>
-    + <a href="#arrange">*`arrange()`*</a>
-    + <a href="#join">*`join()`*</a>
-    + <a href="#mutate">*`mutate()`*</a>
+    + <a href="#select">**`select()`**</b></a>
+    + <a href="#filter">**`filter()`**</a>
+    + <a href="#group">**`group_by()`**</a>
+    + <a href="#summarise">**`summarise()`**</a>
+    + <a href="#arrange">**`arrange()`**</a>
+    + <a href="#join">**`join()`**</a>
+    + <a href="#mutate">**`mutate()`**</a>
 
 <br>
 
