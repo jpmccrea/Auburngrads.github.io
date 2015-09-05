@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Processing with dplyr & tidyr
+title: Data Processing with dplyr & tidyr<sup><a href="#fn1" id="ref1">1</a></sup>
 ---
 
 <style>
