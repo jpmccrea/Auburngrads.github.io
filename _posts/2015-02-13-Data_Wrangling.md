@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Processing with dplyr & tidyr<sup><a href="#fn1" id="ref1">1</a></sup>
+title: Data Processing with dplyr & tidyr
 ---
 
 <style>
@@ -10,10 +10,6 @@ div {
 }
 </style>
 
-<br>
-<font size="4">The original post for this tutorial was published at [http://rpubs.com/bradleyboehmke/data_wrangling](http://rpubs.com/bradleyboehmke/data_wrangling)
-</font>
-<br>
 
 ## <center>Introduction</center>
 ---
@@ -48,5 +44,15 @@ Hadley Wickham's paper on [Tidy Data](http://vita.had.co.nz/papers/tidy-data.htm
 <br>
 <br>
 
+### <u>Why Use tidyr & dplyr</u>
+- Although many fundamental data processing functions exist in R, they have been a bit convoluted to date and have lacked consistent coding and the ability to easily *flow* together &#8594; leads to difficult-to-read nested functions and/or *choppy* code.
+- [R Studio](http://www.rstudio.com/) is driving a lot of new packages to collate data management tasks and better integrate them with other analysis activities &#8594; led by [Hadley Wickham](https://twitter.com/hadleywickham) & the R Studio [team](http://www.rstudio.com/about/) &#8594; [Garrett Grolemund](https://twitter.com/StatGarrett), [Winston Chang](https://twitter.com/winston_chang), [Yihui Xie](https://twitter.com/xieyihui) among others.
+- As a result, a lot of data processing tasks are becoming packaged in more cohesive and consistent ways &#8594; leads to:
+    - More efficient code
+    - Easier to remember syntax
+    - Easier to read syntax
 
+<br>
+
+#### <u>Packages Utilized</u>
 
