@@ -28,7 +28,7 @@ This tutorial will focus on **<u>data manipulation</u>**
 
 ### <u>Data Manipulation</u>
 
-> It is often said that 80% of data analysis is spent on the process of cleaning and preparing the data. (Dasu and Johnson, 2003)
+> *It is often said that 80% of data analysis is spent on the process of cleaning and preparing the data.* (Dasu and Johnson, 2003)
 
 Well structured data serves two purposes:
 
@@ -69,13 +69,13 @@ library(tidyr)
     + <a href="#separate">separate()</a>
     + <a href="#unite">unite()</a>
 * dplyr
-    + <a href="#select"><b>`select()`</b></a>
-    + <a href="#filter">`filter()`</a>
-    + <a href="#group">`group_by()`</a>
-    + <a href="#summarise">`summarise()`</a>
-    + <a href="#arrange">`arrange()`</a>
-    + <a href="#join">`join()`</a>
-    + <a href="#mutate">`mutate()`</a>
+    + <a href="#select">*`select()`*</b></a>
+    + <a href="#filter">*`filter()`*</a>
+    + <a href="#group">*`group_by()`*</a>
+    + <a href="#summarise">*`summarise()`*</a>
+    + <a href="#arrange">*`arrange()`*</a>
+    + <a href="#join">*`join()`*</a>
+    + <a href="#mutate">*`mutate()`*</a>
 
 <br>
 
