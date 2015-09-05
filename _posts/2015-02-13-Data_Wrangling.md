@@ -69,7 +69,7 @@ library(tidyr)
     + <a href="#separate">separate()</a>
     + <a href="#unite">unite()</a>
 * dplyr
-    + <a href="#select">`select()`</a>
+    + <a href="#select"><b>`select()`</b></a>
     + <a href="#filter">`filter()`</a>
     + <a href="#group">`group_by()`</a>
     + <a href="#summarise">`summarise()`</a>
