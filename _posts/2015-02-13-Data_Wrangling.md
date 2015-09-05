@@ -11,12 +11,10 @@ div {
 </style>
 
 <br>
-<font size="4">The original post for this tutorial can be accessed at
-[http://rpubs.com/bradleyboehmke/data_wrangling](http://rpubs.com/bradleyboehmke/data_wrangling)
+<font size="4">The original post for this tutorial was published at [http://rpubs.com/bradleyboehmke/data_wrangling](http://rpubs.com/bradleyboehmke/data_wrangling)
 </font>
 <br>
 
----
 ## <center>Introduction</center>
 ---
 
