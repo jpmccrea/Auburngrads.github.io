@@ -139,7 +139,17 @@ Both functions complete the same task and the benefit of using `%>%` is not evid
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arrange(desc(Total))
 ```
 
+As your function tasks get longer the `%>%` operator becomes more efficient *<u>and</u>* makes your code more legible.  In addition, although not covered in this tutorial, the `%>%` operator allows you to flow from data manipulation tasks straight into vizualization functions *(via ggplot and ggvis)* and also into many analytic functions.
 
+To learn more about the `%>%` operator and the magrittr package visit any of the following:
+
+- [http://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html](http://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html)
+- [http://www.r-bloggers.com/simpler-r-coding-with-pipes-the-present-and-future-of-the-magrittr-package/](http://www.r-bloggers.com/simpler-r-coding-with-pipes-the-present-and-future-of-the-magrittr-package/)
+- [http://blog.revolutionanalytics.com/2014/07/magrittr-simplifying-r-code-with-pipes.html](http://blog.revolutionanalytics.com/2014/07/magrittr-simplifying-r-code-with-pipes.html)
+
+<br>
+
+<a href="#">Go to top</a>
 
 
 
