@@ -39,7 +39,7 @@ Hadley Wickham's paper on [Tidy Data](http://vita.had.co.nz/papers/tidy-data.htm
 
 <br>
 
-<img src="TidyData.png", height="300px", width="800px" />
+<img src="/public/images/dataWrangling/TidyData.png" alt="Tidy Data" align="middle">
 
 <br>
 
@@ -169,8 +169,7 @@ There are four fundamental functions of data tidying:
 
 **Complement to:**  <a href="#spread">`spread()`</a>
 
-
-<img src="gather1.png", height="400px", width="600px" />
+<img src="/public/images/dataWrangling/gather1.png" alt="gather() function" align="middle">
 
 
 ```{r, echo=TRUE, eval=FALSE}
