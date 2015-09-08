@@ -77,8 +77,6 @@ library(tidyr)
     + <a href="#join">**`join()`**</a>
     + <a href="#mutate">**`mutate()`**</a>
 
-<br>
-
 <a href="#">Go to top</a>
 
 <br>
@@ -147,8 +145,6 @@ To learn more about the `%>%` operator and the magrittr package visit any of the
 - [http://www.r-bloggers.com/simpler-r-coding-with-pipes-the-present-and-future-of-the-magrittr-package/](http://www.r-bloggers.com/simpler-r-coding-with-pipes-the-present-and-future-of-the-magrittr-package/)
 - [http://blog.revolutionanalytics.com/2014/07/magrittr-simplifying-r-code-with-pipes.html](http://blog.revolutionanalytics.com/2014/07/magrittr-simplifying-r-code-with-pipes.html)
 
-<br>
-
 <a href="#">Go to top</a>
 
 <br>
@@ -159,9 +155,16 @@ To learn more about the `%>%` operator and the magrittr package visit any of the
 
 There are four fundamental functions of data tidying:
 
-* <a href="#gather">`gather()`</a> takes multiple columns, and gathers them into key-value pairs: it makes “wide” data longer
-* <a href="#spread">`spread()`</a> takes two columns (key & value) and spreads in to multiple columns, it makes “long” data wider
-* <a href="#separate">`separate()`</a> splits a single column into multiple columns
-* <a href="#unite">`unite()`</a> combines multiple columns into a single column
+* <a href="#gather">**`gather()`**</a> takes multiple columns, and gathers them into key-value pairs: it makes “wide” data longer
+* <a href="#spread">**`spread()`**</a> takes two columns (key & value) and spreads in to multiple columns, it makes “long” data wider
+* <a href="#separate">**`separate()`**</a> splits a single column into multiple columns
+* <a href="#unite">**`unite()`**</a> combines multiple columns into a single column
 
+<a id="gather"> </a>
 
+### <u>gather( ) function</u>: 
+**Objective:** Reshaping wide format to long format
+
+**Description:** There are times when our data is considered unstacked and a common attribute of concern is spread out across columns.  To reformat the data such that these common attributes are *gathered* together as a single variable, the `gather()` function will take multiple columns and collapse them into key-value pairs, duplicating all other columns as needed.
+
+**Complement to:**  <a href="#spread">`spread()`</a>
