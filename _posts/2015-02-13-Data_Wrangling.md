@@ -151,10 +151,17 @@ To learn more about the `%>%` operator and the magrittr package visit any of the
 
 <a href="#">Go to top</a>
 
-
-
-
-
-
-
 <br>
+
+## <center>tidyr Operations</center>
+
+---
+
+There are four fundamental functions of data tidying:
+
+* <a href="#gather">`gather()`</a> takes multiple columns, and gathers them into key-value pairs: it makes “wide” data longer
+* <a href="#spread">`spread()`</a> takes two columns (key & value) and spreads in to multiple columns, it makes “long” data wider
+* <a href="#separate">`separate()`</a> splits a single column into multiple columns
+* <a href="#unite">`unite()`</a> combines multiple columns into a single column
+
+
