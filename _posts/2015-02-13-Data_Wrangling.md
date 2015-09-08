@@ -56,7 +56,7 @@ library(dplyr)
 library(tidyr)
 ```
 
-**<u>tidyr</u> and <u>dplyr</u> packages provide fundamental functions for <u>Cleaning, Processing, & Manipulating Data</u>**
+> *<u>tidyr</u> and <u>dplyr</u> packages provide fundamental functions for <u>Cleaning, Processing, & Manipulating Data</u>*
 
 * tidyr
     + <a href="#gather">**`gather()`**</a>
