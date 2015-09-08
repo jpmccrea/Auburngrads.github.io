@@ -1171,10 +1171,8 @@ This tutorial simply touches on the basics that these two packages can do. There
 - Hadley Wickhamâs dplyr tutorial at useR! 2014, [Part 2](http://www.r-bloggers.com/hadley-wickhams-dplyr-tutorial-at-user-2014-part-2/)
 - Hadley Wickham's paper on [Tidy Data](http://vita.had.co.nz/papers/tidy-data.html)
 
-<br>
 
 <a href="#">Go to top</a>
 
-<br>
 
 *<font size="2">The original tutorial was posted at [http://rpubs.com/bradleyboehmke/data_wrangling](http://rpubs.com/bradleyboehmke/data_wrangling).  Special thanks to Tom Filloon and Jason Freels for providing constructive comments while developing this tutorial.</font>*
