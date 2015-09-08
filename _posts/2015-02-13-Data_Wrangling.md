@@ -1190,4 +1190,6 @@ This tutorial simply touches on the basics that these two packages can do. There
 
 <br>
 
+*<font size="2">The original tutorial was posted at [http://rpubs.com/bradleyboehmke/data_wrangling](http://rpubs.com/bradleyboehmke/data_wrangling).</font>*
+
 *<font size="2">Special thanks to Tom Filloon and Jason Freels for providing constructive comments while developing this tutorial.</font>*
