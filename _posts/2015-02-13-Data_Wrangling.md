@@ -1166,15 +1166,15 @@ head(perc.of.whole, 8)
 ## 8        3         Ohio 2011 20402582    0.03802460 0.5087437
 ```
 
-<br>
-
 <a href="#">Go to top</a>
 
 <br>
 
+
+## <center>Additional Resources</center>
+
 ---
 
-## <u>Additional Resources</u>
 This tutorial simply touches on the basics that these two packages can do. There are several other resources you can check out to learn more.  In addition, much of what I have learned and, therefore, much of the content in this tutorial is simply a modified regurgitation of the wonderful resources provided by [R Studio](http://www.rstudio.com/), [Hadley Wickham](https://twitter.com/hadleywickham), and [Garrett Grolemund](https://twitter.com/StatGarrett).
 
 - R Studio's [Data wrangling with R and RStudio webinar](http://www.rstudio.com/resources/webinars/)
