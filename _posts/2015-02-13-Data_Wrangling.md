@@ -239,7 +239,6 @@ These all produce the same results:
 Also note that if you do not supply arguments for na.rm or convert values then the defaults are used
 ```
 
-<br>
 
 <a href="#">Go to top</a>
 
@@ -265,12 +264,9 @@ Also note that if you do not supply arguments for na.rm or convert values then t
 ## 9     3.c 2008_Mar          Unknown  William Harrison   XX09person_9
 ```
 
-<br>
-
 In each of these cases, our objective may be to *separate* characters within the variable string. This can be accomplished using the `separate()` function which turns a single character column into multiple columns.
 
 **Complement to:** <a href="#unite">`unite()`</a>
-
 
 ```r
 Function:       separate(data, col, into, sep = " ", remove = TRUE, convert = FALSE)
@@ -303,8 +299,6 @@ We can go back to our **long_DF** dataframe we created above in which way may de
 ## 6     2 2007   Qtr.1      16
 ```
 
-<br>
-
 By applying the `separate()` function we get the following:
 
 ```r
@@ -335,8 +329,6 @@ These produce the same results:
         long_DF %>% separate(Quarter, c("Time_Interval", "Interval_ID"), sep = "\\.")
 ```
 
-<br>
-
 <a href="#">Go to top</a>
 
 <br>
@@ -361,8 +353,6 @@ Arguments:
         sep:            separator to use between merged values
         remove:         if TRUE, remove input column from output data frame
 ```
-
-<br>
 
 **Example**
 
@@ -398,8 +388,6 @@ These produce the same results:
 
 If no spearator is identified, "_" will automatically be used
 ```
-
-<br>
 
 <a href="#">Go to top</a>
 
@@ -455,15 +443,13 @@ head(wide_DF, 24)
 ## 12     3 2009    14     9    31    24
 ```
 
-<br>
-
 <a href="#">Go to top</a>
 
----
-
 <br>
 
-## <u>dplyr Operations</u>
+## <center>dplyr Operations</center>
+
+---
 
 There are seven fundamental functions of data transformation:
 
@@ -480,11 +466,6 @@ There are seven fundamental functions of data transformation:
 For these examples we'll use the following [census data](http://www.census.gov/en.html) which includes the K-12 public school expenditures by state.  This dataframe currently is 50x16 and includes expenditure data for 14 unique years.
 
 Left half of data:
-
-```
-## Warning in left_join_impl(x, y, by$x, by$y): joining factor and character
-## vector, coercing into character vector
-```
 
 ```
 ##   Division      State   X1980    X1990    X2000    X2001    X2002    X2003
@@ -508,7 +489,6 @@ Right half of data:
 ## 6  5666191  5994440  6368289  6579053  7338766  7187267  7429302  7409462
 ```
 
-<br>
 
 <a href="#">Go to top</a>
 
@@ -555,8 +535,6 @@ head(sub.exp)  # for brevity only display first 6 rows
 ## 6        8   Colorado  6579053  7338766  7187267  7429302  7409462
 ```
 
-<br>
-
 We can also apply some of the special functions within `select()`. For instance we can select all variables that start with 'X':
 
 
@@ -588,8 +566,6 @@ You can also de-select variables by using "-" prior to name or function.  The fo
         expenditures %>% select(-X1980:-X2006)
         expenditures %>% select(-starts_with("X"))
 ```
-
-<br>
 
 <a href="#">Go to top</a>
 
@@ -630,7 +606,6 @@ sub.exp %>% filter(Division == 3)
 ## 5        3 Wisconsin  9029660  9366134  9696228  9966244 10333016
 ```
 
-<br>
 
 We can apply multiple logic rules in the `filter()` function such as:
 
@@ -642,7 +617,6 @@ We can apply multiple logic rules in the `filter()` function such as:
 >=  Greater than or equal to     &,|,!   Boolean operators
 ```
 
-<br>
 
 For instance, we can filter for Division 3 and expenditures in 2011 that were greater than $10B.  This results in Indiana, which is in Division 3, being excluded since its expenditures were < $10B *(FYI - the raw census data are reported in units of $1,000)*.
 
@@ -659,7 +633,6 @@ sub.exp %>% filter(Division == 3, X2011 > 10000000)  # Raw census data are in un
 ## 4        3 Wisconsin  9029660  9366134  9696228  9966244 10333016
 ```
 
-<br>
 
 <a href="#">Go to top</a>
 
@@ -683,7 +656,6 @@ Arguments:
 *Use ungroup(x) to remove groups
 ```
 
-<br>
 
 **Example**
 The `group_by()` function is a *silent* function in which no observable manipulation of the data is performed as a result of applying the function.  Rather, the only change you'll notice is, if you print the dataframe you will notice underneath the *Source* information and prior to the actual dataframe, an indicator of what variable the data is grouped by will be provided. The real magic of the `group_by()` function comes when we perform summary statistics which we will cover shortly. 
@@ -708,7 +680,6 @@ head(group.exp)
 ## 6        8   Colorado  6579053  7338766  7187267  7429302  7409462
 ```
 
-<br>
 
 <a href="#">Go to top</a>
 
@@ -732,7 +703,6 @@ Arguments:
 *Developer is from New Zealand...can use "summarise(x)" or "summarize(x)"
 ```
 
-<br>
 
 **Examples**
 
@@ -747,7 +717,6 @@ sub.exp %>% summarise(Mean_2011 = mean(X2011))
 ## 1  10513678
 ```
 
-<br>
 
 Not too bad, lets get some more summary stats
 
@@ -766,7 +735,6 @@ sub.exp %>% summarise(Min = min(X2011, na.rm=TRUE),
 ## 1 1049772 6527404 10513678 1.48619e+14 12190938 57526835 50
 ```
 
-<br>
 
 This information is useful, but being able to compare summary statistics at multiple levels is when you really start to gather some insights.  This is where the `group_by()` function comes in.  First, let's group by *Division* and see how the different regions compared in by 2010 and 2011.
 
@@ -792,8 +760,6 @@ sub.exp %>%
 ## 9        9  15540681  15468173
 ```
 
-<br>
-
 Now we're starting to see some differences pop out.  How about we compare states within a Division?  We can start to apply multiple functions we've learned so far to get the 5 year average for each state within Division 3.
 
 ```r
@@ -816,7 +782,6 @@ sub.exp %>%
 ## 5 Wisconsin  9678256  507461.2
 ```
 
-<br>
 
 <a href="#">Go to top</a>
 
@@ -840,7 +805,6 @@ Arguments:
 *use desc(x) to sort variable in descending order
 ```
 
-<br>
 
 **Examples**
 
@@ -870,8 +834,6 @@ sub.exp %>%
 ## 9        2  32415457  32877923
 ```
 
-<br>
-
 We can also apply an *descending* argument to rank-order from highest to lowest.  The following shows the same data but in descending order by applying `desc()` within the `arrange()` function.
 
 ```r
@@ -896,8 +858,6 @@ sub.exp %>%
 ## 8        4   4672332   4672687
 ## 9        8   3894003   3882159
 ```
-
-<br>
 
 <a href="#">Go to top</a>
 
@@ -925,7 +885,6 @@ Arguments:
                         variables with common names across the two tables.
 ```
 
-<br>
 
 **Example**
 
@@ -941,7 +900,6 @@ Our public education expenditure data represents then-year dollars.  To make any
 ## 33 2012 229.594 1.0000000
 ```
 
-<br>
 
 To join to my expenditure data I obviously need to get my expenditure data in the proper form that allows my to join these two dataframes.  I can apply the following functions to accomplish this:
 
@@ -986,7 +944,6 @@ head(join.exp)
 ## 6        8   Colorado 2007     6579053 207.342 0.9030811
 ```
 
-<br>
 
 To illustrate the other joining methods we can use these two simple dateframes:
 
