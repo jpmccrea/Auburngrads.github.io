@@ -104,7 +104,6 @@ Both functions complete the same task and the benefit of using `%>%` is not evid
 
 &nbsp;&nbsp;<u>Nested Option:</u>
 
-```r
 &nbsp;&nbsp;&nbsp;&nbsp;arrange(<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;summarize(<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;filter(data, variable == *numeric_value*),<br>
@@ -112,7 +111,6 @@ Both functions complete the same task and the benefit of using `%>%` is not evid
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;),<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;desc(Total)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;)
-```
 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<u>or</u>*
@@ -120,11 +118,9 @@ Both functions complete the same task and the benefit of using `%>%` is not evid
 
 &nbsp;&nbsp;<u>Multiple Object Option:</u>
 
-```r
 &nbsp;&nbsp;&nbsp;&nbsp;  a <- filter(data, variable == *numeric_value*)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  b <- summarise(a, Total = sum(variable))<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  c <- arrange(b, desc(Total))<br>
-```
 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<u>or</u>*
@@ -132,12 +128,10 @@ Both functions complete the same task and the benefit of using `%>%` is not evid
 
 &nbsp;&nbsp;<u>%>% Option:</u>
 
-```r
 &nbsp;&nbsp;&nbsp;&nbsp; data %>%<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;filter(variable == "value") %>%<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;summarise(Total = sum(variable)) %>%<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arrange(desc(Total))
-```
 
 As your function tasks get longer the `%>%` operator becomes more efficient *<u>and</u>* makes your code more legible.  In addition, although not covered in this tutorial, the `%>%` operator allows you to flow from data manipulation tasks straight into vizualization functions *(via ggplot and ggvis)* and also into many analytic functions.
 
