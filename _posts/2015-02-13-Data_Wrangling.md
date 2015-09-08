@@ -585,8 +585,6 @@ Arguments:
         ...:            conditions to be met
 ```
 
-<br>
-
 **Examples**
 
 Continuing with our **sub.exp** dataframe which includes only the recent 5 years worth of expenditures, we can filter by *Division*:
