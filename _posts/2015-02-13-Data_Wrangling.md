@@ -920,7 +920,6 @@ head(long.exp)
 ## 6        8   Colorado 2007     6579053
 ```
 
-<br>
 
 I can now apply the `left_join()` function to join the inflation data to the expenditure data.  This aligns the data in both dataframes by the *Year* variable and then joins the remaining inflation data to the expenditure dataframe as new variables.
 
@@ -1055,7 +1054,6 @@ Arguments:
         ...:            Expression(s)
 ```
 
-<br>
 
 **Examples**
 
@@ -1071,8 +1069,6 @@ If we go back to our previous **join.exp** dataframe, remember that we joined in
 ## 5        9 California 2007    57352599 207.342 0.9030811
 ## 6        8   Colorado 2007     6579053 207.342 0.9030811
 ```
-
-<br>
 
 If we wanted to adjust our annual expenditures for inflation we can use `mutate()` to create a new inflation adjusted cost variable which we'll name *Adj_Exp*:
 
@@ -1091,8 +1087,6 @@ head(inflation_adj)
 ## 5        9 California 2007    57352599 207.342 0.9030811 63507696
 ## 6        8   Colorado 2007     6579053 207.342 0.9030811  7285119
 ```
-
-<br>
 
 Lets say we wanted to create a variable that rank-orders state-level expenditures (inflation adjusted) for the year 2010 from the highest level of expenditures to the lowest.  
 
@@ -1115,8 +1109,6 @@ head(rank_exp)
 ## 6        5    Florida 2010    23349314 218.056 0.9497461 24584797    6
 ```
 
-<br>
-
 If you wanted to assess the percent change in cost for a particular state you can use the `lag()` function within the `mutate()` function:
 
 ```r
@@ -1134,7 +1126,6 @@ inflation_adj %>%
 ## 5        3  Ohio 2011    19988921 224.939 0.9797251 20402582 -0.021432441
 ```
 
-<br>
 
 You could also look at what percent of all US expenditures each state made up in 2011.  In this case we use `mutate()` to take each state's inflation adjusted expenditure and divide by the sum of the entire inflation adjusted expenditure column.  We also apply a second function within `mutate()` that provides the cummalative percent in rank-order.  This shows that in 2011, the top 8 states with the highest expenditures represented over 50% of the total U.S. expenditures in K-12 public schools.  *(I remove the non-inflation adjusted Expenditure, Annual & Inflation columns so that the columns don't wrap on the screen view)*
 
@@ -1186,6 +1177,4 @@ This tutorial simply touches on the basics that these two packages can do. There
 
 <br>
 
-*<font size="2">The original tutorial was posted at [http://rpubs.com/bradleyboehmke/data_wrangling](http://rpubs.com/bradleyboehmke/data_wrangling).</font>*
-
-*<font size="2">Special thanks to Tom Filloon and Jason Freels for providing constructive comments while developing this tutorial.</font>*
+*<font size="2">The original tutorial was posted at [http://rpubs.com/bradleyboehmke/data_wrangling](http://rpubs.com/bradleyboehmke/data_wrangling).  Special thanks to Tom Filloon and Jason Freels for providing constructive comments while developing this tutorial.</font>*
