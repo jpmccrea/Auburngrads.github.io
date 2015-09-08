@@ -461,8 +461,6 @@ There are seven fundamental functions of data transformation:
 * <a href="#join">**`join()`**</a> joining separate dataframes
 * <a href="#mutate">**`mutate()`**</a> create new variables
 
-<br>
-
 For these examples we'll use the following [census data](http://www.census.gov/en.html) which includes the K-12 public school expenditures by state.  This dataframe currently is 50x16 and includes expenditure data for 14 unique years.
 
 Left half of data:
