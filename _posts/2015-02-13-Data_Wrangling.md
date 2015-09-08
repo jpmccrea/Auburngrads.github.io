@@ -101,4 +101,44 @@ This operator will forward a value, or the result of an expression, into the nex
 
 Both functions complete the same task and the benefit of using `%>%` is not evident; however, when you desire to perform multiple functions its advantage becomes obvious.  For instance, if we want to filter some data, summarize it, and then order the summarized results we would write it out as:
 
+
+&nbsp;&nbsp;<u>Nested Option:</u>
+
+&nbsp;&nbsp;&nbsp;&nbsp;arrange(<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;summarize(<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;filter(data, variable == *numeric_value*),<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total = sum(variable)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;),<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;desc(Total)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;)
+
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<u>or</u>*
+<br>
+
+&nbsp;&nbsp;<u>Multiple Object Option:</u>
+
+&nbsp;&nbsp;&nbsp;&nbsp;  a <- filter(data, variable == *numeric_value*)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;  b <- summarise(a, Total = sum(variable))<br>
+&nbsp;&nbsp;&nbsp;&nbsp;  c <- arrange(b, desc(Total))<br>
+
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<u>or</u>*
+<br>
+
+&nbsp;&nbsp;<u>%>% Option:</u>
+
+&nbsp;&nbsp;&nbsp;&nbsp; data %>%<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;filter(variable == "value") %>%<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;summarise(Total = sum(variable)) %>%<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arrange(desc(Total))
+
+
+
+
+
+
+
+
+
 <br>
