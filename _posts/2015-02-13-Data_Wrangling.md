@@ -172,7 +172,7 @@ There are four fundamental functions of data tidying:
 <img src="/public/images/dataWrangling/gather1.png" alt="gather() function" align="middle">
 
 
-```{r, echo=TRUE, eval=FALSE}
+```r
 Function:       gather(data, key, value, ..., na.rm = FALSE, convert = FALSE)
 Same as:        data %>% gather(key, value, ..., na.rm = FALSE, convert = FALSE)
 
@@ -182,6 +182,5 @@ Arguments:
         value:          column name representing variable values
         ...:            names of columns to gather (or not gather)
         na.rm:          option to remove observations with missing values (represented by NAs)
-        convert:        if TRUE will automatically convert values to logical, integer, numeric, complex or 
-                        factor as appropriate
+        convert:        if TRUE will automatically convert values to logical, integer, numeric, complex or factor as appropriate
 ```
