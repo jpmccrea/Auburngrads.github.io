@@ -168,3 +168,21 @@ There are four fundamental functions of data tidying:
 **Description:** There are times when our data is considered unstacked and a common attribute of concern is spread out across columns.  To reformat the data such that these common attributes are *gathered* together as a single variable, the `gather()` function will take multiple columns and collapse them into key-value pairs, duplicating all other columns as needed.
 
 **Complement to:**  <a href="#spread">`spread()`</a>
+
+
+<img src="gather1.png", height="400px", width="600px" />
+
+
+```{r, echo=TRUE, eval=FALSE}
+Function:       gather(data, key, value, ..., na.rm = FALSE, convert = FALSE)
+Same as:        data %>% gather(key, value, ..., na.rm = FALSE, convert = FALSE)
+
+Arguments:
+        data:           data frame
+        key:            column name representing new variable
+        value:          column name representing variable values
+        ...:            names of columns to gather (or not gather)
+        na.rm:          option to remove observations with missing values (represented by NAs)
+        convert:        if TRUE will automatically convert values to logical, integer, numeric, complex or 
+                        factor as appropriate
+```
