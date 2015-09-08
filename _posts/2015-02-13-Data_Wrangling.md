@@ -453,13 +453,13 @@ head(wide_DF, 24)
 
 There are seven fundamental functions of data transformation:
 
-* <a href="#select">`select()`</a> selecting variables
-* <a href="#filter">`filter()`</a> provides basic filtering capabilities
-* <a href="#group">`group_by()`</a> groups data by categorical levels
-* <a href="#summarise">`summarise()`</a> summarise data by functions of choice
-* <a href="#arrange">`arrange()`</a> ordering data
-* <a href="#join">`join()`</a> joining separate dataframes
-* <a href="#mutate">`mutate()`</a> create new variables
+* <a href="#select">**`select()`**</a> selecting variables
+* <a href="#filter">**`filter()`**</a> provides basic filtering capabilities
+* <a href="#group">**`group_by()`**</a> groups data by categorical levels
+* <a href="#summarise">**`summarise()`**</a> summarise data by functions of choice
+* <a href="#arrange">**`arrange()`**</a> ordering data
+* <a href="#join">**`join()`**</a> joining separate dataframes
+* <a href="#mutate">**`mutate()`**</a> create new variables
 
 <br>
 
