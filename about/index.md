@@ -12,7 +12,7 @@ div {
 
 # <center>Quick and Dirty</center>
 ***
-Operations researcher by title, data scientist<sup><a href="#fn1" id="ref1">1</a></sup> by self-proclamation.  R addict.  Equal parts social scientist, economist, and hacker.  Inquirer, lifelong learner, and PhD.  Father of two, husband of one.
+Operations researcher by title, data scientist by self-proclamation.  R addict.  Equal parts social scientist, economist, and hacker.  Inquirer, lifelong learner, and PhD.  Father of two, husband of one.
 
 <br>
 
@@ -26,12 +26,3 @@ I earned my Ph.D. from the Operational Sciences department at the Air Force Inst
 
 I am from Minnesota but have lived in North Dakota, Colorado, Iowa, and have been in the Dayton, Ohio area since 2006.  I am married and have two beautiful daughters.
 
-
-
-
-
-
-
-
-
-<sup id="fn1">1. [I use the term *data scientist* in the spirit of John Tukey's ]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
