@@ -16,18 +16,18 @@ div {
   * Why Use tidyr & dplyr
 * %>% Operator
 * tidyr Operations
-  * gather( )
-  * separate( )
-  * unite( )
-  * spread( )
+  * <a href="#gather">gather( )</a>
+  * <a href="#separate">separate( )</a>
+  * <a href="#unite">unite( )</a>
+  * <a href="#spread">spread( )</a>
 * dplyr Operations
-  * select( )
-  * filter( )
-  * group_by( )
-  * summarise( )
-  * arrange( )
-  * join( )
-  * mutate( )
+  * <a href="#select">select( )</a>
+  * <a href="#filter">filter( )</a>
+  * <a href="#group_by">group_by( )</a>
+  * <a href="#summarise">summarise( )</a>
+  * <a href="#arrange">arrange( )</a>
+  * <a href="#join">join( )</a>
+  * <a href="#mutate">mutate( )</a>
 * Additional Resources
 
 <br><br>
