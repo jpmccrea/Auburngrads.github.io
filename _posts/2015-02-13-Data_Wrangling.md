@@ -23,7 +23,7 @@ div {
 * <a href="#dplyr">dplyr Operations</a>
   * <a href="#select">select( )</a>
   * <a href="#filter">filter( )</a>
-  * <a href="#group_by">group_by( )</a>
+  * <a href="#group">group_by( )</a>
   * <a href="#summarise">summarise( )</a>
   * <a href="#arrange">arrange( )</a>
   * <a href="#join">join( )</a>
