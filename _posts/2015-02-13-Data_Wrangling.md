@@ -10,6 +10,8 @@ div {
 }
 </style>
 
+{:toc}
+
 <br><br>
 ## <center>Introduction</center>
 ---
