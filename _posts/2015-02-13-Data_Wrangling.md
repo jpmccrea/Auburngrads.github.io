@@ -10,8 +10,25 @@ div {
 }
 </style>
 
-* TOC
-{:toc}
+* Introduction
+  * Analytic Process
+  * Data Manipulation
+  * Why Use tidyr & dplyr
+* %>% Operator
+* tidyr Operations
+  * gather( )
+  * separate( )
+  * unite( )
+  * spread( )
+* dplyr Operations
+  * select( )
+  * filter( )
+  * group_by( )
+  * summarise( )
+  * arrange( )
+  * join( )
+  * mutate( )
+* Additional Resources
 
 <br><br>
 ## <center>Introduction</center>
