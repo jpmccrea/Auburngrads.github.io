@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Processing with dplyr & tidyr^[footnote that produces an error]
+title: Data Processing with dplyr & tidyr
 ---
 
 <style>
