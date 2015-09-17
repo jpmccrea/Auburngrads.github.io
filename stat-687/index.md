@@ -1,3 +1,8 @@
+---
+layout: page
+title: null
+---
+
 # STAT 687 Math of Reliability I
 
 ## Course Time and Location
