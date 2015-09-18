@@ -1,19 +1,20 @@
 ﻿---
 layout: page
-title: Maj. Jason Freels, Ph. D.
-subtitle: Air Force Institute of Technology
+title: null 
 ---
 
+Air Force Institute of Technology
 Assistant Professor of Systems Engineering
 School of Systems Engineering and Management
 2950 Hobson Way, WPAFB, OH 45433-7765
-937.255.3636 x4676 (work) / 937.430.6619 (cell)
+937.255.3636 x4676 (work)
+937.430.6619       (cell)
 Email: jason.freels@afit.edu
 
  
 Accomplished in planning and executing projects from concept through production, with strong problem-solving skills.  Highly organized and detail oriented, demonstrating accomplishments and expertise in:   
 
-Composites/Bonded Materials  	
+Composites & Bonded Materials  	
 Reliability Engineering	
 Structural Design 	
 
@@ -26,17 +27,17 @@ Team Leadership
 Manufacturing Methods
 
 
-# Professional Experience – United States Air Force
+# Professional Experience - United States Air Force
 
-## F-16 Logistics Management Branch– Ogden Air Logistics Center – Hill AFB, UT  	2001 – 2004	
+## F-16 Logistics Management Branch - Ogden Air Logistics Center - Hill AFB, UT  	2001 - 2004	
 
-- Lead Engineer – Structures & Composites
+- Lead Engineer - Structures & Composites
     - Lead depot engineer supporting over 100 critical items used on 3,900 F-16's at 88 bases worldwide  
     - Responsible for the design and implementation of modifications and repair procedures to reduce maintenance costs, eliminate mission delays and enhance the performance capabilities of the F-16
     - Lead F-16 engineer for Aircraft Battle Damage Repair (ABDR) mission; coordinates training activities, mentors trainees and evaluates battle damage repair procedures in ABDR exercises
     - Personally designed depot repairs resulted in over 100 F-16 wings and major wing structures returned to service—saved more than $8M  
 
-## Non-Destructive Evaluation Branch – AFRL – WPAFB, OH				2006 – 2007   	
+## Non-Destructive Evaluation Branch - AFRL - WPAFB, OH				2006 - 2007   	
 
 - NDE Program Manager
     - Directs R&D efforts and facilitates transition of novel NDE inspection technologies and techniques
@@ -44,16 +45,16 @@ Manufacturing Methods
     - Lead engineer for three separate twelve–member teams charged with solving fleet-wide critical fracture issues at fuselage–wing attachment points for C-5, A-10, and KC-135 aircraft
     - Initiated $1.5M KC-135 research program to baseline fleet fatigue damage.  Results of teardown evaluation enabled a five–year fleet life extension and $2M annual savings in maintenance costs
 
-## Materials and Manufacturing Directorate – AFRL – WPAFB, OH			2007 – 2008
+## Materials and Manufacturing Directorate - AFRL - WPAFB, OH			2007 - 2008
 
 - Military Assistant to the Director
     - Oversees diverse processes for 1,200-person, $500M laboratory facilities to include four GSU's
     - Prepares/directs briefings, visits, and lab tours for senior-level DOD, industry and foreign dignitaries
-    - Directed 1st AFRL Wargame Roadshow--Prioritized 150 research programs and $225M Science and technology budget for OSD Title 10 Wargame
+    - Directed 1st AFRL Wargame Roadshow, prioritized 150 research programs and $225M Science and technology budget for OSD Title 10 Wargame
 
-## 516 Aeronautical Systems Wing – Aeronautical Systems Center – WPAFB, OH 	2008 – 2010	
+## 516 Aeronautical Systems Wing - Aeronautical Systems Center - WPAFB, OH 	2008 - 2010	
 
-- Wing Materials & Process IPT Lead – Collocated AFRL Engineer 
+- Wing Materials & Process IPT Lead - Collocated AFRL Engineer 
     - Wing lead for modernization and technology transition efforts on over 500 mobility aircraft
     - Provides expertise on sustainment requirements for over $44.5B in support systems acquisitions
     - Lead materials engineer in Bagram AB C-17 crash recovery effort, efforts led to the successful completion of aircraft ferry flight to depot 74 days early--saved $220M jet from scrapping
@@ -62,15 +63,15 @@ Manufacturing Methods
   
 # Professional Education 
 
-## AFIT (Wright-Patterson AFB, OH) – PhD Systems Engineering	   		2010 – 2013
+## AFIT (Wright-Patterson AFB, OH) - PhD Systems Engineering	   		2010 - 2013
 - Areas of Concentration: System Reliability, Statistics 
 - Dissertation: Modeling Reliability Growth in Accelerated Stress Testing 
 
-## AFIT (Wright-Patterson AFB, OH) – M.S. Materials Science and Engineering		2004 – 2006
+## AFIT (Wright-Patterson AFB, OH) - M.S. Materials Science and Engineering		2004 - 2006
 - Areas of Concentration: Structural Composite Materials 
 - Thesis: Modeling Fracture in Z-Pinned Composite Laminated using DYNA-3D
 
-## Auburn University (Auburn, Alabama) – B.S. Aerospace Engineering			1996 – 2000
+## Auburn University (Auburn, Alabama) - B.S. Aerospace Engineering			1996 - 2000
  
 # Professional Development & Certifications
 
