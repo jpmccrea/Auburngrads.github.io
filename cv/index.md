@@ -21,7 +21,7 @@ title: Maj Jason K Freels, Ph.D
 
 ****
 
-## Professional Development & Certifications
+## Professional Development and Certifications
 - Air Command and Staff College, Air University, Maxwell AFB, AL
 - Squadron Officer School, Air University, Maxwell AFB, AL
 - Aerospace Basic Course, Air University, Maxwell AFB, AL
@@ -30,7 +30,7 @@ title: Maj Jason K Freels, Ph.D
 - Aircraft Battle Damage Repair, Engineer Course, 649 CLSS, Hill AFB, UT
 - Advanced Composites Engineering Course, USAF Advanced Composites Office, UT
 - Air Force Materiel Command – Supply Chain Management Course, Air University, AL 
-- DAWIA Certifications – SPRDE/Level III; Program Management/Level II; T&E/Level I
+- DAWIA Certifications – SPRDE (Level III); Program Management (Level II); Test and Evaluation (Level I)
 
 ****
 
@@ -43,7 +43,7 @@ title: Maj Jason K Freels, Ph.D
 
 ****
 
-## Awards & Honors
+## Awards and Honors
 - $10,000.00 IDEA award for innovative repair design for F-16 belly door
 - Lead engineer for AFMC's Supply Chain Management Team of the Year (2002)
 - Tech expert for Aeronautical System Center 2009 Team of the Year (Finalist)
@@ -60,4 +60,4 @@ title: Maj Jason K Freels, Ph.D
 - 2950 Hobson Way, WPAFB, OH 45433-7765
 - 937.255.3636 x4676 (work)
 - 937.430.6619 (cell)
-- Email: jason.freels@afit.edu
+- Email: <jason.freels@afit.edu>
