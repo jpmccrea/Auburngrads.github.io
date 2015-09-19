@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae 
+title: null 
 ---
 
 
@@ -20,17 +20,19 @@ title: Curriculum Vitae
 
 ****
 
-<big>Doctor of Philosphy in Systems Engineering (2013)</big><br>__Air Force Institute of Technology__
+<big>Doctor of Philosphy in Systems Engineering <span style="float:right;">_November 2013_</span></big><br>__Air Force Institute of Technology__
 
 - Areas of Concentration: System Reliability, Statistics
 - __Dissertation:__ "Modeling Reliability Growth in Accelerated Stress Testing"
 
-<big>Masters of Science in Materials Science and Engineering (2006)</big><br>__Air Force Institute of Technology__
+<big>Masters of Science in Materials Science and Engineering <span style="float:right;"><em>September 2006</em></span></big><br>__Air Force Institute of Technology__
 
 - Areas of Concentration: Structural Composite Materials
 - __Thesis:__ "Modeling Fracture in Z-Pinned Composite Laminated using DYNA-3D"
 
-<big>Bacherlors of Science in Aerospace Engineering (2000)</big><br>__Auburn University__
+<big>Bacherlors of Science in Aerospace Engineering <span style="float:right;">December 2000</span></big><br>__Auburn University__
+
+<small><a href="#">Go to top</a></small>
 
 ****
 
@@ -66,6 +68,8 @@ title: Curriculum Vitae
 - Led C-17 man-portable air defense system (MANPAD) survivability test program to reduce engine infrared signature by 75%.  Test results enabled a 42% increase in counter-measure effectiveness
 - Led PACAF engine corrosion field evaluation.  Tested and qualified novel engine inlet coating material, resulted in the elimination a 168-hour overhaul
 
+<small><a href="#">Go to top</a></small>
+
 ****
 
 # <center>Professional Development and Certifications<a name="certifications"></a></center>
@@ -84,6 +88,8 @@ title: Curriculum Vitae
 - Member: American Society for Quality
 - Member IEEE Reliability Society
 
+<small><a href="#">Go to top</a></small>
+
 ****
 
 # <center>Publications<a name="publications"></a></center>
@@ -96,6 +102,8 @@ title: Curriculum Vitae
 - H. Kilic, S. R. Soni, R. Patel, and J. K. Freels, "Effect of Z-Fiber Percentage on the Fracture Behavior of DCB Specimens in Mode I," The 14th International Conference on Computational & Experimental Engineering and Sciences, ICCES'07, 3-8 January, 2007, Miami, FL, USA.
 - D. H. Collins, J. K. Freels, A. V. Huzurbazar, R. L. Warr, and B. P. Weaver, "Accelerated Test Methods for Reliability Prediction". Los Alamos National Lab TSC Directorate Science Highlights, 134-135, LA-UR-12-20429 (2012).
 
+<small><a href="#">Go to top</a></small>
+
 ****
 
 # <center>Awards & Honors<a name="awards"></a></center>
@@ -106,6 +114,7 @@ title: Curriculum Vitae
 - Lead engineer for AFMC's Supply Chain Management Team of the Year (2002)
 - Tech expert for Aeronautical System Center 2009 Team of the Year (Finalist)
 
+<small><a href="#">Go to top</a></small>
 
 ****
 
@@ -126,6 +135,8 @@ Accomplished in planning and executing projects from concept through production,
 &#10004; Aircraft Damage Assessment&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &#10004; Manufacturing Methods&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &#10004; Computer Programming
+
+<small><a href="#">Go to top</a></small>
 
 ****
 
