@@ -21,6 +21,19 @@ title: Maj Jason K Freels, Ph.D
 
 ****
 
+## Professional Development and Certifications
+- Air Command and Staff College, Air University, Maxwell AFB, AL
+- Squadron Officer School, Air University, Maxwell AFB, AL
+- Aerospace Basic Course, Air University, Maxwell AFB, AL
+- Aircraft Battle Damage Repair, Technician Course, 649 CLSS, Hill AFB, UT
+- Aircraft Battle Damage Repair, Assessor Course, 649 CLSS, Hill AFB, UT
+- Aircraft Battle Damage Repair, Engineer Course, 649 CLSS, Hill AFB, UT
+- Advanced Composites Engineering Course, USAF Advanced Composites Office, UT
+- Air Force Materiel Command – Supply Chain Management Course, Air University, AL 
+- DAWIA Certifications – SPRDE (Level III); Program Management (Level II); Test and Evaluation (Level I)
+
+****
+
 ### Contact Information
 - 2950 Hobson Way, WPAFB, OH 45433-7765
 - 937.255.3636 x4676 (work)
