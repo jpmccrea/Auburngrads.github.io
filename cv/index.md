@@ -21,6 +21,19 @@ title: Maj Jason K Freels, Ph.D
 
 ****
 
+## Professional Development and Certifications
+- Air Command and Staff College, Air University, Maxwell AFB, AL
+- Squadron Officer School, Air University, Maxwell AFB, AL
+- Aerospace Basic Course, Air University, Maxwell AFB, AL
+- Aircraft Battle Damage Repair, Technician Course, 649 CLSS, Hill AFB, UT
+- Aircraft Battle Damage Repair, Assessor Course, 649 CLSS, Hill AFB, UT
+- Aircraft Battle Damage Repair, Engineer Course, 649 CLSS, Hill AFB, UT
+- Advanced Composites Engineering Course, USAF Advanced Composites Office, UT
+- Air Force Materiel Command – Supply Chain Management Course, Air University, AL
+- DAWIA Certifications – SPRDE (Level III); Program Management (Level II); Test and Evaluation (Level I)
+
+****
+
 ## Publications and Conference Papers
 - D. H. Collins, J. K. Freels, A. V. Huzurbazar, R. L. Warr, and B. P. Weaver (2013), "Accelerated Test Methods for Reliability Prediction", Journal of Quality Technology, 45, No. 3, 244-259.
 - J. K. Freels, J. J. Pignatiello, R. L. Warr, and R. R. Hill (2013), "Bridging the Gap Between Quantitative and Qualitative Accelerated Life Tests", Quality and Reliability Engineering International, to appear.
@@ -41,10 +54,10 @@ title: Maj Jason K Freels, Ph.D
 - American Society for Quality
 - IEEE Reliability Society
 
-
 ****
 
 ### Contact Information
+
 - 2950 Hobson Way, WPAFB, OH 45433-7765
 - 937.255.3636 x4676 (work)
 - 937.430.6619 (cell)
