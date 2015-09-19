@@ -54,7 +54,7 @@ title: Maj Jason K Freels, Ph.D
 - American Society for Quality
 - IEEE Reliability Society
 
-***
+****
 
 ## Contact Information
 - 2950 Hobson Way, WPAFB, OH 45433-7765
