@@ -20,7 +20,7 @@ title: Curriculum Vitae
 
 ****
 
-__Doctor of Philosphy in Systems Engineering__ <font align=right>_2013_</font><br>__Air Force Institute of Technology__
+<big>Doctor of Philosphy in Systems Engineering (2013)</big><br>__Air Force Institute of Technology__
 
 - Areas of Concentration: System Reliability, Statistics
 - __Dissertation:__ "Modeling Reliability Growth in Accelerated Stress Testing"
