@@ -7,17 +7,17 @@ title: Maj Jason K Freels, Ph.D
 
 ****
 
-## Professional Education 
+### Professional Education 
 
-### AFIT (Wright-Patterson AFB, OH)-PhD Systems Engineering (2010-2013)
-- Areas of Concentration: System Reliability, Statistics
-- Dissertation: Modeling Reliability Growth in Accelerated Stress Testing 
+- AFIT (Wright-Patterson AFB, OH)<br>Ph.D Systems Engineering (2010-2013)
+    - Areas of Concentration: System Reliability, Statistics
+    - Dissertation: Modeling Reliability Growth in Accelerated Stress Testing 
 
-### AFIT (Wright-Patterson AFB, OH)-M.S. Materials Science and Engineering (2004-2006)
-- Areas of Concentration: Structural Composite Materials
-- Thesis: Modeling Fracture in Z-Pinned Composite Laminated using DYNA-3D
+- AFIT (Wright-Patterson AFB, OH)<br>M.S. Materials Science and Engineering (2004-2006)
+    - Areas of Concentration: Structural Composite Materials
+    - Thesis: Modeling Fracture in Z-Pinned Composite Laminated using DYNA-3D
 
-### Auburn University (Auburn, Alabama)-B.S. Aerospace Engineering (1996 - 2000)
+- Auburn University (Auburn, Alabama)<br>B.S. Aerospace Engineering (1996 - 2000)
 
 ****
 
@@ -40,6 +40,12 @@ title: Maj Jason K Freels, Ph.D
 - J. K. Freels, J. J. Pignatiello, R. L. Warr, and R. R. Hill (2013), "Maximum Likelihood Estimation for the Poly Weibull Distribution", Reliability Engineering and System Safety, under review.
 - H. Kilic, S. R. Soni, R. Patel, and J. K. Freels, "Effect of Z-Fiber Percentage on the Fracture Behavior of DCB Specimens in Mode I," The 14th International Conference on Computational & Experimental Engineering and Sciences, ICCES'07, 3-8 January, 2007, Miami, FL, USA.
 - D. H. Collins, J. K. Freels, A. V. Huzurbazar, R. L. Warr, and B. P. Weaver, "Accelerated Test Methods for Reliability Prediction". Los Alamos National Lab TSC Directorate Science Highlights, 134-135, LA-UR-12-20429 (2012).
+
+****
+
+## Memberships
+- American Society for Quality
+- IEEE Reliability Society
 
 ### Contact Information
 
