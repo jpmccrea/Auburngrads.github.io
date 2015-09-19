@@ -43,7 +43,12 @@ title: Maj Jason K Freels, Ph.D
 
 ****
 
-## Memberships
+### Awards and Honors
+- $10,000 IDEA award for innovative repair design for F-16 belly door
+- Lead engineer for AFMC's Supply Chain Management Team of the Year (2002)
+- Tech expert for Aeronautical System Center 2009 Team of the Year (Finalist)
+
+### Memberships
 - American Society for Quality
 - IEEE Reliability Society
 
