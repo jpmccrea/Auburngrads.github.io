@@ -12,7 +12,7 @@ title: Curriculum Vitae
 
 
 
-<br>
+****
 
 
 
@@ -20,17 +20,17 @@ title: Curriculum Vitae
 
 ****
 
-### PhD (Systems Engineering) Air Force Institute of Technology - 2010-2013
+### Doctor of Philosphy in Systems Engineering (2013)<br>Air Force Institute of Technology 
 
 - Areas of Concentration: System Reliability, Statistics
 - __Dissertation:__ "Modeling Reliability Growth in Accelerated Stress Testing"
 
-### MS (Materials Science) Air Force Institute of Technology - 2004-2006
+### Masters of Science in Materials Science and Engineering (2006)<br>Air Force Institute of Technology
 
 - Areas of Concentration: Structural Composite Materials
 - __Thesis:__ "Modeling Fracture in Z-Pinned Composite Laminated using DYNA-3D"
 
-__BS (Aerospace Engineering) Auburn University - 1996-2000__
+### Bacherlors of Science in Aerospace Engineering (2000)<br>Auburn University
 
 ****
 
@@ -38,27 +38,27 @@ __BS (Aerospace Engineering) Auburn University - 1996-2000__
 
 ****
 
-### F-16 Lead Structural Engineer - Ogden Air Logistics Center - 2001-2004
+### F-16 Lead Structural Engineer (2001-2004)<br>Ogden Air Logistics Center, Hill AFB, UT
 
 - Lead depot engineer supporting over 100 critical items used on 3,900 F-16's at 88 bases worldwide
 - Responsible for the design and implementation of modifications and repair procedures to reduce maintenance costs, eliminate mission delays and enhance the performance capabilities of the F-16
 - Lead F-16 engineer for Aircraft Battle Damage Repair (ABDR) mission; coordinates training activities, mentors trainees and evaluates battle damage repair procedures in ABDR exercises
 - Personally designed depot repairs resulted in over 100 F-16 wings and major wing structures returned to service-saved more than $8M
 
-### NDE Program Manager - Air Force Research Laboratory - 2006-2007
+### Non-Destructive Evaluation Program Manager (2006-2007)<br>Air Force Research Laboratory, Wright-Patterson AFB, OH
 
 - Directs R & D efforts and facilitates transition of novel non-destructive evaluation (NDE) technologies and techniques
 - Develops broad research plan for inspection and characterization of new aircraft materials
 - Lead engineer for three separate twelve-member teams charged with solving fleet-wide critical fracture issues at fuselage-wing attachment points for C-5, A-10, and KC-135 aircraft
 - Initiated $1.5M KC-135 research program to baseline fleet fatigue damage.  Results of teardown evaluation enabled a five-year fleet life extension and $2M annual savings in maintenance costs
 
-### Military Assistant to the Director - Air Force Research Laboratory - 2007-2008
+### Military Assistant to the Director (2007-2008)<br>Air Force Research Laboratory, Wright-Patterson AFB, OH
 
 - Oversees diverse processes for 1,200-person, $500M laboratory facilities to include four GSU's
 - Prepares/directs briefings, visits, and lab tours for senior-level DOD, industry and foreign dignitaries
 - Directed 1st AFRL Wargame Roadshow - Prioritized 150 research programs and $225M Science and technology budget for OSD Title 10 Wargame
 
-### Lead Materials Engineer - Aeronautical Systems Center - 2008-2010
+### Lead Materials Engineer (2008-2010)<br>Aeronautical Systems Center, Wright-Patterson AFB, OH
 
 - Wing lead for modernization and technology transition efforts on over 500 mobility aircraft
 - Provides expertise on sustainment requirements for over $44.5B in support systems acquisitions
@@ -139,9 +139,7 @@ Accomplished in planning and executing projects from concept through production,
 
 ### Phone
 
-- __Office:__ 
-    - comm (937) 255-3636 ext. 4676
-    - DSN 785-3636
+- __Office:__ 937.255.3636 ext. 4676 &nbsp;&nbsp;&nbsp; (DSN 785.3636)
 - __Mobile:__ (937) 430-6619
 
 ### Email
