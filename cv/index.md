@@ -4,11 +4,11 @@ title: Curriculum Vitae
 ---
 
 
-<center><small><a href="#education">Education</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
-<a href="#experience">Experience</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
-<a href="#publications">Publications</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;<a href="#awards">Awards</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;<a href="#certifications">Certifications</a>
+<center><small><a href="#education">Education</a>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+<a href="#experience">Experience</a>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+<a href="#publications">Publications</a>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;<a href="#awards">Awards</a>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;<a href="#certifications">Certifications</a>
 <br>
-<a href="#technical">Technical Strengths</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;<a href="#advising">Advising</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;<a href="#contact">Contact Information</a></small></center>
+<a href="#technical">Technical Strengths</a>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;<a href="#advising">Advising</a>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;<a href="#contact">Contact Information</a></small></center>
 
 
 
