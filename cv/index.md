@@ -20,12 +20,12 @@ title: Curriculum Vitae
 
 ****
 
-### Doctor of Philosphy in Systems Engineering (2013)<br>Air Force Institute of Technology 
+### Doctor of Philosphy in Systems Engineering <font align="right"><small>_2013_</small></font><br>Air Force Institute of Technology 
 
 - Areas of Concentration: System Reliability, Statistics
 - __Dissertation:__ "Modeling Reliability Growth in Accelerated Stress Testing"
 
-### Masters of Science in Materials Science and Engineering (2006)<br>Air Force Institute of Technology
+### Masters of Science in Materials Science and Engineering <font align="right">_2006_</font><br>Air Force Institute of Technology
 
 - Areas of Concentration: Structural Composite Materials
 - __Thesis:__ "Modeling Fracture in Z-Pinned Composite Laminated using DYNA-3D"
