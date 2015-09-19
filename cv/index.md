@@ -114,25 +114,20 @@ __BS (Aerospace Engineering) Auburn University - 1996-2000__
 ****
 Accomplished in planning and executing projects from concept through production, with strong problem-solving skills.  Highly organized and detail oriented, demonstrating accomplishments and expertise in:
 
-<div class="container">
-   <div class="column-center">Column center</div>
-   <div class="column-left">Column left</div>
-   <div class="column-right">Column right</div>
-</div>
 
-&#10004; Composites/Bonded Materials
-&#10004; Reliability Engineering
-&#10004; Structural Design
+&#10004; Reliability Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&#10004; Composite Materials&nbsp;&nbsp;&nbsp;
+&#10004; Structural Designs
 
 
+&#10004; Maintainability Methods&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&#10004; Statistical Analysis&nbsp;&nbsp;&nbsp;
 &#10004; Materials Processing
-&#10004; Statistical Analysis
-&#10004; Structural Repair Methods
 
 
-&#10004; Aircraft Damage Assessment
-&#10004; Team Leadership
-&#10004; Manufacturing Methods
+&#10004; Aircraft Damage Assessment&nbsp;&nbsp;&nbsp;
+&#10004; Manufacturing Methods&nbsp;&nbsp;&nbsp;
+&#10004; Computer Programming
 
 ****
 
