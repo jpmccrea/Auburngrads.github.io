@@ -29,8 +29,8 @@ title: Maj Jason K Freels, Ph.D
 - Aircraft Battle Damage Repair, Assessor Course, 649 CLSS, Hill AFB, UT
 - Aircraft Battle Damage Repair, Engineer Course, 649 CLSS, Hill AFB, UT
 - Advanced Composites Engineering Course, USAF Advanced Composites Office, UT
-- Air Force Materiel Command – Supply Chain Management Course, Air University, AL
-- DAWIA Certifications – SPRDE (Level III); Program Management (Level II); Test and Evaluation (Level I)
+- Air Force Materiel Command - Supply Chain Management Course, Air University, AL
+- DAWIA Certifications - SPRDE (Level III); Program Management (Level II); Test and Evaluation (Level I)
 
 ****
 
@@ -39,7 +39,7 @@ title: Maj Jason K Freels, Ph.D
 - J. K. Freels, J. J. Pignatiello, R. L. Warr, and R. R. Hill (2013), "Bridging the Gap Between Quantitative and Qualitative Accelerated Life Tests", Quality and Reliability Engineering International, to appear.
 - J. K. Freels, J. J. Pignatiello, R. L. Warr, and R. R. Hill (2013), "Maximum Likelihood Estimation for the Poly Weibull Distribution", Reliability Engineering and System Safety, under review.
 - H. Kilic, S. R. Soni, R. Patel, and J. K. Freels, "Effect of Z-Fiber Percentage on the Fracture Behavior of DCB Specimens in Mode I," The 14th International Conference on Computational & Experimental Engineering and Sciences, ICCES'07, 3-8 January, 2007, Miami, FL, USA.
-- D. H. Collins, J. K. Freels, A. V. Huzurbazar, R. L. Warr, and B. P. Weaver, "Accelerated Test Methods for Reliability Prediction". Los Alamos National Lab TSC Directorate Science Highlights, 134–135, LA-UR-12-20429 (2012).
+- D. H. Collins, J. K. Freels, A. V. Huzurbazar, R. L. Warr, and B. P. Weaver, "Accelerated Test Methods for Reliability Prediction". Los Alamos National Lab TSC Directorate Science Highlights, 134-135, LA-UR-12-20429 (2012).
 
 ****
 
