@@ -3,8 +3,8 @@ layout: page
 title: Curriculum Vitae 
 ---
 <br>
-# <u>Maj Jason K Freels, Ph.D</u>
-### Air Force Institute of Technology<br>Assistant Professor of Systems Engineering<br>School of Systems Engineering and Management
+# <u>Maj Jason K. Freels, Ph.D.</u><br>Assistant Professor of Systems Engineering
+### Air Force Institute of Technology<br>School of Systems Engineering and Management
 
 ****
 
