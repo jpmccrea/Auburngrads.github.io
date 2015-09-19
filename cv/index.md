@@ -8,7 +8,7 @@ title: Curriculum Vitae
 <a href="#experience">Experience</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;
 <a href="#publications">Publications</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;<a href="#awards">Awards</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;<a href="#certifications">Certifications</a>
 <br>
-<a href="#technical">Technical Strengths</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;<a href="#service">Service</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;<a href="#references">References</a></small></center>
+<a href="#technical">Technical Strengths</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;<a href="#advising">Advising</a>&nbsp;&nbsp;&#9900;&nbsp;&nbsp;<a href="#contact">Contact Information</a></small></center>
 
 
 
@@ -31,6 +31,8 @@ title: Curriculum Vitae
 - __Thesis:__ "Modeling Fracture in Z-Pinned Composite Laminated using DYNA-3D"
 
 __BS (Aerospace Engineering) Auburn University - 1996-2000__
+
+****
 
 # <center>Experience<a name="experience"></a></center>
 
@@ -79,6 +81,10 @@ __BS (Aerospace Engineering) Auburn University - 1996-2000__
 - Advanced Composites Engineering Course, USAF Advanced Composites Office, UT
 - Air Force Materiel Command - Supply Chain Management Course, Air University, AL
 - DAWIA Certifications - SPRDE (Level III); Program Management (Level II); Test and Evaluation (Level I)
+- Member: American Society for Quality
+- Member IEEE Reliability Society
+
+****
 
 # <center>Publications<a name="publications"></a></center>
 
@@ -90,6 +96,7 @@ __BS (Aerospace Engineering) Auburn University - 1996-2000__
 - H. Kilic, S. R. Soni, R. Patel, and J. K. Freels, "Effect of Z-Fiber Percentage on the Fracture Behavior of DCB Specimens in Mode I," The 14th International Conference on Computational & Experimental Engineering and Sciences, ICCES'07, 3-8 January, 2007, Miami, FL, USA.
 - D. H. Collins, J. K. Freels, A. V. Huzurbazar, R. L. Warr, and B. P. Weaver, "Accelerated Test Methods for Reliability Prediction". Los Alamos National Lab TSC Directorate Science Highlights, 134-135, LA-UR-12-20429 (2012).
 
+****
 
 # <center>Awards & Honors<a name="awards"></a></center>
 
@@ -99,14 +106,42 @@ __BS (Aerospace Engineering) Auburn University - 1996-2000__
 - Lead engineer for AFMC's Supply Chain Management Team of the Year (2002)
 - Tech expert for Aeronautical System Center 2009 Team of the Year (Finalist)
 
+
 ****
 
-### Memberships
-- American Society for Quality
-- IEEE Reliability Society
+# <center>Technical Strengths<a name="technical"></a></center>
 
-### Contact Information
-- 2950 Hobson Way, WPAFB, OH 45433-7765
-- 937.255.3636 x4676 (work)
-- 937.430.6619 (cell)
-- Email: <jason.freels@afit.edu>
+****
+Accomplished in planning and executing projects from concept through production, with strong problem-solving skills.  Highly organized and detail oriented, demonstrating accomplishments and expertise in:
+
+&#10004;Composites/Bonded Materials
+&#10004;Reliability Engineering
+&#10004;Structural Design
+&#10004Materials Processing
+&#10004Statistical Analysis
+&#10004Structural Repair Methods
+&#10004Aircraft Damage Assessment
+&#10004Team Leadership
+&#10004Manufacturing Methods
+
+****
+
+# <center>Contact Information<a name="contact"></a></center>
+
+****
+
+### Mailing Address
+
+- Maj Jason Freels<br>Air Force Institute of Technology<br>Department of Systems Engineering and Management<br>2950 Hobson Way, Bldg. 640, Rm. 103<br>WPAFB, OH 45433-7765
+
+### Phone
+
+- __Office:__ 
+    - comm (937) 255-3636 ext. 4676
+    - DSN 785-3636
+- __Mobile:__ (937) 430-6619
+
+### Email
+
+- <jason.freels@afit.edu>
+- <auburngrads@live.com>
