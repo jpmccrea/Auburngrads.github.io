@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: null 
+title: null
 ---
 
 Air Force Institute of Technology
