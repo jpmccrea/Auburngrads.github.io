@@ -139,8 +139,8 @@ __Mailing Address__
 
 __Phone__
 
-- __Office:__ &nbsp;937.255.3636 &nbsp;&nbsp;ext. 4676 &nbsp;&nbsp;&nbsp; (DSN 785.3636)
-- __Mobile:__ 937.430.6619
+- __Office:__ &nbsp;&nbsp;&nbsp;937.255.3636 &nbsp;&nbsp;ext. 4676 &nbsp;&nbsp;&nbsp; (DSN 785.3636)
+- __Mobile:__ &nbsp;937.430.6619
 
 __Email__
 
