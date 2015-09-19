@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Maj Jason K Freels, Ph.D
+title: Curriculum Vitae 
 ---
-
+<br>
+# <u>Maj Jason K Freels, Ph.D</u>
 ### Air Force Institute of Technology<br>Assistant Professor of Systems Engineering<br>School of Systems Engineering and Management
 
 ****
@@ -48,12 +49,13 @@ title: Maj Jason K Freels, Ph.D
 - Lead engineer for AFMC's Supply Chain Management Team of the Year (2002)
 - Tech expert for Aeronautical System Center 2009 Team of the Year (Finalist)
 
+****
+
 ### Memberships
 - American Society for Quality
 - IEEE Reliability Society
 
 ### Contact Information
-
 - 2950 Hobson Way, WPAFB, OH 45433-7765
 - 937.255.3636 x4676 (work)
 - 937.430.6619 (cell)
