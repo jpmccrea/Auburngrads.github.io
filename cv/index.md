@@ -96,11 +96,11 @@ title: null
 
 ****
 
-- D. H. Collins, J. K. Freels, A. V. Huzurbazar, R. L. Warr, and B. P. Weaver (2013),"Accelerated Test Methods for Reliability Prediction",Journal of Quality Technology, 45, No. 3, 244-259.
-- J. K. Freels, J. J. Pignatiello, R. L. Warr, and R. R. Hill (2013),"Bridging the Gap Between Quantitative and Qualitative Accelerated Life Tests",Quality and Reliability Engineering International, to appear.
-- J. K. Freels, J. J. Pignatiello, R. L. Warr, and R. R. Hill (2013),"Maximum Likelihood Estimation for the Poly Weibull Distribution",Reliability Engineering and System Safety, under review.
-- H. Kilic, S. R. Soni, R. Patel, and J. K. Freels,"Effect of Z-Fiber Percentage on the Fracture Behavior of DCB Specimens in Mode I",The 14th International Conference on Computational & Experimental Engineering and Sciences, ICCES'07, 3-8 January, 2007, Miami, FL, USA.
-- D. H. Collins, J. K. Freels, A. V. Huzurbazar, R. L. Warr, and B. P. Weaver,"Accelerated Test Methods for Reliability Prediction",Los Alamos National Lab TSC Directorate Science Highlights, 134-135, LA-UR-12-20429 (2012).
+- D. H. Collins, __J. K. Freels__, A. V. Huzurbazar, R. L. Warr, and B. P. Weaver (2013), _"Accelerated Test Methods for Reliability Prediction"_ ,Journal of Quality Technology, 45, No. 3, 244-259.
+- __J. K. Freels__, J. J. Pignatiello, R. L. Warr, and R. R. Hill (2013), _"Bridging the Gap Between Quantitative and Qualitative Accelerated Life Tests"_ ,Quality and Reliability Engineering International, to appear.
+- __J. K. Freels__, J. J. Pignatiello, R. L. Warr, and R. R. Hill (2013), _"Maximum Likelihood Estimation for the Poly Weibull Distribution"_ ,Reliability Engineering and System Safety, under review.
+- H. Kilic, S. R. Soni, R. Patel, and __J. K. Freels__, _"Effect of Z-Fiber Percentage on the Fracture Behavior of DCB Specimens in Mode I"_ ,The 14th International Conference on Computational & Experimental Engineering and Sciences, ICCES'07, 3-8 January, 2007, Miami, FL, USA.
+- D. H. Collins, __J. K. Freels__, A. V. Huzurbazar, R. L. Warr, and B. P. Weaver, _"Accelerated Test Methods for Reliability Prediction"_ ,Los Alamos National Lab TSC Directorate Science Highlights, 134-135, LA-UR-12-20429 (2012).
 
 <small><a href="#">Go to top</a></small>
 
