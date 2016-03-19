@@ -6,7 +6,7 @@ title: Curriculum Vita
 
 <div class="container-fluid.main-container">
 
-<table border='0' style='width:90%; margin:0 5% 0 5%; font-size: 12px;'>
+<table style='width:100%; margin:0 0 0 5%; font-size: 14px;'>
 <tr><td align='left'>Maj Jason Freels</td><td align='right'><b>comm:</b> 937.255.3636 ext. 4676</td></tr>
 <tr><td align='left'>Air Force Institute of Technology</td><td align="right"><b>DSN:</b> 785.3636 </td></tr>
 <tr><td align="left">Dept. of Systems Engineering and Management</td><td align="right"><b>cell:</b> 937.430.6619</td><tr>
