@@ -1,3 +1,4 @@
+markdown: kramdown
 pygments: null
 permalink: /:title
 
