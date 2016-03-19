@@ -45,7 +45,7 @@ hr,
 
 h1 {
 text-align: center;
-margin: 0 0 0 0; 
+margin: 0 0 15px 0; 
 
 }
 
@@ -120,7 +120,7 @@ footer {
 }
 
 /*============================================================================*/
-.azul { a { color: $azul-accent-color;
+.azul { a { color: $azul-accent-color; font-size: 16pt;
     &:hover { color: darken($azul-accent-color, 20%);
 }}}
 
