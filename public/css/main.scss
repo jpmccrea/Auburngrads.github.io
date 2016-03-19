@@ -80,10 +80,10 @@ p code {
 
 table {
   border-collapse: collapse;
-  border: 1px solid $contrast-color;
+  border: 0 solid $contrast-color;
 
   td, th {
-    border: 1px solid $contrast-color;
+    border: 0 solid $contrast-color;
     padding: 5px 10px;
   }
 
