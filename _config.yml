@@ -5,7 +5,7 @@ permalink: /:title
 url: jasonfreels.github.io
 baseurl:
 
-redcarpet:
+kramdown:
   extensions: [strikethrough, tables]
 
 sass:
