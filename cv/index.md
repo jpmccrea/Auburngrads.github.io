@@ -3,7 +3,6 @@ layout: page
 title: Curriculum Vita 
 ---
 
-<div class="container-fluid.main-container">
 
 <table style='width:100%; margin:0 0 0 5%; font-size: 22px; float: top;'>
 <tr><td align='left'>Maj Jason Freels</td><td align='right'><b>comm:</b> 937.255.3636 ext. 4676</td></tr>
