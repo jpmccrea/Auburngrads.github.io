@@ -26,6 +26,8 @@ title: Curriculum Vita
 </center>
 </font>
 
+<br>
+
 <hr>
 <h1> Education <a name="education"></a></h1>
 <hr>
@@ -58,7 +60,9 @@ Bacherlors of Science in Aerospace Engineering
 
 
 ****
+
 # Experience <a name="experience"></a>
+
 ****
 
 
