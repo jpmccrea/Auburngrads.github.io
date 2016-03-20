@@ -30,15 +30,15 @@ title: Curriculum Vita
 </center>
 </font>
 
-****
+<hr>
 # Education <a name="education"></a>
-****
+<hr>
 
 <big><font style="text-transform: uppercase;">
 Doctor of Philosophy in Systems Engineering
 </font></big>
 <br>
-__Air Force Institute of Technology__<span style="float:right;">___November 2013___</span>
+_Air Force Institute of Technology_<span style="float:right;">___November 2013___</span>
 
 - Areas of Concentration: System Reliability, Statistics
 
