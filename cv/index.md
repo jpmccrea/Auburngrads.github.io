@@ -3,7 +3,6 @@ layout: page
 title: Curriculum Vita 
 ---
 
-
 <div class="container-fluid.main-container">
 
 <table style='width:100%; margin:0 0 0 5%; font-size: 22px;'>
@@ -31,7 +30,7 @@ title: Curriculum Vita
 </font>
 
 <hr>
-# Education <a name="education"></a>
+# Education ## <a name="education"></a>
 <hr>
 
 <big><font style="text-transform: uppercase;">
@@ -62,7 +61,7 @@ Bacherlors of Science in Aerospace Engineering
 
 <hr>
 
-# Experience <a name="experience"></a>
+<h1> Experience <a name="experience"></a></h1>
 
 <hr>
 
@@ -123,7 +122,8 @@ Lead Materials Engineer
 
 <hr>
 
-# Professional Development and Certifications <a name="certifications"></a>
+<h1>Professional Development and Certifications</h1> <a name="certifications"></a>
+
 <hr>
 
 
