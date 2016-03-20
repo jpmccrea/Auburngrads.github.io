@@ -38,7 +38,7 @@ title: Curriculum Vita
 Doctor of Philosophy in Systems Engineering
 </font></big>
 <br>
-_Air Force Institute of Technology_<span style="float:right;">___November 2013___</span>
+*Air Force Institute of Technology*<span style="float:right;">***November 2013***</span>
 
 - Areas of Concentration: System Reliability, Statistics
 
@@ -60,9 +60,12 @@ Bacherlors of Science in Aerospace Engineering
 
 <small><a href="#">Go to top</a></small>
 
-****
+<hr>
+
 # Experience <a name="experience"></a>
-****
+
+<hr>
+
 
 <big><font style="text-transform: uppercase;">
 F-16 Lead Structural Engineer
@@ -118,9 +121,11 @@ Lead Materials Engineer
 
 <small><a href="#">Go to top</a></small>
 
-****
+<hr>
+
 # Professional Development and Certifications <a name="certifications"></a>
-****
+<hr>
+
 
 - Air Command and Staff College, Air University, Maxwell AFB, AL
 - Squadron Officer School, Air University, Maxwell AFB, AL
@@ -136,9 +141,11 @@ Lead Materials Engineer
 
 <small><a href="#">Go to top</a></small>
 
-****
+<hr>
+
 # Publications <a name="publications"></a>
-****
+<hr>
+
 
 - D. H. Collins, __J. K. Freels__, A. V. Huzurbazar, R. L. Warr, and B. P. Weaver (2013), _"Accelerated Test Methods for Reliability Prediction"_, Journal of Quality Technology, 45, No. 3, 244-259.
 
@@ -152,9 +159,11 @@ Lead Materials Engineer
 
 <small><a href="#">Go to top</a></small>
 
-****
+<hr>
+
 # Awards & Honors <a name="awards"></a>
-****
+<hr>
+
 
 - $10,000 IDEA award for innovative repair design for F-16 belly door
 
@@ -164,9 +173,11 @@ Lead Materials Engineer
 
 <small><a href="#">Go to top</a></small>
 
-****
+<hr>
+
 # Technical Strengths <a name="technical"></a>
-****
+<hr>
+
 
 Accomplished in planning and executing projects from concept through production, with strong problem-solving skills.  Highly organized and detail oriented, demonstrating accomplishments and expertise in:
 
@@ -192,4 +203,5 @@ Accomplished in planning and executing projects from concept through production,
 
 <small><a href="#">Go to top</a></small>
 
-****
+<hr>
+
