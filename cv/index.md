@@ -5,7 +5,7 @@ title: Curriculum Vita
 
 <div class="container-fluid.main-container">
 
-<table style='width:100%; margin:0 0 0 5%; font-size: 22px;'>
+<table style='width:100%; margin:0 0 0 5%; font-size: 22px; float: top;'>
 <tr><td align='left'>Maj Jason Freels</td><td align='right'><b>comm:</b> 937.255.3636 ext. 4676</td></tr>
 <tr><td align='left'>Air Force Institute of Technology</td><td align="right"><b>DSN:</b> 785.3636 </td></tr>
 <tr><td align="left">Dept. of Systems Engineering and Management</td><td align="right"><b>cell:</b> 937.430.6619</td><tr>
@@ -30,7 +30,7 @@ title: Curriculum Vita
 </font>
 
 <hr>
-# Education ## <a name="education"></a>
+<h1> Education <a name="education"></a></h1>
 <hr>
 
 <big><font style="text-transform: uppercase;">
@@ -122,7 +122,7 @@ Lead Materials Engineer
 
 <hr>
 
-<h1>Professional Development and Certifications</h1> <a name="certifications"></a>
+<h1>Professional Development and Certifications <a name="certifications"></a></h1>
 
 <hr>
 
@@ -143,7 +143,8 @@ Lead Materials Engineer
 
 <hr>
 
-# Publications <a name="publications"></a>
+<h1> Publications <a name="publications"></a></h1>
+
 <hr>
 
 
@@ -161,7 +162,8 @@ Lead Materials Engineer
 
 <hr>
 
-# Awards & Honors <a name="awards"></a>
+<h1> Awards & Honors <a name="awards"></a></h1>
+
 <hr>
 
 
@@ -174,8 +176,7 @@ Lead Materials Engineer
 <small><a href="#">Go to top</a></small>
 
 <hr>
-
-# Technical Strengths <a name="technical"></a>
+<h1> Technical Strengths <a name="technical"></a></h1>
 <hr>
 
 
