@@ -56,11 +56,10 @@ Bacherlors of Science in Aerospace Engineering
 
 <small><a href="#">Go to top</a></small>
 
-<hr>
 
-<h1> Experience <a name="experience"></a></h1>
-
-<hr>
+****
+# Experience <a name="experience"></a>
+****
 
 
 <big><font style="text-transform: uppercase;">
