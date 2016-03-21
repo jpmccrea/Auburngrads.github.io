@@ -3,6 +3,7 @@ layout: page
 title: null
 ---
 
+<font family='sans-serif'>
 # [__STAT 687 Math of Reliability I__](http://auburngrads.github.io/STAT-687)
 
 - Reliability models, reliability estimation, exponential and Weibull models, sequential life testing, Bayesian reliability in testing and design, goodness-of-fit tests, accelerated testing, reliability growth models.  
@@ -25,3 +26,4 @@ title: null
 # [Introduction to R Programming](http://auburngrads.github.io/R-Intro)
 
 - This is an introduction to the R programming language
+</font>
