@@ -2,16 +2,12 @@
 layout: page
 title: Curriculum Vita 
 ---
-
-
-<div class="container-fluid.main-container">
-
-<table style='width:100%; margin:0 0 0 5%; font-size: 22px;'>
+<table style='width:100%; margin:0 0 0 5%; font-size: 22px; float: top;'>
 <tr><td align='left'>Maj Jason Freels</td><td align='right'><b>comm:</b> 937.255.3636 ext. 4676</td></tr>
 <tr><td align='left'>Air Force Institute of Technology</td><td align="right"><b>DSN:</b> 785.3636 </td></tr>
-<tr><td align="left">Dept. of Systems Engineering and Management</td><td align="right"><b>cell:</b> 937.430.6619</td><tr>
-<tr><td align="left">2950 Hobson Way, Bldg. 640, Rm. 103</td><td align="right"> <b>Email:</b> jason.freels@afit.edu</td><tr>
-<tr><td align="left">WPAFB, OH 45433-7765</td><td align="right"> <b>URL:</b>  https://auburngrads.github.io</td><tr>
+<tr><td align="left">Dept. of Systems Engineering and Management</td><td align="right"><b>cell:</b> 937.430.6619</td></tr>
+<tr><td align="left">2950 Hobson Way, Bldg. 640, Rm. 103</td><td align="right"><b>Email:</b> <jason.freels@afit.edu></td></tr>
+<tr><td align="left">WPAFB, OH 45433-7765</td><td align="right"> <b>URL:</b>  <https://auburngrads.github.io></td></tr>
 </table>
 
 <br>
@@ -30,15 +26,17 @@ title: Curriculum Vita
 </center>
 </font>
 
-****
-# Education <a name="education"></a>
-****
+<br>
+
+<hr>
+<h1> Education <a name="education"></a></h1>
+<hr>
 
 <big><font style="text-transform: uppercase;">
 Doctor of Philosophy in Systems Engineering
 </font></big>
 <br>
-__Air Force Institute of Technology__<span style="float:right;">___November 2013___</span>
+*Air Force Institute of Technology*<span style="float:right;">***November 2013***</span>
 
 - Areas of Concentration: System Reliability, Statistics
 
@@ -60,9 +58,13 @@ Bacherlors of Science in Aerospace Engineering
 
 <small><a href="#">Go to top</a></small>
 
+
 ****
+
 # Experience <a name="experience"></a>
+
 ****
+
 
 <big><font style="text-transform: uppercase;">
 F-16 Lead Structural Engineer
@@ -118,9 +120,12 @@ Lead Materials Engineer
 
 <small><a href="#">Go to top</a></small>
 
-****
-# Professional Development and Certifications <a name="certifications"></a>
-****
+<hr>
+
+<h1>Professional Development and Certifications <a name="certifications"></a></h1>
+
+<hr>
+
 
 - Air Command and Staff College, Air University, Maxwell AFB, AL
 - Squadron Officer School, Air University, Maxwell AFB, AL
@@ -136,9 +141,12 @@ Lead Materials Engineer
 
 <small><a href="#">Go to top</a></small>
 
-****
-# Publications <a name="publications"></a>
-****
+<hr>
+
+<h1> Publications <a name="publications"></a></h1>
+
+<hr>
+
 
 - D. H. Collins, __J. K. Freels__, A. V. Huzurbazar, R. L. Warr, and B. P. Weaver (2013), _"Accelerated Test Methods for Reliability Prediction"_, Journal of Quality Technology, 45, No. 3, 244-259.
 
@@ -152,9 +160,12 @@ Lead Materials Engineer
 
 <small><a href="#">Go to top</a></small>
 
-****
-# Awards & Honors <a name="awards"></a>
-****
+<hr>
+
+<h1> Awards & Honors <a name="awards"></a></h1>
+
+<hr>
+
 
 - $10,000 IDEA award for innovative repair design for F-16 belly door
 
@@ -164,9 +175,10 @@ Lead Materials Engineer
 
 <small><a href="#">Go to top</a></small>
 
-****
-# Technical Strengths <a name="technical"></a>
-****
+<hr>
+<h1> Technical Strengths <a name="technical"></a></h1>
+<hr>
+
 
 Accomplished in planning and executing projects from concept through production, with strong problem-solving skills.  Highly organized and detail oriented, demonstrating accomplishments and expertise in:
 
@@ -192,4 +204,5 @@ Accomplished in planning and executing projects from concept through production,
 
 <small><a href="#">Go to top</a></small>
 
-****
+<hr>
+

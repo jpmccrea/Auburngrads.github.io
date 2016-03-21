@@ -1,11 +1,11 @@
-markdown: redcarpet
+markdown: kramdown
 pygments: null
 permalink: /:title
 
 url: jasonfreels.github.io
 baseurl:
 
-redcarpet:
+kramdown:
   extensions: [strikethrough, tables]
 
 sass:
