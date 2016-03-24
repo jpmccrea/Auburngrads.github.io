@@ -1,6 +1,6 @@
 ---
 layout: page
-title: null
+title: Courses
 ---
 
 # [__STAT 687 - Math of Reliability I__](http://stat-687.github.io/summer-2016)
