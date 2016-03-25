@@ -2,6 +2,9 @@
 layout: page
 title: Curriculum Vita 
 ---
+
+<link href="cv.css" type="text/css" rel="stylesheet">
+
 <table style='width:100%; margin:0 0 0 5%; font-size: 22px; float: top;'>
 <tr><td align='left'>Maj Jason Freels</td><td align='right'><b>comm:</b> 937.255.3636 ext. 4676</td></tr>
 <tr><td align='left'>Air Force Institute of Technology</td><td align="right"><b>DSN:</b> 785.3636 </td></tr>
