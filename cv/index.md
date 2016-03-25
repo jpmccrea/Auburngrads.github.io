@@ -6,7 +6,7 @@ title: Curriculum Vita
 <tr><td align='left'>Maj Jason Freels</td><td align='right'><b>comm:</b> 937.255.3636 ext. 4676</td></tr>
 <tr><td align='left'>Air Force Institute of Technology</td><td align="right"><b>DSN:</b> 785.3636 </td></tr>
 <tr><td align="left">Dept. of Systems Engineering and Management</td><td align="right"><b>cell:</b> 937.430.6619</td></tr>
-<tr><td align="left">2950 Hobson Way, Bldg. 640, Rm. 103</td><td align="right"><b>Email:</b> - Email: <a href="mailto:jason.freels@afit.edu target="_top"><b>jason.freels@afit.edu</b></a></td></tr>
+<tr><td align="left">2950 Hobson Way, Bldg. 640, Rm. 103</td><td align="right"><b>Email:</b> <a href="mailto:jason.freels@afit.edu"><b>jason.freels@afit.edu</b></a></td></tr>
 <tr><td align="left">WPAFB, OH 45433-7765</td><td align="right"> <b>Website:</b>  <a target="_blank" href="http://auburngrads.github.io"><b>http://auburngrads.github.io</b></a></td></tr>
 </table>
 
