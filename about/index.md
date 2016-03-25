@@ -3,7 +3,9 @@ layout: page
 title: About Me
 ---
 
-<center><img src='family.jpg' style='width: 310px; height: 221px;'></center>
+<center><img src='family.jpg' style='width: 620px; height: 442px;'></center>
+
+I'm an analytics enthusiast who enjoys producing high quality, reproducible analytic approaches to real world problems.  I believe in a methodical approach that provides fundamental understanding of the problem through the application of descriptive, predictive, and prescriptive analytic techniques.
 
 <font style="font-size:20pt; font-weight: bold;">
 <center>
@@ -20,8 +22,6 @@ title: About Me
 # Rocket Scientist <a name="rocket"></a>
 
 ****
-
-I'm an analytics enthusiast who enjoys producing high quality, reproducible analytic approaches to real world problems.  I believe in a methodical approach that provides fundamental understanding of the problem through the application of descriptive, predictive, and prescriptive analytic techniques.
 
 Currently, I am an Operations Research Analyst at HQ Air Force Materiel Command, Studies and Analyses Division (HQ AFMC/A9) at Wright-Patterson AFB and have performed analytic services to the Air Force via multiple roles since 2003.  My research primarily focuses on strategic cost analytics to provide senior leadership robust understanding of economic behavior across the Air Force enterprise.  
 
