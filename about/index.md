@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-<center><img src='family.jpg'></center>
+<center><img src='family.jpg' style='width: 310px; height: 221px;'></center>
 
 <font style="font-size:20pt; font-weight: bold;">
 <center>
