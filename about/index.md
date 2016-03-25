@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-<center><img src='family.jpg' style='width: 620px; height: 442px;'></center>
+<center><img src='family.jpg' style='width: 442px; height: 442px;'></center>
 
 I'm an analytics enthusiast who enjoys producing high quality, reproducible analytic approaches to real world problems.  I believe in a methodical approach that provides fundamental understanding of the problem through the application of descriptive, predictive, and prescriptive analytic techniques.
 
