@@ -120,7 +120,7 @@ footer {
 }
 
 /*============================================================================*/
-.azul { a { color: $azul-accent-color; font-size: 16pt;
+.azul { a { color: $azul-accent-color; font-size: 18pt; text-transform: uppercase;
     &:hover { color: darken($azul-accent-color, 20%);
 }}}
 
