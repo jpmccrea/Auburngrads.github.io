@@ -2,6 +2,8 @@
   
   font-family: 'serif';
 }
-  azul { a { color: $azul-accent-color; font-size: 16pt; text-transform: none;
-    &:hover { color: darken($azul-accent-color, 20%);
-}}}
+
+a { 
+    font-size: 16pt; 
+    text-transform: none;
+}
