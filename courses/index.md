@@ -23,7 +23,7 @@ title: Courses
 
 # [<big>__RSCH 630 - Research Methods__</big>](http://auburngrads.github.io/rsch-630)
 
-- Reliability models, reliability estimation, exponential and Weibull models, sequential life testing, Bayesian reliability in testing and design, goodness-of-fit tests, accelerated testing, reliability growth models.  
+- A research methods course is an important foundational course for any graduate program.  This course is intended to expose stdents to a wide array of techniques to help streamline their research process
 
     - __Instructional Method:__ Lecture
     - __Credit Hours:__ 4
