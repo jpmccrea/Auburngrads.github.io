@@ -5,6 +5,8 @@ title: Courses
 
 <link href="courses.css" type="text/css" rel="stylesheet">
 
+<br/>
+
 # [<big>__STAT 687 - Math of Reliability I__</big>](http://auburngrads.github.io/stat-687)
 
 - Reliability models, reliability estimation, exponential and Weibull models, sequential life testing, Bayesian reliability in testing and design, goodness-of-fit tests, accelerated testing, reliability growth models.  
@@ -14,7 +16,7 @@ title: Courses
     - __Prerequisites:__ STAT-602 
     - __Terms Offered:__ Summer  
 
-<br/>
+<br/><hr>
 
 # [<big>__SENG 585 - Reliability in System Design__</big>](http://auburngrads.github.io/seng-585)
 
