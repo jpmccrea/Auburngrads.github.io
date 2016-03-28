@@ -16,7 +16,8 @@ title: Courses
     - __Prerequisites:__ STAT-602 
     - __Terms Offered:__ Summer  
 
-<br/><hr>
+<br/>
+<hr>
 
 # [<big>__SENG 585 - Reliability in System Design__</big>](http://auburngrads.github.io/seng-585)
 
