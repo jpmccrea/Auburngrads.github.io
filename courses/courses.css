@@ -8,6 +8,7 @@
 }
 
 hr {
+  display: block;
   width: 80%;
   border: solid 2px black;
   padding: 10px 0 10px 0;
