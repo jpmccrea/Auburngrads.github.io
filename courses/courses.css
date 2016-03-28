@@ -12,5 +12,6 @@ hr {
   border: solid 1px gray;
   margin: 40px 0 40px 0;
   background: none;
+  height: 0;
   
 }
