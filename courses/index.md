@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Courses
-css: courses.css
 ---
+
+<link href="courses.css" type="text/css" rel="stylesheet">
 
 # [<big>__STAT 687 - Math of Reliability I__</big>](http://auburngrads.github.io/stat-687)
 
