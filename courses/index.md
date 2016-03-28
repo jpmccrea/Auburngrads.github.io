@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Courses
+title: My Courses
 ---
 
 <link href="courses.css" type="text/css" rel="stylesheet">
