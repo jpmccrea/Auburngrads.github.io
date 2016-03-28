@@ -35,6 +35,8 @@ title: Courses
 
 # [<big>__RSCH 630 - Research Methods__</big>](http://auburngrads.github.io/rsch-630)
 
+<hr>
+
 - A research methods course is an important foundational course for any graduate program.  This course is intended to expose stdents to a wide array of techniques to help streamline their research process
 
     - __Instructional Method:__ Lecture
