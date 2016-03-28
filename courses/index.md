@@ -27,7 +27,7 @@ title: Courses
     - __Prerequisites:__ STAT-583 
     - __Terms Offered:__ Winter  
 
-<br/>
+<hr>
 
 # [<big>__RSCH 630 - Research Methods__</big>](http://auburngrads.github.io/rsch-630)
 
@@ -38,7 +38,7 @@ title: Courses
     - __Prerequisites:__ STAT-525, STAT-587, or permission of the instructor 
     - __Terms Offered:__ Winter, Spring  
 
-<br/>
+<hr>
 
 # [<big>__Introduction to R Programming__</big>](http://auburngrads.github.io/r-intro)
 
