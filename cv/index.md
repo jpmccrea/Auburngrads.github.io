@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vita 
 ---
 
-<a style="position: fixed; bottom:5px;left:5px;" href="#" title="Go to the top">Back to Top</a>
+<a style="position: fixed; bottom:5px;left:25px; font-size:14px; font-weight:bold;" href="#" title="Go to the top">Back to Top</a>
 
 <link href="cv.css" type="text/css" rel="stylesheet">
 
@@ -77,9 +77,6 @@ __Test Science Research Consortium__<span style="float:right;">___September 2013
 
 <h2>Grants, Contracts, and Special Projects</h2>
 
-<small><a href="#">Go to top</a></small>
-
-
 # Other Experience <a name="other"></a>
 
 ## United States Air Force
@@ -136,14 +133,10 @@ __Aeronautical Systems Center - Wright-Patterson AFB, OH__<span style="float:rig
 - Air Force Materiel Command - Supply Chain Management Course, Air University, AL
 - DAWIA Certifications - SPRDE (Level III); Program Management (Level II); Test and Evaluation (Level I)
 
-<small><a href="#">Go to top</a></small>
-
 # Professional Associations and Certifications <a name="certifications"></a>
 
 - Member: American Society for Quality
 - Member IEEE Reliability Society
-
-<small><a href="#">Go to top</a></small>
 
 # Publications <a name="publications"></a>
 
@@ -185,8 +178,6 @@ __Aeronautical Systems Center - Wright-Patterson AFB, OH__<span style="float:rig
 
 ## Short Courses
 
-<small><a href="#">Go to top</a></small>
-
 # Awards and Honors <a name="awards"></a>
 
 - Lead engineer for Aeronautical System Center 2009 Team of the Year (Finalist)
@@ -194,5 +185,3 @@ __Aeronautical Systems Center - Wright-Patterson AFB, OH__<span style="float:rig
 - $10,000 <u>IDEA Award</u> for innovative repair design for F-16 belly door
 
 - Lead engineer for AFMC's Supply Chain Management Team of the Year (2002)
-
-<small><a href="#">Go to top</a></small>
