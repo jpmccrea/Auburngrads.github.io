@@ -18,7 +18,7 @@ title: Curriculum Vita
 <font style="font-size:14pt; font-weight: bold;">
 <center>
 <small>
-<a href="#education">Education</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;
+<a href="#academic">Academic Experience</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;
 <a href="#experience">Experience</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;
 <a href="#publications">Publications</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;<a href="#awards">Awards</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;
 <a href="#certifications">Certifications</a>
@@ -32,8 +32,10 @@ title: Curriculum Vita
 <br>
 
 <hr>
-<h1> Education <a name="education"></a></h1>
+<h1>Academic Experience<a name="academic"></a></h1>
 <hr>
+
+<h2>Degrees Held</h2>
 
 <big><font style="text-transform: uppercase;">
 Doctor of Philosophy in Systems Engineering
@@ -151,15 +153,27 @@ Lead Materials Engineer
 <hr>
 
 
-- D. H. Collins, __J. K. Freels__, A. V. Huzurbazar, R. L. Warr, and B. P. Weaver (2013), _"Accelerated Test Methods for Reliability Prediction"_, Journal of Quality Technology, 45, No. 3, 244-259.
+- Collins D. H., __Freels J. K.__, Huzurbazar A. V., Warr R. L., and Weaver B. P. (2013)<br/> _"Accelerated Test Methods for Reliability Prediction"_<br/> Journal of Quality Technology, 45, No. 3, 244-259.
 
-- __J. K. Freels__, J. J. Pignatiello, R. L. Warr, and R. R. Hill (2013), _"Bridging the Gap Between Quantitative and Qualitative Accelerated Life Tests"_, Quality and Reliability Engineering International, to appear.
+- __Freels J. K.__, Pignatiello J. J., Warr R. L., and Hill R. R. (2013)<br/> _"Bridging the Gap Between Quantitative and Qualitative Accelerated Life Tests"_<br/> Quality and Reliability Engineering International (to appear)
 
-- __J. K. Freels__, J. J. Pignatiello, R. L. Warr, and R. R. Hill (2013), _"Maximum Likelihood Estimation for the Poly Weibull Distribution"_, Reliability Engineering and System Safety, under review.
+- Collins D. H., __Freels J. K.__, Huzurbazar A. V., Warr R. L., and Weaver B. P. (2012)<br/> _"Accelerated Test Methods for Reliability Prediction"_, Los Alamos National Lab TSC Directorate Science Highlights, 134-135, LA-UR-12-20429 .
 
-- H. Kilic, S. R. Soni, R. Patel, and __J. K. Freels__, _"Effect of Z-Fiber Percentage on the Fracture Behavior of DCB Specimens in Mode I"_, The 14th International Conference on Computational & Experimental Engineering and Sciences, ICCES'07, 3-8 January, 2007, Miami, FL, USA.
+- __Freels J. K.__, Pignatiello J. J., Warr R. L., and Hill R. R. (2015)<br/>_"Maximum Likelihood Estimation for the Poly Weibull Distribution"_<br/> Quality Engineering (under review)
 
-- D. H. Collins, __J. K. Freels__, A. V. Huzurbazar, R. L. Warr, and B. P. Weaver, _"Accelerated Test Methods for Reliability Prediction"_, Los Alamos National Lab TSC Directorate Science Highlights, 134-135, LA-UR-12-20429 (2012).
+- Kilic H., Soni S. R., Patel R., and __Freels J. K.__, _"Effect of Z-Fiber Percentage on the Fracture Behavior of DCB Specimens in Mode I"_, The 14th International Conference on Computational & Experimental Engineering and Sciences, ICCES'07, 3-8 January, 2007, Miami, FL, USA.
+
+- __Freels J. K.__, Meeker W. Q., and Escobar L. A. (2017)<br/> _SMRD: Statistical methods for reliability data in R - software to accompany the text <u>Statistical Methods For Reliability Data</u>_<br/> R package version 1.0.0. 
+
+- __Freels J. K.__, Meeker W. Q., and Escobar L. A. (2017)<br/> _SMRD: An R package to accompany the text <u>Statistical Methods For Reliability Data</u>_<br/> The R Journal 
+
+- __Freels J. K.__, Meeker W. Q., and Escobar L. A. (2017)<br/> _SMRD: An R package for comprehensive life-data analysis using the methods presented in the text <u>Statistical Methods For Reliability Data</u>_<br/> Journal of Statistical Software 
+
+- __Freels J. K.__ (2017)<br/> _teachingApps: A collection of applications for teaching statistics, R programming, and shiny app development_<br/> R package version 1.0.0.
+
+- __Freels J. K.__ (2017)<br/> _teachingApps: A R package of example code for building over 100 shiny apps_<br/> The R Journal.
+
+- Meeker W. Q., Escobar L. A. and __Freels J. K.__(2018)<br/> _Statistical Methods for Reliability Data, 2nd ed._<br/>John Wiley and Sons, Inc.
 
 <small><a href="#">Go to top</a></small>
 
