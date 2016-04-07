@@ -39,38 +39,40 @@ title: Curriculum Vita
 <font style="text-transform: uppercase;">
 Doctor of Philosophy in Systems Engineering
 </font>
-*Air Force Institute of Technology*<span style="float:right;">***November 2013***</span>
+__Air Force Institute of Technology__<span style="float:right;">***November 2013***</span>
 
 - Areas of Concentration: System Reliability, Statistics
 - __Dissertation:__ "Modeling Reliability Growth in Accelerated Stress Testing"
 
-<h3 style="text-transform: uppercase;">
+<font style="text-transform: uppercase;">
 Masters of Science in Materials Science and Engineering
-</h3><br>__Air Force Institute of Technology__<span style="float:right;">___September 2006___</span>
+</font>
+__Air Force Institute of Technology__<span style="float:right;">___September 2006___</span>
 
 - Areas of Concentration: Structural Composite Materials
 - __Thesis:__ "Modeling Fracture in Z-Pinned Composite Laminated using DYNA-3D"
 
-<h4 style="text-transform: uppercase;">
+<font style="text-transform: uppercase;">
 Bacherlors of Science in Aerospace Engineering
-</h4><br>__Auburn University__<span style="float:right;">___December 2000___</span>
+</font>
+__Auburn University__<span style="float:right;">___December 2000___</span>
 
 <h2>Air Force Institute of Technology Record</h2>
 
-<h3 style="text-transform: uppercase;">
+<font style="text-transform: uppercase;">
 Assistant Professor
-</h3>
+</font>
 __Department of Systems Engineering and Management__<span style="float:right;">___September 2013___</span>
 
-<h4 style="text-transform: uppercase;">
+<font style="text-transform: uppercase;">
 Deputy Director
-</h4>
+</font>
 __Statistical Test and Analysis Techniques Center of Excellence__<span style="float:right;">___September 2013___</span>
 
 <font style="text-transform: uppercase;">
 Co-Primary Investigator
 </font>
-<br>__Test Science Research Consortium__<span style="float:right;">___September 2013___</span>
+__Test Science Research Consortium__<span style="float:right;">___September 2013___</span>
 
 <h2>Grants, Contracts, and Special Projects</h2>
 
@@ -79,61 +81,49 @@ Co-Primary Investigator
 
 # Other Experience <a name="other"></a>
 
+## United States Air Force
+
 <font style="text-transform: uppercase;">
 F-16 Lead Structural Engineer
 </font>
-<br>__Ogden Air Logistics Center - Hill AFB, UT__<span style="float:right;">___2001 - 2004___</span>
+__Ogden Air Logistics Center - Hill AFB, UT__<span style="float:right;">___2001 - 2004___</span>
 
 - Lead depot engineer supporting over 100 critical items used on 3,900 F-16's at 88 bases worldwide
-
 - Responsible for the design and implementation of modifications and repair procedures to reduce maintenance costs, eliminate mission delays and enhance the performance capabilities of the F-16
-
 - Lead F-16 engineer for Aircraft Battle Damage Repair (ABDR) mission; coordinates training activities, mentors trainees and evaluates battle damage repair procedures in ABDR exercises
-
 - Personally designed depot repairs resulted in over 100 F-16 wings and major wing structures returned to service-saved more than $8M
 
-<big><font style="text-transform: uppercase;">
+<font style="text-transform: uppercase;">
 Non-Destructive Evaluation Program Manager
-</font></big>
-<br>__Air Force Research Laboratory - Wright-Patterson AFB, OH__<span style="float:right;">___2006 - 2007___</span>
+</font>
+__Air Force Research Laboratory - Wright-Patterson AFB, OH__<span style="float:right;">___2006 - 2007___</span>
 
 - Directs R & D efforts and facilitates transition of novel non-destructive evaluation (NDE) technologies and techniques
-
 - Develops broad research plan for inspection and characterization of new aircraft materials
-
 - Lead engineer for three separate twelve-member teams charged with solving fleet-wide critical fracture issues at fuselage-wing attachment points for C-5, A-10, and KC-135 aircraft
-
 - Initiated $1.5M KC-135 research program to baseline fleet fatigue damage.  Results of teardown evaluation enabled a five-year fleet life extension and $2M annual savings in maintenance costs
 
-<big><font style="text-transform: uppercase;">
+<font style="text-transform: uppercase;">
 Military Assistant to the Director
-</font></big>
-<br>__Air Force Research Laboratory - Wright-Patterson AFB, OH__<span style="float:right;">___2007 - 2008___</span>
+</font>
+__Air Force Research Laboratory - Wright-Patterson AFB, OH__<span style="float:right;">___2007 - 2008___</span>
 
 - Oversees diverse processes for 1,200-person, $500M laboratory facilities to include four GSU's
-
 - Prepares/directs briefings, visits, and lab tours for senior-level DOD, industry and foreign dignitaries
-
 - Directed 1st AFRL Wargame Roadshow - Prioritized 150 research programs and $225M Science and technology budget for OSD Title 10 Wargame
 
-<big><font style="text-transform: uppercase;">
+<font style="text-transform: uppercase;">
 Lead Materials Engineer
-</font></big>
-<br>__Aeronautical Systems Center - Wright-Patterson AFB, OH__<span style="float:right;">___2008 - 2010___</span>
+</font>
+__Aeronautical Systems Center - Wright-Patterson AFB, OH__<span style="float:right;">___2008 - 2010___</span>
 
 - Wing lead for modernization and technology transition efforts on over 500 mobility aircraft
-
 - Provides expertise on sustainment requirements for over $44.5B in support systems acquisitions
-
 - Lead materials engineer in Bagram AB C-17 crash recovery effort, efforts led to the successful completion of aircraft ferry flight to depot 74 days early - saved $220M jet from scrapping
-
 - Led C-17 man-portable air defense system (MANPAD) survivability test program to reduce engine infrared signature by 75%.  Test results enabled a 42% increase in counter-measure effectiveness
-
 - Led PACAF engine corrosion field evaluation.  Tested and qualified novel engine inlet coating material, resulted in the elimination a 168-hour overhaul
 
-<small><a href="#">Go to top</a></small>
-
-# Professional Development, Associations and Certifications <a name="certifications"></a>
+## Professional Development
 
 - Air Command and Staff College, Air University, Maxwell AFB, AL
 - Squadron Officer School, Air University, Maxwell AFB, AL
@@ -144,6 +134,11 @@ Lead Materials Engineer
 - Advanced Composites Engineering Course, USAF Advanced Composites Office, UT
 - Air Force Materiel Command - Supply Chain Management Course, Air University, AL
 - DAWIA Certifications - SPRDE (Level III); Program Management (Level II); Test and Evaluation (Level I)
+
+<small><a href="#">Go to top</a></small>
+
+# Professional Associations and Certifications <a name="certifications"></a>
+
 - Member: American Society for Quality
 - Member IEEE Reliability Society
 
@@ -191,7 +186,7 @@ Lead Materials Engineer
 
 <small><a href="#">Go to top</a></small>
 
-# Awards & Honors <a name="awards"></a>
+# Awards and Honors <a name="awards"></a>
 
 - Lead engineer for Aeronautical System Center 2009 Team of the Year (Finalist)
 
