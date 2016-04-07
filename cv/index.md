@@ -31,20 +31,17 @@ title: Curriculum Vita
 
 <br>
 
-<hr>
-<h1>Academic Experience<a name="academic"></a></h1>
-<hr>
 
-<h2>Degrees Held</h2>
+<h1 style="text-transform: uppercase;">Academic Experience<a name="academic"></a></h1>
 
-<big><font style="text-transform: uppercase;">
-Doctor of Philosophy in Systems Engineering
-</font></big>
+
+<h2 style=''>Degrees Held</h2>
+
+<h3>Doctor of Philosophy in Systems Engineering</h3>
 <br>
 *Air Force Institute of Technology*<span style="float:right;">***November 2013***</span>
 
 - Areas of Concentration: System Reliability, Statistics
-
 - __Dissertation:__ "Modeling Reliability Growth in Accelerated Stress Testing"
 
 <big><font style="text-transform: uppercase;">
@@ -53,7 +50,6 @@ Masters of Science in Materials Science and Engineering
 <br>__Air Force Institute of Technology__<span style="float:right;">___September 2006___</span>
 
 - Areas of Concentration: Structural Composite Materials
-
 - __Thesis:__ "Modeling Fracture in Z-Pinned Composite Laminated using DYNA-3D"
 
 <big><font style="text-transform: uppercase;">
