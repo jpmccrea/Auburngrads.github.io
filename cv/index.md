@@ -44,30 +44,28 @@ Doctor of Philosophy in Systems Engineering
 - Areas of Concentration: System Reliability, Statistics
 - __Dissertation:__ "Modeling Reliability Growth in Accelerated Stress Testing"
 
-<font style="text-transform: uppercase;">
+<h3 style="text-transform: uppercase;">
 Masters of Science in Materials Science and Engineering
-</font>
-<br>__Air Force Institute of Technology__<span style="float:right;">___September 2006___</span>
+</h3><br>__Air Force Institute of Technology__<span style="float:right;">___September 2006___</span>
 
 - Areas of Concentration: Structural Composite Materials
 - __Thesis:__ "Modeling Fracture in Z-Pinned Composite Laminated using DYNA-3D"
 
-<font style="text-transform: uppercase;">
+<h4 style="text-transform: uppercase;">
 Bacherlors of Science in Aerospace Engineering
-</font>
-<br>__Auburn University__<span style="float:right;">___December 2000___</span>
+</h4><br>__Auburn University__<span style="float:right;">___December 2000___</span>
 
 <h2>Air Force Institute of Technology Record</h2>
 
-<font style="text-transform: uppercase;">
+<h3 style="text-transform: uppercase;">
 Assistant Professor
-</font>
-<br>__Department of Systems Engineering and Management__<span style="float:right;">___September 2013___</span>
+</h3>
+__Department of Systems Engineering and Management__<span style="float:right;">___September 2013___</span>
 
-<font style="text-transform: uppercase;">
+<h4 style="text-transform: uppercase;">
 Deputy Director
-</font>
-<br>__Statistical Test and Analysis Techniques Center of Excellence__<span style="float:right;">___September 2013___</span>
+</h4>
+__Statistical Test and Analysis Techniques Center of Excellence__<span style="float:right;">___September 2013___</span>
 
 <font style="text-transform: uppercase;">
 Co-Primary Investigator
