@@ -9,22 +9,21 @@ title: Curriculum Vita
 <tr><td align='left'>Maj Jason Freels</td><td align='right'><b>comm:</b> 937.255.3636 ext. 4676</td></tr>
 <tr><td align='left'>Air Force Institute of Technology</td><td align="right"><b>DSN:</b> 785.3636 </td></tr>
 <tr><td align="left">Dept. of Systems Engineering and Management</td><td align="right"><b>cell:</b> 937.430.6619</td></tr>
-<tr><td align="left">2950 Hobson Way, Bldg. 640, Rm. 103</td><td align="right"><b>Email:</b> <a href="mailto:jason.freels@afit.edu"><b>jason.freels@afit.edu</b></a></td></tr>
-<tr><td align="left">WPAFB, OH 45433-7765</td><td align="right"> <b>Website:</b>  <a target="_blank" href="http://auburngrads.github.io"><b>http://auburngrads.github.io</b></a></td></tr>
+<tr><td align="left">2950 Hobson Way, Bldg. 640, Rm. 103</td><td align="right"><b>email:</b> <a href="mailto:jason.freels@afit.edu"><b>jason.freels@afit.edu</b></a></td></tr>
+<tr><td align="left">WPAFB, OH 45433-7765</td><td align="right"> <b>url:</b>  <a target="_blank" href="http://auburngrads.github.io"><b>http://auburngrads.github.io</b></a></td></tr>
 </table>
 
 <br>
 
-<font style="font-size:14pt; font-weight: bold;">
+<font style="font-size:16pt !important; font-weight: bold;">
 <center>
 <small>
 <a href="#academic">Academic Experience</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;
 <a href="#other">Other Experience</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;
-<a href="#publications">Publications</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;<a href="#awards">Awards</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;
-<a href="#certifications">Certifications</a>
+<a href="#publications">Publications</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;<a href="#awards">Awards</a>
 <br>
 <a href="#proceedings">Proceedings & Presentations</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;
-<a href="#advising">Advising</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;<a href="#contact">Contact Information</a>
+<a href="#advising">Advising</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;<a href="#certifications">Certifications</a>
 </small>
 </center>
 </font>
