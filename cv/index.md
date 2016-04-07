@@ -3,6 +3,8 @@ layout: page
 title: Curriculum Vita 
 ---
 
+<a style="position: fixed; bottom:5px;left:5px;" href="#" title="Go to the top">Back to Top</a>
+
 <link href="cv.css" type="text/css" rel="stylesheet">
 
 <table style='width:100%; margin:0 0 0 5%; font-size: 22px; float: top;'>
@@ -173,7 +175,7 @@ __Aeronautical Systems Center - Wright-Patterson AFB, OH__<span style="float:rig
 
 <small><a href="#">Go to top</a></small>
 
-# Proceedings, Invited Presentations, and Short Courses<a name="proceedings"></a>
+# Proceedings and Presentations<a name="proceedings"></a>
 
 ## Conference Proceedings
 
