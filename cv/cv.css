@@ -7,3 +7,14 @@
     font-size: 16pt; 
     text-transform: none;
 }
+
+h1 {
+  
+  margin: 50px 0 50px 0;
+  
+}
+
+h2 {
+  
+  border-bottom: solid 1px;
+}

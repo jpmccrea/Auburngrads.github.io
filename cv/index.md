@@ -19,11 +19,11 @@ title: Curriculum Vita
 <center>
 <small>
 <a href="#academic">Academic Experience</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;
-<a href="#experience">Experience</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;
+<a href="#other">Other Experience</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;
 <a href="#publications">Publications</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;<a href="#awards">Awards</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;
 <a href="#certifications">Certifications</a>
 <br>
-<a href="#technical">Technical Strengths</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;
+<a href="#proceedings">Proceedings & Presentations</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;
 <a href="#advising">Advising</a>&nbsp;&nbsp;&#9679;&nbsp;&nbsp;<a href="#contact">Contact Information</a>
 </small>
 </center>
@@ -32,44 +32,59 @@ title: Curriculum Vita
 <br>
 
 
-<h1 style="text-transform: uppercase;">Academic Experience<a name="academic"></a></h1>
+<h1>Academic Experience<a name="academic"></a></h1>
 
+<h2>Education</h2>
 
-<h2 style=''>Degrees Held</h2>
-
-<h3>Doctor of Philosophy in Systems Engineering</h3>
+<font style="text-transform: uppercase;">
+Doctor of Philosophy in Systems Engineering
+</font>
 <br>
 *Air Force Institute of Technology*<span style="float:right;">***November 2013***</span>
 
 - Areas of Concentration: System Reliability, Statistics
 - __Dissertation:__ "Modeling Reliability Growth in Accelerated Stress Testing"
 
-<big><font style="text-transform: uppercase;">
+<font style="text-transform: uppercase;">
 Masters of Science in Materials Science and Engineering
-</font></big>
+</font>
 <br>__Air Force Institute of Technology__<span style="float:right;">___September 2006___</span>
 
 - Areas of Concentration: Structural Composite Materials
 - __Thesis:__ "Modeling Fracture in Z-Pinned Composite Laminated using DYNA-3D"
 
-<big><font style="text-transform: uppercase;">
+<font style="text-transform: uppercase;">
 Bacherlors of Science in Aerospace Engineering
-</font></big>
+</font>
 <br>__Auburn University__<span style="float:right;">___December 2000___</span>
+
+<h2>Air Force Institute of Technology Record</h2>
+
+<font style="text-transform: uppercase;">
+Assistant Professor
+</font>
+<br>__Department of Systems Engineering and Management__<span style="float:right;">___September 2013___</span>
+
+<font style="text-transform: uppercase;">
+Deputy Director
+</font>
+<br>__Statistical Test and Analysis Techniques Center of Excellence__<span style="float:right;">___September 2013___</span>
+
+<font style="text-transform: uppercase;">
+Co-Primary Investigator
+</font>
+<br>__Test Science Research Consortium__<span style="float:right;">___September 2013___</span>
+
+<h2>Grants, Contracts, and Special Projects</h2>
 
 <small><a href="#">Go to top</a></small>
 
 
-****
+# Other Experience <a name="other"></a>
 
-# Experience <a name="experience"></a>
-
-****
-
-
-<big><font style="text-transform: uppercase;">
+<font style="text-transform: uppercase;">
 F-16 Lead Structural Engineer
-</font></big>
+</font>
 <br>__Ogden Air Logistics Center - Hill AFB, UT__<span style="float:right;">___2001 - 2004___</span>
 
 - Lead depot engineer supporting over 100 critical items used on 3,900 F-16's at 88 bases worldwide
@@ -121,12 +136,7 @@ Lead Materials Engineer
 
 <small><a href="#">Go to top</a></small>
 
-<hr>
-
-<h1>Professional Development and Certifications <a name="certifications"></a></h1>
-
-<hr>
-
+# Professional Development, Associations and Certifications <a name="certifications"></a>
 
 - Air Command and Staff College, Air University, Maxwell AFB, AL
 - Squadron Officer School, Air University, Maxwell AFB, AL
@@ -142,12 +152,9 @@ Lead Materials Engineer
 
 <small><a href="#">Go to top</a></small>
 
-<hr>
+# Publications <a name="publications"></a>
 
-<h1> Publications <a name="publications"></a></h1>
-
-<hr>
-
+## Referreed Publications
 
 - Collins D. H., __Freels J. K.__, Huzurbazar A. V., Warr R. L., and Weaver B. P. (2013)<br/> _"Accelerated Test Methods for Reliability Prediction"_<br/> Journal of Quality Technology, 45, No. 3, 244-259.
 
@@ -155,9 +162,11 @@ Lead Materials Engineer
 
 - Collins D. H., __Freels J. K.__, Huzurbazar A. V., Warr R. L., and Weaver B. P. (2012)<br/> _"Accelerated Test Methods for Reliability Prediction"_, Los Alamos National Lab TSC Directorate Science Highlights, 134-135, LA-UR-12-20429 .
 
-- __Freels J. K.__, Pignatiello J. J., Warr R. L., and Hill R. R. (2015)<br/>_"Maximum Likelihood Estimation for the Poly Weibull Distribution"_<br/> Quality Engineering (under review)
+## Preprints and Submitted Papers
 
-- Kilic H., Soni S. R., Patel R., and __Freels J. K.__, _"Effect of Z-Fiber Percentage on the Fracture Behavior of DCB Specimens in Mode I"_, The 14th International Conference on Computational & Experimental Engineering and Sciences, ICCES'07, 3-8 January, 2007, Miami, FL, USA.
+- __Freels J. K.__, Pignatiello J. J., Warr R. L., and Hill R. R. (2015)<br/>_"Maximum Likelihood Estimation for the Poly Weibull Distribution"_<br/> Quality Engineering 
+
+## Works In-Preparation (with anticipated completion dates)
 
 - __Freels J. K.__, Meeker W. Q., and Escobar L. A. (2017)<br/> _SMRD: Statistical methods for reliability data in R - software to accompany the text <u>Statistical Methods For Reliability Data</u>_<br/> R package version 1.0.0. 
 
@@ -173,49 +182,24 @@ Lead Materials Engineer
 
 <small><a href="#">Go to top</a></small>
 
-<hr>
+# Proceedings, Invited Presentations, and Short Courses<a name="proceedings"></a>
 
-<h1> Awards & Honors <a name="awards"></a></h1>
+## Conference Proceedings
 
-<hr>
+- Kilic H., Soni S. R., Patel R., and __Freels J. K.__, _"Effect of Z-Fiber Percentage on the Fracture Behavior of DCB Specimens in Mode I"_, The 14th International Conference on Computational & Experimental Engineering and Sciences, ICCES'07, 3-8 January, 2007, Miami, FL, USA.
 
+## Invited Presentations
 
-- $10,000 IDEA award for innovative repair design for F-16 belly door
+## Short Courses
+
+<small><a href="#">Go to top</a></small>
+
+# Awards & Honors <a name="awards"></a>
+
+- Lead engineer for Aeronautical System Center 2009 Team of the Year (Finalist)
+
+- $10,000 <u>IDEA Award</u> for innovative repair design for F-16 belly door
 
 - Lead engineer for AFMC's Supply Chain Management Team of the Year (2002)
 
-- Tech expert for Aeronautical System Center 2009 Team of the Year (Finalist)
-
 <small><a href="#">Go to top</a></small>
-
-<hr>
-<h1> Technical Strengths <a name="technical"></a></h1>
-<hr>
-
-
-Accomplished in planning and executing projects from concept through production, with strong problem-solving skills.  Highly organized and detail oriented, demonstrating accomplishments and expertise in:
-
-<table style="width:80%; margin:20px 10% 0 10%;font-size: 12pt;">
-<tr>
-<td>&#10004; Reliability Engineering</td>
-<td>&#10004; Composite Materials</td>
-<td>&#10004; Structural Designs</td>
-</tr>
-
-<tr>
-<td>&#10004; Maintainability Methods</td>
-<td>&#10004; Statistical Analysis</td>
-<td>&#10004; Materials Processing</td>
-</tr>
-
-<tr>
-<td>&#10004; Aircraft Damage Assessment</td>
-<td>&#10004; Manufacturing Methods</td>
-<td>&#10004; Computer Programming</td>
-</tr>
-</table>
-
-<small><a href="#">Go to top</a></small>
-
-<hr>
-

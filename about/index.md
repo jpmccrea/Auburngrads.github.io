@@ -40,3 +40,32 @@ I am from Minnesota but have lived in North Dakota, Colorado, Iowa, and have bee
 # Data Scientist <a name="data"></a>
 
 ****
+
+<hr>
+<h1> Technical Strengths <a name="technical"></a></h1>
+<hr>
+
+
+Accomplished in planning and executing projects from concept through production, with strong problem-solving skills.  Highly organized and detail oriented, demonstrating accomplishments and expertise in:
+
+<table style="width:80%; margin:20px 10% 0 10%;font-size: 12pt;">
+<tr>
+<td>&#10004; Reliability Engineering</td>
+<td>&#10004; Composite Materials</td>
+<td>&#10004; Structural Designs</td>
+</tr>
+
+<tr>
+<td>&#10004; Maintainability Methods</td>
+<td>&#10004; Statistical Analysis</td>
+<td>&#10004; Materials Processing</td>
+</tr>
+
+<tr>
+<td>&#10004; Aircraft Damage Assessment</td>
+<td>&#10004; Manufacturing Methods</td>
+<td>&#10004; Computer Programming</td>
+</tr>
+</table>
+
+<small><a href="#">Go to top</a></small>
