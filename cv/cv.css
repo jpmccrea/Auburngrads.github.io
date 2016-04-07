@@ -8,10 +8,13 @@
     text-transform: none;
 }
 
+.top-navbar a {
+  text-transform: uppercase !important;  
+}
+
 h1 {
   text-transform: uppercase;
   margin: 50px 0 50px 0;
-  
 }
 
 h2 {

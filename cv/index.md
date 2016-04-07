@@ -38,7 +38,8 @@ title: Curriculum Vita
 
 <font style="text-transform: uppercase;">
 Doctor of Philosophy in Systems Engineering
-</font><br>*Air Force Institute of Technology*<span style="float:right;">***November 2013***</span>
+</font>
+*Air Force Institute of Technology*<span style="float:right;">***November 2013***</span>
 
 - Areas of Concentration: System Reliability, Statistics
 - __Dissertation:__ "Modeling Reliability Growth in Accelerated Stress Testing"
