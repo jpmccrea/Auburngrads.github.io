@@ -1,0 +1,114 @@
+---
+title: "impossible"
+author: "Maj Jason Freels"
+date: "April 7, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Set up the initial `data.frame`, denoted here by `omega`.
+
+1) List each possible value 
+```{r}
+num1  <- rep(1:9, each = 9) 
+num2  <- rep(1:9, 9)
+omega <- data.frame(num1, num2)
+omega <- omega[-seq(1,81,10),]
+```
+
+2) Remove duplicate outcomes. Since the outcomes $(2,3)$ and $(3,2)$ are equivalent only one of them should be retained
+```{r}
+omega <- unique(t(apply(omega, 1, sort)))
+```
+
+3) Add the `sum` and `product` columns to `omega`
+```{r}
+omega <- transform(omega, sum = omega[,1]+omega[,2], prod = omega[,1]*omega[,2])
+```
+
+## Round $1$
+
+```{r}
+omega_sum <- omega[order(omega$sum),]
+
+reps  <- omega_sum[,3]*as.numeric(duplicated(omega_sum[,3]))
+reps  <- unique(reps[reps > 0])
+
+omega <- omega_sum[omega_sum[,3]%in%reps,] ; omega
+```
+
+
+```{r}
+omega_prod <- omega[order(omega$prod),]
+
+reps  <- omega_prod[,4]*as.numeric(duplicated(omega_prod[,4]))
+reps  <- unique(reps[reps > 0])
+
+omega <- omega_prod[omega_prod[,4]%in%reps,] ; omega
+```
+
+## Round $2$
+
+```{r}
+omega_sum <- omega[order(omega$sum),]
+
+reps  <- omega_sum[,3]*as.numeric(duplicated(omega_sum[,3]))
+reps  <- unique(reps[reps > 0])
+
+omega <- omega_sum[omega_sum[,3]%in%reps,] ; omega
+```
+
+
+```{r}
+omega_prod <- omega[order(omega$prod),]
+
+reps  <- omega_prod[,4]*as.numeric(duplicated(omega_prod[,4]))
+reps  <- unique(reps[reps > 0])
+
+omega <- omega_prod[omega_prod[,4]%in%reps,] ; omega
+```
+
+## Round $3$
+
+```{r}
+omega_sum <- omega[order(omega$sum),]
+
+reps  <- omega_sum[,3]*as.numeric(duplicated(omega_sum[,3]))
+reps  <- unique(reps[reps > 0])
+
+omega <- omega_sum[omega_sum[,3]%in%reps,] ; omega
+```
+
+
+```{r}
+omega_prod <- omega[order(omega$prod),]
+
+reps  <- omega_prod[,4]*as.numeric(duplicated(omega_prod[,4]))
+reps  <- unique(reps[reps > 0])
+
+omega <- omega_prod[omega_prod[,4]%in%reps,] ; omega
+```
+
+## Round $4$
+
+```{r}
+omega_sum <- omega[order(omega$sum),]
+
+reps  <- omega_sum[,3]*as.numeric(duplicated(omega_sum[,3]))
+reps  <- unique(reps[reps > 0])
+
+omega <- omega_sum[omega_sum[,3]%in%reps,] ; omega
+```
+
+
+```{r}
+omega_prod <- omega[order(omega$prod),]
+
+reps  <- omega_prod[,4]*as.numeric(duplicated(omega_prod[,4]))
+reps  <- unique(reps[reps > 0])
+
+omega <- omega_prod[omega_prod[,4]%in%reps,] ; omega
+```
