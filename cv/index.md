@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vita 
 ---
 
-<a style="position: fixed; bottom:5px;left:25px; font-size:14px; font-weight:bold; color:#f7f7f7; padding:0 5px; border: solid thin blue; border-radius: 10px; background-color: blue;" href="#" title="Go to the top">Back to Top</a>
+<a style="position: fixed; bottom:5px;left:25px; font-size:14px; font-weight:bold; color:#f7f7f7; padding:0 5px; border: solid thin #cc5500; border-radius: 10px; background-color: #cc5500;" href="#" title="Go to the top">Back to Top</a>
 
 <link href="cv.css" type="text/css" rel="stylesheet">
 
