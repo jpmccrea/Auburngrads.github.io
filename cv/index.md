@@ -146,13 +146,17 @@ __Aeronautical Systems Center - Wright-Patterson AFB, OH__<span style="float:rig
 
 - __Freels J. K.__, Pignatiello J. J., Warr R. L., and Hill R. R. (2013)<br/> _"Bridging the Gap Between Quantitative and Qualitative Accelerated Life Tests"_<br/> Quality and Reliability Engineering International (to appear)
 
-- Collins D. H., __Freels J. K.__, Huzurbazar A. V., Warr R. L., and Weaver B. P. (2012)<br/> _"Accelerated Test Methods for Reliability Prediction"_, Los Alamos National Lab TSC Directorate Science Highlights, 134-135, LA-UR-12-20429 .
+- Collins D. H., __Freels J. K.__, Huzurbazar A. V., Warr R. L., and Weaver B. P. (2012)<br/> _"Accelerated Test Methods for Reliability Prediction"_<br/> Los Alamos National Lab TSC Directorate Science Highlights, 134-135, LA-UR-12-20429.
 
 ## Preprints and Submitted Papers
 
-- __Freels J. K.__, Pignatiello J. J., Warr R. L., and Hill R. R. (2015)<br/>_"Maximum Likelihood Estimation for the Poly Weibull Distribution"_<br/> Quality Engineering 
+- __Freels J. K.__, Pignatiello J. J., Warr R. L., and Hill R. R. (2016)<br/>_"Maximum Likelihood Estimation for the Poly Weibull Distribution"_<br/> Quality Engineering
 
-## Works In-Preparation (with anticipated completion dates)
+- __Freels J. K.__, Pignatiello J. J., Warr R. L., and Hill R. R. (2016)<br/>_"Simplified Modeling of the N-Fold Weibull Distribution"_<br/> Quality and Reliability Engineering International 
+
+## Works In-Preparation (anticipated completion date)
+
+- Deering P. R., __Freels J. K.__, and Valencia V. V. (2017)<br/> _Modeling Air Force civil infrastructure: A comparison of stochastic process models_<br/> ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering.
 
 - __Freels J. K.__, Meeker W. Q., and Escobar L. A. (2017)<br/> _SMRD: Statistical methods for reliability data in R - software to accompany the text <u>Statistical Methods For Reliability Data</u>_<br/> R package version 1.0.0. 
 
@@ -160,9 +164,11 @@ __Aeronautical Systems Center - Wright-Patterson AFB, OH__<span style="float:rig
 
 - __Freels J. K.__, Meeker W. Q., and Escobar L. A. (2017)<br/> _SMRD: An R package for comprehensive life-data analysis using the methods presented in the text <u>Statistical Methods For Reliability Data</u>_<br/> Journal of Statistical Software 
 
-- __Freels J. K.__ (2017)<br/> _teachingApps: A collection of applications for teaching statistics, R programming, and shiny app development_<br/> R package version 1.0.0.
+- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _teachingApps: A collection of applications for teaching statistics, R programming, and shiny app development_<br/> R package version 1.0.0.
 
-- __Freels J. K.__ (2017)<br/> _teachingApps: A R package of example code for building over 100 shiny apps_<br/> The R Journal.
+- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _teachingApps: A R package of example code for building over 100 shiny apps_<br/> The R Journal.
+
+- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _teachingApps: A new way to share shiny apps_<br/> The Journal of Statitics Education.
 
 - Meeker W. Q., Escobar L. A. and __Freels J. K.__(2018)<br/> _Statistical Methods for Reliability Data, 2nd ed._<br/>John Wiley and Sons, Inc.
 
