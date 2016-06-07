@@ -102,8 +102,6 @@ Member - External Discovery Sub-Committee
 </font>
 __AFIT Quality Initiative Program__<span style="float:right;">___June 2016___</span>
 
-
-
 # Other Experience <a name="other"></a>
 
 ## United States Air Force
@@ -201,13 +199,13 @@ __Aeronautical Systems Center - Wright-Patterson AFB, OH__<span style="float:rig
 
 - Meeker W. Q., Escobar L. A. and __Freels J. K.__(2018)<br/> _Statistical Methods for Reliability Data, 2nd ed._<br/>John Wiley and Sons, Inc.
 
-<small><a href="#">Go to top</a></small>
-
 # Proceedings and Presentations<a name="proceedings"></a>
 
 ## Conference Proceedings
 
-- Kilic H., Soni S. R., Patel R., and __Freels J. K.__, _"Effect of Z-Fiber Percentage on the Fracture Behavior of DCB Specimens in Mode I"_, The 14th International Conference on Computational & Experimental Engineering and Sciences, ICCES'07, 3-8 January, 2007, Miami, FL, USA.
+- Holm, E.S., Valencia, V.V., Thal, A.E., __Freels, J.K.__,Badiru, A.B. (2016)<br/>_Materials Testing and Cost Modeling for Composite Parts through Additive Manufacturing_<br/>Paper presented at the 13th Annual Acquisition Research Symposium, Monterrey, CA, May 2 – 4.
+
+- Kilic H., Soni S. R., Patel R., and __Freels J. K.__ (2007)<br/>_Effect of Z-Fiber Percentage on the Fracture Behavior of DCB Specimens in Mode I_<br/>The 14th International Conference on Computational & Experimental Engineering and Sciences, Miami, FL, USA.
 
 ## Invited Presentations
 
