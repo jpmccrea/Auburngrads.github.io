@@ -75,7 +75,34 @@ Co-Primary Investigator
 </font>
 __Test Science Research Consortium__<span style="float:right;">___September 2013___</span>
 
+<font style="text-transform: uppercase;">
+Member - External Discovery Sub-Committee
+</font>
+__AFIT Quality Initiative Program__<span style="float:right;">___June 2016___</span>
+
 <h2>Grants, Contracts, and Special Projects</h2>
+
+<font style="text-transform: uppercase;">
+Assistant Professor
+</font>
+__Department of Systems Engineering and Management__<span style="float:right;">___September 2013___</span>
+
+<font style="text-transform: uppercase;">
+Deputy Director
+</font>
+__Statistical Test and Analysis Techniques Center of Excellence__<span style="float:right;">___September 2013___</span>
+
+<font style="text-transform: uppercase;">
+Co-Primary Investigator
+</font>
+__Test Science Research Consortium__<span style="float:right;">___September 2013___</span>
+
+<font style="text-transform: uppercase;">
+Member - External Discovery Sub-Committee
+</font>
+__AFIT Quality Initiative Program__<span style="float:right;">___June 2016___</span>
+
+
 
 # Other Experience <a name="other"></a>
 
