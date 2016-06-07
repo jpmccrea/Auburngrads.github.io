@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vita 
+title: Curriculum Vita
 ---
 
 <a style="position: fixed; bottom:5px;left:25px; font-size:14px; font-weight:bold; color:#f7f7f7; padding:0 5px; border: solid thin #cc5500; border-radius: 10px; background-color: #cc5500;" href="#" title="Go to the top">Back to Top</a>
@@ -144,9 +144,9 @@ __Aeronautical Systems Center - Wright-Patterson AFB, OH__<span style="float:rig
 
 - R. M. Vandawaker, D. R. Jacques, __J. K. Freels__ (2015)<br/>_"Impact of Prognostic Uncertainty in System Health Monitoring"_<br/>International Journal of Prognostics and Health Management: Vol 6 (Special Issue Uncertainty in PHM) 011 
 
-- Collins D. H., __Freels J. K.__, Huzurbazar A. V., Warr R. L., and Weaver B. P. (2013)<br/> _"Accelerated Test Methods for Reliability Prediction"_<br/> Journal of Quality Technology, 45, No. 3, 244-259.
+- __J. K. Freels,__, J. J. Pignatiello, R. L. Warr,and R. R. Hill (2015)<br/>_"Bridging the Gap between Quantitative and Qualitative Accelerated Life Tests"_<br/>Quality and Reliability Engineering International, 31: 789–800. doi: 10.1002/qre.1636
 
-- __Freels J. K.__, Pignatiello J. J., Warr R. L., and Hill R. R. (2013)<br/> _"Bridging the Gap Between Quantitative and Qualitative Accelerated Life Tests"_<br/> Quality and Reliability Engineering International (to appear)
+- Collins D. H., __Freels J. K.__, Huzurbazar A. V., Warr R. L., and Weaver B. P. (2013)<br/> _"Accelerated Test Methods for Reliability Prediction"_<br/> Journal of Quality Technology, 45, No. 3, 244-259.
 
 - Collins D. H., __Freels J. K.__, Huzurbazar A. V., Warr R. L., and Weaver B. P. (2012)<br/> _"Accelerated Test Methods for Reliability Prediction"_<br/> Los Alamos National Lab TSC Directorate Science Highlights, 134-135, LA-UR-12-20429.
 
