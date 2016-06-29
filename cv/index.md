@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vita 
+title: Curriculum Vita
 ---
 
 <a style="position: fixed; bottom:5px;left:25px; font-size:14px; font-weight:bold; color:#f7f7f7; padding:0 5px; border: solid thin #cc5500; border-radius: 10px; background-color: #cc5500;" href="#" title="Go to the top">Back to Top</a>
@@ -102,8 +102,6 @@ Member - External Discovery Sub-Committee
 </font>
 __AFIT Quality Initiative Program__<span style="float:right;">___June 2016___</span>
 
-
-
 # Other Experience <a name="other"></a>
 
 ## United States Air Force
@@ -171,9 +169,9 @@ __Aeronautical Systems Center - Wright-Patterson AFB, OH__<span style="float:rig
 
 - R. M. Vandawaker, D. R. Jacques, __J. K. Freels__ (2015)<br/>_"Impact of Prognostic Uncertainty in System Health Monitoring"_<br/>International Journal of Prognostics and Health Management: Vol 6 (Special Issue Uncertainty in PHM) 011 
 
-- Collins D. H., __Freels J. K.__, Huzurbazar A. V., Warr R. L., and Weaver B. P. (2013)<br/> _"Accelerated Test Methods for Reliability Prediction"_<br/> Journal of Quality Technology, 45, No. 3, 244-259.
+- __J. K. Freels,__, J. J. Pignatiello, R. L. Warr,and R. R. Hill (2015)<br/>_"Bridging the Gap between Quantitative and Qualitative Accelerated Life Tests"_<br/>Quality and Reliability Engineering International, 31: 789–800. doi: 10.1002/qre.1636
 
-- __Freels J. K.__, Pignatiello J. J., Warr R. L., and Hill R. R. (2013)<br/> _"Bridging the Gap Between Quantitative and Qualitative Accelerated Life Tests"_<br/> Quality and Reliability Engineering International (to appear)
+- Collins D. H., __Freels J. K.__, Huzurbazar A. V., Warr R. L., and Weaver B. P. (2013)<br/> _"Accelerated Test Methods for Reliability Prediction"_<br/> Journal of Quality Technology, 45, No. 3, 244-259.
 
 - Collins D. H., __Freels J. K.__, Huzurbazar A. V., Warr R. L., and Weaver B. P. (2012)<br/> _"Accelerated Test Methods for Reliability Prediction"_<br/> Los Alamos National Lab TSC Directorate Science Highlights, 134-135, LA-UR-12-20429.
 
@@ -217,13 +215,13 @@ R package version 1.0.0.
 
 - Meeker W. Q., Escobar L. A. and __Freels J. K.__(2018)<br/> _Statistical Methods for Reliability Data, 2nd ed._<br/>John Wiley and Sons, Inc.
 
-<small><a href="#">Go to top</a></small>
-
 # Proceedings and Presentations<a name="proceedings"></a>
 
 ## Conference Proceedings
 
-- Kilic H., Soni S. R., Patel R., and __Freels J. K.__, _"Effect of Z-Fiber Percentage on the Fracture Behavior of DCB Specimens in Mode I"_, The 14th International Conference on Computational & Experimental Engineering and Sciences, ICCES'07, 3-8 January, 2007, Miami, FL, USA.
+- Holm, E.S., Valencia, V.V., Thal, A.E., __Freels, J.K.__,Badiru, A.B. (2016)<br/>_Materials Testing and Cost Modeling for Composite Parts through Additive Manufacturing_<br/>Paper presented at the 13th Annual Acquisition Research Symposium, Monterrey, CA, May 2 – 4.
+
+- Kilic H., Soni S. R., Patel R., and __Freels J. K.__ (2007)<br/>_Effect of Z-Fiber Percentage on the Fracture Behavior of DCB Specimens in Mode I_<br/>The 14th International Conference on Computational & Experimental Engineering and Sciences, Miami, FL, USA.
 
 ## Invited Presentations
 
