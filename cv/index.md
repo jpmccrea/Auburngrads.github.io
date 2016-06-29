@@ -179,6 +179,9 @@ __Aeronautical Systems Center - Wright-Patterson AFB, OH__<span style="float:rig
 
 ## Preprints and Submitted Papers
 
+- Vandawaker R. M., Jacques D. R., __Freels J. K.__, Ryan E., and Huscroft J. (2016)<br/> _"Health Monitoring Impact on Non-Repairable Component Supply Methods"_<br/> 
+Journal of Quality in Maintenance Engineering
+
 - __Freels J. K.__, Pignatiello J. J., Warr R. L., and Hill R. R. (2016)<br/>_"Maximum Likelihood Estimation for the Poly Weibull Distribution"_<br/> Quality Engineering
 
 - __Freels J. K.__, Pignatiello J. J., Warr R. L., and Hill R. R. (2016)<br/>_"Simplified Modeling of the N-Fold Weibull Distribution"_<br/> Quality and Reliability Engineering International 
@@ -187,9 +190,10 @@ __Aeronautical Systems Center - Wright-Patterson AFB, OH__<span style="float:rig
 
 - Deering P. R., __Freels J. K.__, and Valencia V. V. (2017)<br/> _Modeling Air Force civil infrastructure: A comparison of stochastic process models_<br/> ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering.
 
-- __Freels J. K.__, Meeker W. Q., and Escobar L. A. (2017)<br/> _SMRD: Statistical methods for reliability data in R - software to accompany the text <u>Statistical Methods For Reliability Data</u>_<br/> R package version 1.0.0. 
+- __Freels J. K.__, Meeker W. Q., and Escobar L. A. (2017)<br/> _SMRD: A new package for comprehensive statistical methods for reliability data_<br/> 
+R package version 1.0.0. 
 
-- __Freels J. K.__, Meeker W. Q., and Escobar L. A. (2017)<br/> _SMRD: An R package to accompany the text <u>Statistical Methods For Reliability Data</u>_<br/> The R Journal 
+- __Freels J. K.__, Meeker W. Q., and Escobar L. A. (2017)<br/> _SMRD: Statistical methods to accompany the text <u>Statistical Methods For Reliability Data</u>_<br/> The R Journal 
 
 - __Freels J. K.__, Meeker W. Q., and Escobar L. A. (2017)<br/> _SMRD: An R package for comprehensive life-data analysis using the methods presented in the text <u>Statistical Methods For Reliability Data</u>_<br/> Journal of Statistical Software 
 
@@ -198,6 +202,18 @@ __Aeronautical Systems Center - Wright-Patterson AFB, OH__<span style="float:rig
 - __Freels J. K.__ and Boehmke B. R. (2017)<br/> _teachingApps: A R package of example code for building over 100 shiny apps_<br/> The R Journal.
 
 - __Freels J. K.__ and Boehmke B. R. (2017)<br/> _teachingApps: A new way to share shiny apps_<br/> The Journal of Statitics Education.
+
+- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _AFIT: A package of templates for AFIT theses and dissertations and various journal articles_<br/> R package version 1.0.0.
+
+- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _AFIT: A R package of example code for building over 100 shiny apps_<br/> The R Journal.
+
+- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _learningCurve: A package of templates for AFIT theses and dissertations and various journal articles_<br/> R package version 1.0.0.
+
+- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _learningCurve: A R package of example code for building over 100 shiny apps_<br/> The R Journal.
+
+- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _evmR: A package of templates for AFIT theses and dissertations and various journal articles_<br/> R package version 1.0.0.
+
+- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _evmR: A R package of example code for building over 100 shiny apps_<br/> The R Journal.
 
 - Meeker W. Q., Escobar L. A. and __Freels J. K.__(2018)<br/> _Statistical Methods for Reliability Data, 2nd ed._<br/>John Wiley and Sons, Inc.
 
