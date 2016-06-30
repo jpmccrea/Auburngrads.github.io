@@ -186,9 +186,9 @@ Journal of Quality in Maintenance Engineering
 
 ## Works In-Preparation (anticipated completion date)
 
-<font style="text-transform: uppercase;">
+<p style="text-transform: uppercase; font-size:115%; font-weight:bold; padding-top:10px;">
 Referreed Journal Articles
-</font>
+<p>
 
 - Deering P. R., __Freels J. K.__, and Valencia V. V. (2017)<br/> _Modeling Air Force civil infrastructure: A comparison of stochastic process models_<br/> ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering.
 
@@ -196,9 +196,9 @@ Referreed Journal Articles
 
 - __Freels J. K.__, Meeker W. Q., and Escobar L. A. (2017)<br/> _SMRD: Comprehensive life-data analysis in R</u>_<br/> Journal of Statistical Software 
 
-- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _teachingApps: Example code for building over 200 shiny apps_<br/> The R Journal.
+- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _teachingApps: A new package for building, and sharing shiny apps_<br/> The R Journal.
 
-- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _teachingApps: A how-to manual for building, and sharing Shiny apps_<br/> The Journal of Statitics Education.
+- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _teachingApps: Easy A how-to manual for building, and sharing Shiny apps_<br/> The Journal of Statitics Education.
 
 - __Freels J. K.__ and Boehmke B. R. (2017)<br/> _AFIT: A R package of document templates for theses, dissertaions, and journal articles_<br/> The R Journal.
 
@@ -206,18 +206,22 @@ Referreed Journal Articles
 
 - __Freels J. K.__ and Boehmke B. R. (2017)<br/> _evmR: A R package of example code for building over 100 shiny apps_<br/> The R Journal.
 
-<font style="text-transform: uppercase;">
+<p style="text-transform: uppercase; font-size:115%; font-weight:bold;padding-top:10px;">
 Books and Book Chapters
-</font>
+</p>
 
 - Meeker W. Q., Escobar L. A. and __Freels J. K.__(2018)<br/> _Statistical Methods for Reliability Data, 2nd ed._<br/>John Wiley and Sons, Inc.
 
-- __Freels J. K.__, Meeker W. Q., and Escobar L. A. (2017)<br/> _SMRD: A new package for comprehensive statistical methods for reliability data_<br/> 
-R package version 1.0.0.
+<p style="text-transform: uppercase; font-size:115%; font-weight:bold;padding-top:10px;">
+Published Software
+</p>
 
-- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _teachingApps: A collection of applications for teaching statistics, R programming, and shiny app development_<br/> R package version 1.0.0.
+- __Freels J. K.__, Meeker W. Q., and Escobar L. A. (2017)<br/> _SMRD: A new package for comprehensive analysis of reliability and survivability data_<br/> 
+R package version 0.10.0.
 
-- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _AFIT: A package of templates for AFIT theses and dissertations and various journal articles_<br/> R package version 1.0.0.
+- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _teachingApps: Example apps for teaching statistics, R programming, and shiny development_<br/> R package version 1.0.0.
+
+- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _AFIT: Templates for AFIT theses and dissertations and various journal articles_<br/> R package version 1.0.0.
 
 - __Freels J. K.__ and Boehmke B. R. (2017)<br/> _learningCurve: A package of templates for AFIT theses and dissertations and various journal articles_<br/> R package version 1.0.0.
 
