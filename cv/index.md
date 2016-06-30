@@ -188,7 +188,7 @@ Journal of Quality in Maintenance Engineering
 
 <p style="text-transform: uppercase; font-size:115%; font-weight:bold; padding-top:10px;">
 Referreed Journal Articles
-<p>
+</p>
 
 - Deering P. R., __Freels J. K.__, and Valencia V. V. (2017)<br/> _Modeling Air Force civil infrastructure: A comparison of stochastic process models_<br/> ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering.
 
@@ -206,15 +206,15 @@ Referreed Journal Articles
 
 - __Freels J. K.__ and Boehmke B. R. (2017)<br/> _evmR: A R package of example code for building over 100 shiny apps_<br/> The R Journal.
 
-<p style="text-transform: uppercase; font-size:115%; font-weight:bold;padding-top:10px;">
+<font style="text-transform: uppercase; font-size:115%; font-weight:bold;padding-top:10px;">
 Books and Book Chapters
-</p>
+</font>
 
 - Meeker W. Q., Escobar L. A. and __Freels J. K.__(2018)<br/> _Statistical Methods for Reliability Data, 2nd ed._<br/>John Wiley and Sons, Inc.
 
-<div style="text-transform: uppercase; font-size:115%; font-weight:bold;padding-top:10px;">
+<font style="text-transform: uppercase; font-size:115%; font-weight:bold;padding-top:10px;">
 Published Software
-</div>
+</font>
 
 - __Freels J. K.__, Meeker W. Q., and Escobar L. A. (2017)<br/> _SMRD: A new package for comprehensive analysis of reliability and survivability data_<br/> 
 R package version 0.10.0.
