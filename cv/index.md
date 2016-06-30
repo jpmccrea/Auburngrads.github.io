@@ -212,9 +212,9 @@ Books and Book Chapters
 
 - Meeker W. Q., Escobar L. A. and __Freels J. K.__(2018)<br/> _Statistical Methods for Reliability Data, 2nd ed._<br/>John Wiley and Sons, Inc.
 
-<p style="text-transform: uppercase; font-size:115%; font-weight:bold;padding-top:10px;">
+<div style="text-transform: uppercase; font-size:115%; font-weight:bold;padding-top:10px;">
 Published Software
-</p>
+</div>
 
 - __Freels J. K.__, Meeker W. Q., and Escobar L. A. (2017)<br/> _SMRD: A new package for comprehensive analysis of reliability and survivability data_<br/> 
 R package version 0.10.0.
