@@ -206,6 +206,8 @@ Referreed Journal Articles
 
 - __Freels J. K.__ and Boehmke B. R. (2017)<br/> _evmR: A R package of example code for building over 100 shiny apps_<br/> The R Journal.
 
+- __Freels J. K.__ and Boehmke B. R. (2017)<br/> _publicLibs: A R package to find and manipulate data about U. S. Public Libraries_<br/> The R Journal.
+
 <p style="text-transform: uppercase; font-size:115%; font-weight:bold;padding-top:10px;">
 Books and Book Chapters
 </p>
